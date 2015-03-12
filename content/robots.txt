@@ -6,4 +6,4 @@ sitemap:
 ---
 User-agent: *
 Disallow:
-Sitemap: http://www.jaredhowland.com/sitemap.xml
+Sitemap: {{ site.url }}/sitemap.xml
