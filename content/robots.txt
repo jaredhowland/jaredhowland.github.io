@@ -1,0 +1,9 @@
+---
+layout: null
+permalink: /robots.txt
+sitemap:
+  exclude: 'yes'
+---
+User-agent: *
+Disallow:
+Sitemap: http://www.jaredhowland.com/sitemap.xml

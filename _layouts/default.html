@@ -1,0 +1,18 @@
+{% include head.html %}
+
+{% include header.html %}
+
+{% if page.kind %}
+  <section class="{{ page.kind }}">
+    {{ content }}
+  </section>
+{% else %}
+  <section>
+    {{ content }}
+  </section>
+{% endif %}
+
+{% include footer.html %}
+
+</body>
+</html>
