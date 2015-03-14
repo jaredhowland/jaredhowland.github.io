@@ -11,6 +11,7 @@ $brown:      #3A2F00;
 $orange:     #DB4105;
 $light-gray: #E6E6E6;
 $red:        #C00C00;
+$orange: $red;
 
 $body-color:       #444444;
 $body-color-muted: #CCCCCC;
@@ -67,9 +68,6 @@ table {
   caption {
     text-align: left;
     background: #FFFFFF;
-    strong {
-      background: #FFFFFF;
-    }
   }
   tbody {
     tr {
@@ -83,6 +81,7 @@ table {
 
 header {
   background-color: $light-gray;
+  color: $orange;
   @include padding(1 0 0 1);
   @include breakpoint(bp-2) {
     @include padding(1 0 0 2); // More padding for larger screen sizes
