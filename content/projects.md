@@ -19,7 +19,7 @@ I created a version of the library’s website optimized for use on an iPhone an
 
 ## [Mozilla Firefox Library Toolbar][4]
 
-I publicly released a [toolbar][5] for the Mozilla Firefox browser that allows patrons to search the library catalog and databases, reserve group study rooms, request materials through Interlibrary Loan and check library holdings from Amazon.com listings. <a class="watch btn" href="https://github.com/jaredhowland/HBLL-Toolbar"><i class="icon-github"></i> View Project on GitHub</a>
+I publicly released a [toolbar][4] for the Mozilla Firefox browser that allows patrons to search the library catalog and databases, reserve group study rooms, request materials through Interlibrary Loan and check library holdings from Amazon.com listings. <a class="watch btn" href="https://github.com/jaredhowland/HBLL-Toolbar"><i class="icon-github"></i> View Project on GitHub</a>
 
 [1]: {{ site.url }}/vita/#projects
 [2]: {{ site.url }}/presentations/redundant-journal-access/

@@ -15,14 +15,14 @@ author: "Jared Howland"
 email: "jared_howland@byu.edu"
 keywords: "'jared howland, vita, publications, presentations, projects'"
 description: "'This is the personal website of Jared Howland, librarian at Brigham Young University - Harold B. Lee Library.'"
-url: "http://www.jaredhowland.com"
+# url: "http://www.jaredhowland.com"
+url: "http://localhost:8888/jaredhowland.github.io/_site"
 ga-tracking-code: "UA-15180577-1"
 ga-domain-name: "jaredhowland.com"
 typekit-id: "bhp5uou"
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
@@ -32,3 +32,6 @@ sass:
   style: :compressed
 
 markdown: redcarpet
+
+redcarpet:
+  extensions: [smart]

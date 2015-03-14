@@ -51,16 +51,22 @@ Could not handle consortial purchases or historical prices very well
 ![Slide 6][6]
 
 * Before purchasing, determine the following based on your own library’s situation:
-  1. Accuracy of the knowledgebase
-  2. Price
-  3. Flexibility of the ERM (integration with public interface or not)
-  4. Importance of integration into the library’s ILS
-  5. Type of system
-    a. Stand alone vs Integrated
-    b. Proprietary vs Open source
-    c. Locally hosted vs Vendor hosted
-    d. Consortium/branches vs Single location
-    e. As a package vs ERM only
+    1. Accuracy of the knowledgebase
+    2. Price
+    3. Flexibility of the ERM (integration with public interface or not)
+    4. Importance of integration into the library’s ILS
+    5. Type of system
+
+        a. Stand alone vs Integrated
+
+        b. Proprietary vs Open source
+
+        c. Locally hosted vs Vendor hosted
+
+        d. Consortium/branches vs Single location
+
+        e. As a package vs ERM only
+
 * The more integrated the ERM is into existing workflows, the more successful you will be with using it
 
 ![Slide 7][7]
