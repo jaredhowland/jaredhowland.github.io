@@ -441,7 +441,7 @@ The data was then normalized to a maximum value of 10.
   </tbody>
 </table>
 
-*** Good Quality:** Citations reporting primary research results would be considered of higher quality than review articles or other types of articles. Citations from “scholarly” or peer-reviewed sources would be considered of higher quality than citations from “popular” or non-peer reviewed sources.
+<sup>*</sup> *Good Quality*: Citations reporting primary research results would be considered of higher quality than review articles or other types of articles. Citations from “scholarly” or peer-reviewed sources would be considered of higher quality than citations from “popular” or non-peer reviewed sources.
 
 ## Notes
 
