@@ -2,15 +2,15 @@
 ---
 // Fonts
 // -------------------------
-$body-font:    "minion-pro", "Minion Pro", "Hoefler Text", Georgia, serif;
+$body-font:    "Crimson Text", "Minion Pro", "Hoefler Text", Georgia, serif;
 $heading-font: $body-font;
 
 // Colors
 // -------------------------
-$brown:      rgb(58, 47, 0);
-$orange:     rgb(219, 65, 5);
-$light-gray: rgb(230, 230, 230);
-$red:        #c00;
+$brown:      #3A2F00;
+$orange:     #DB4105;
+$light-gray: #E6E6E6;
+$red:        #C00C00;
 
 $body-color:       #444444;
 $body-color-muted: #CCCCCC;
@@ -42,6 +42,10 @@ $link-underline-offset: 2px;
 
 // Custom styles
 // -------------------------
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
 img {
   max-width: 90%;
   height: auto;
@@ -70,8 +74,8 @@ table {
   tbody {
     tr {
       border: {
-        top: 1px solid rgb(204, 204, 204);
-        bottom: 1px solid rgb(204, 204, 204);
+        top: 1px solid #CCCCCC;
+        bottom: 1px solid #CCCCCC;
       };
     }
   }

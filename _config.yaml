@@ -18,7 +18,6 @@ description: "'This is the personal website of Jared Howland, librarian at Brigh
 url: "http://www.jaredhowland.com"
 ga-tracking-code: "UA-15180577-1"
 ga-domain-name: "jaredhowland.com"
-typekit-id: "bhp5uou"
 
 defaults:
   - scope:
