@@ -235,11 +235,13 @@ Finally, this study addressed undergraduate students only. More research is need
 * Take as much time as you need to compile a list of enough citations to journal articles to complete each hypothetical assignment to write a 10 page research paper. The citations will be copied as you see them on screen. They do not have to be in a particular format such as APA, MLA, Turabian, etc.
     * Do not include citations to books, videos, websites, etc.
     * A typical journal article citation looks something like this. (Some citations include an abstract or short summary such as this example. Others do not.)
+
 > The criminology of genocide: The death and rape of Darfur  
 > Hagan, J.; Rymond-Richmond, W.  
 > Criminology, vol. 43, no. 3, pp. 525–561, 2005  
 > This study examines Sudanese government involvement in the racially motivated murders of nearly 400,000 Africans from the Darfur region of Sudan. Data were obtained from a victimization survey of Darfurian survivors living in refugee camps in Chad…
-    * There is no set number of citations you need to gather. You alone determine what “enough citations” means. Simply gather a sufficient number of usable citations that you feel confident you would be able to complete each hypothetical assignment.
+
+  * There is no set number of citations you need to gather. You alone determine what “enough citations” means. Simply gather a sufficient number of usable citations that you feel confident you would be able to complete each hypothetical assignment.
 * When you find a citation you want to use, copy all of the citation information available on the screen for the journal article of interest.
     * Highlight text with your mouse as shown in picture 1 below.
     * Press CTRL+C as shown in picture 2 below to copy the highlighted text.
@@ -337,16 +339,16 @@ The data was then normalized to a maximum value of 10.
 3. **Average Timeliness:** The average timeliness of the articles in the citations submitted by each student was recorded.
 
 <ol style="list-style:lower-alpha;margin-left:5em;">
-    <li>0–1 years old = 10 points</li>
-    <li>2 years old = 9 points</li>
-    <li>3 years old = 8 points</li>
-    <li>4 years old = 7 points</li>
-    <li>5 years old = 6 points</li>
-    <li>6 years old = 5 points</li>
-    <li>7 years old = 4 points</li>
-    <li>8 years old = 3 points</li>
-    <li>9 years old = 2 points</li>
-    <li>≥ 10 years old = 1 point</li>
+  <li>0–1 years old = 10 points</li>
+  <li>2 years old = 9 points</li>
+  <li>3 years old = 8 points</li>
+  <li>4 years old = 7 points</li>
+  <li>5 years old = 6 points</li>
+  <li>6 years old = 5 points</li>
+  <li>7 years old = 4 points</li>
+  <li>8 years old = 3 points</li>
+  <li>9 years old = 2 points</li>
+  <li>≥ 10 years old = 1 point</li>
 </ol>
 
 ## Appendix E: Faculty-Approved Quality Rubric
