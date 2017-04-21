@@ -28,8 +28,3 @@ defaults:
 
 sass:
   style: :compressed
-
-markdown: redcarpet
-
-redcarpet:
-  extensions: [smart]
