@@ -23,6 +23,9 @@ Provo, <span class="caps">UT</span> 84602
 * Cultivate, maintain, and enrich relationships with library vendors and publishers
 * Negotiate access to needed content
 * Collaborate with subject librarians to ensure the library’s collections are as strong as possible
+* Provide analysis of the library’s myriad print and electronic collections
+* Coordinate work between technical services and library information technology employees
+* Oversee creation and maintenance of the library’s collection development and journal analysis databases
 
 ### 2011–2015 ###
 **Harold B. Lee Library**, Brigham Young University, Provo, <span class="caps">UT</span>
@@ -104,7 +107,7 @@ Provo, <span class="caps">UT</span> 84602
 
 ## Presentations ##
 
-### 2017 [Forthcoming]###
+### 2017 [Forthcoming] ###
 * **Large Journal Package Cancellations**, May 2017, poster presented at the Utah Library Association’s Annual Conference in Sandy, <span class="caps">UT</span> with Rebecca Boughan
 
 ### 2013 ###
@@ -212,15 +215,21 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 
 ### Current Assignments ###
 * 2012–Present: Web Working Group - Past Chair
-* 2009–Present: Ex Libris Management Committee - Member
-* 2005–Present: Collection Management and Development Committee - Member
+* 2015–Present: Steering Task Force on HBLL Building Plan Development - Member
+* 2016–Present: Library-wide Rank and Status Committee - Chair
+* 2016–Present: Collection Management and Development Committee - Chair
+* 2016–Present: Digital Preservation Committee - Member
+* 2016–Present: Services Management and Development Committee - Member
 
 ### Past Assignments ###
-* 2012–2014: Technical Services Rank and Status Committee - Member (Chair in 2013)
+* 2015–2016: Library-wide Rank and Status Committee - Member
+* 2012–2016: Library Systems Management Committee - Member
+* 2009–2016: Discovery Systems Management Committee- Member
 * 2009–2012: Web Working Group - Chair
 * 2009–2011: Blue Sky Group - Member
 * 2009–2010: Collection Development Database Project Team - Project Manager
-* 2008–2010: North American Serials Interest Group (NASIG) Program Planning Committee – Member
+* 2008–2010: North American Serials Interest Group (NASIG) Program Planning Committee - Member
+* 2005–2016: Collection Management and Development Committee - Member
 * 2004–2010: Information Literacy Committee - Member
 * 2006–2009: Web Working Group - Member
 * 2007–2009: Primo/MetaLib Implementation Team - Member
