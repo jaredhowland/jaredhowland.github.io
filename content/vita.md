@@ -14,7 +14,7 @@ Provo, <span class="caps">UT</span> 84602
 
 ## Work Experience ##
 
-### 20015–Present ###
+### 2015–Present ###
 **Harold B. Lee Library**, Brigham Young University, Provo, <span class="caps">UT</span>
 
 *Collection Development Coordinator*
