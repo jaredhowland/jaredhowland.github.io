@@ -8,7 +8,7 @@ permalink: /vita/
 
 ## Jared L. Howland ##
 Brigham Young University  
-6831 Harold B. Lee Library  
+2129 Harold B. Lee Library  
 Provo, <span class="caps">UT</span> 84602  
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
@@ -103,6 +103,9 @@ Provo, <span class="caps">UT</span> 84602
 * Howland, Jared L. and Wright, Thomas C. (2006). **Implementing an Electronic Resource Management System: Brigham Young University’s Experience**. *Library Hi Tech News*. 23(7): 28–31. DOI: [10.1108/07419050610704358][5].
 
 ## Presentations ##
+
+### 2017 [Forthcoming]###
+* **Large Journal Package Cancellations**, May 2017, poster presented at the Utah Library Association’s Annual Conference in Sandy, <span class="caps">UT</span> with Rebecca Boughan
 
 ### 2013 ###
 * **Licensing Business Resources**, June 2013, presented at the <span class="caps">RUSA</span> Preconference at the American Library Association Annual Conference in Chicago, <span class="caps">IL</span>
