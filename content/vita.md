@@ -14,15 +14,25 @@ Provo, <span class="caps">UT</span> 84602
 
 ## Work Experience ##
 
-### 2011–Present ###
+### 20015–Present ###
+**Harold B. Lee Library**, Brigham Young University, Provo, <span class="caps">UT</span>
+
+*Collection Development Coordinator*
+
+* Budget the library’s collection development funds
+* Cultivate, maintain, and enrich relationships with library vendors and publishers
+* Negotiate access to needed content
+* Collaborate with subject librarians to ensure the library’s collections are as strong as possible
+
+### 2011–2015 ###
 **Harold B. Lee Library**, Brigham Young University, Provo, <span class="caps">UT</span>
 
 *Collection Assessment Librarian & Head, Catalog Services*
 
-* Provide analysis of the library’s myriad collections; print and electronic
-* Coordinate workflows with shelf-ready vendors
-* Coordinate work between technical services and library information technology employees
-* Manage department resources and personnel
+* Provided analysis of the library’s myriad collections; print and electronic
+* Coordinated workflows with shelf-ready vendors
+* Coordinated work between technical services and library information technology employees
+* Managed department resources and personnel
 
 ### 2011–2013 ###
 **Harold B. Lee Library**, Brigham Young University, Provo, <span class="caps">UT</span>  
