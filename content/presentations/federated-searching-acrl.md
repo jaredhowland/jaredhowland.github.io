@@ -11,7 +11,7 @@ Jared Howland and Jeff Belliston
 
 Given March 2007 in Baltimore, <span class="caps">MD</span>
 
-**Download:** [PowerPoint][] | [PDF][] | [Keynote][]
+**Download:** [PowerPoint][] \| [PDF][] \| [Keynote][]
 
 ![Slide 1][1]
 

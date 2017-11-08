@@ -12,7 +12,7 @@ Jared Howland
 
 Given February 2010 in Oslo, Norway
 
-**Download:** [PowerPoint][] | [PDF][] | [Keynote][] | [MP3][]
+**Download:** [PowerPoint][] \| [PDF][] \| [Keynote][] \| [MP3][]
 
 ![Slide 1][1]
 

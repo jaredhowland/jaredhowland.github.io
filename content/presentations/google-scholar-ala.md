@@ -11,7 +11,7 @@ Jared Howland, Rebecca Boughan and Tom Wright
 
 Given June 2008 in Anaheim, <span class="caps">CA</span>
 
-**Download:** [PowerPoint][] | [PDF][] | [Keynote][]
+**Download:** [PowerPoint][] \| [PDF][] \| [Keynote][]
 
 ![Slide 1][1]
 

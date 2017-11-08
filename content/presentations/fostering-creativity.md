@@ -11,7 +11,7 @@ Jared Howland
 
 Given November 2009 in Provo, <span class="caps">UT</span>
 
-**Download:** [PowerPoint][] | [PDF][] | [Keynote][]
+**Download:** [PowerPoint][] \| [PDF][] \| [Keynote][]
 
 ![Slide 1][1]
 

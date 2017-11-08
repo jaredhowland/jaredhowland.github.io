@@ -12,7 +12,7 @@ Jared Howland and Tom Wright
 
 Given January 2008 in Provo, <span class="caps">UT</span>
 
-**Download:** [PowerPoint][] | [PDF][] | [Keynote][]
+**Download:** [PowerPoint][] \| [PDF][] \| [Keynote][]
 
 ![Slide 1][1]
 

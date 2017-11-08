@@ -11,7 +11,7 @@ Jared Howland
 
 Given May 2006 in St. George, <span class="caps">UT</span>
 
-**Download:** [PowerPoint][] | [PDF][] | [Keynote][]
+**Download:** [PowerPoint][] \| [PDF][] \| [Keynote][]
 
 ![Slide 1][1]
 

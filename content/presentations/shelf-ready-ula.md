@@ -11,7 +11,7 @@ Jared Howland and Rebecca Schroeder
 
 Given May 2010 in St. George, <span class="caps">UT</span>
 
-**Download:** [PowerPoint][] | [PDF][] | [Keynote][]
+**Download:** [PowerPoint][] \| [PDF][] \| [Keynote][]
 
 ![Slide 001][1]
 

@@ -10,9 +10,9 @@ Jared Howland and Gerrit van Dyk
 
 Given June 2011 in New Orleans, <span class="caps">LA</span>
 
-**Download:** [PowerPoint][] | [PDF][] | [Keynote][]
+**Download:** [PowerPoint][] \| [PDF][] \| [Keynote][]
 
-**Documents:** Handout ([PDF][Handout] or [Pages]) | [License Terms Definitions][] | [Abridged Standard License Agreement (PDF)][]<sup>*</sup>
+**Documents:** Handout ([PDF][Handout] or [Pages]) \| [License Terms Definitions][] \| [Abridged Standard License Agreement (PDF)][]<sup>*</sup>
 
 <span class="small"><sup>*</sup> This document was derived from a workshop presented at the North American Serials Interest Group (NASIG) 2006 Annual Meeting. Thanks to Diane Grover, Electronic Resources Coordinator from the University of Washington Libraries, for allowing me to use it.</span>
 

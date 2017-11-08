@@ -11,7 +11,7 @@ Jared Howland
 
 Given October 2009 in Salt Lake City, <span class="caps">UT</span>
 
-**Download:** [PDF of Poster][] | [PDF of Handout][]
+**Download:** [PDF of Poster][] \| [PDF of Handout][]
 
 ![Poster]({{ site.url }}/assets/images/presentations/files/facebook/poster.jpg)
 

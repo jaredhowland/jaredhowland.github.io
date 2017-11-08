@@ -12,7 +12,7 @@ Jared Howland and Rebecca Schroeder
 
 Given December 2009 in Provo, <span class="caps">UT</span>
 
-**Download:** [PowerPoint][] | [PDF][] | [Keynote][]
+**Download:** [PowerPoint][] \| [PDF][] \| [Keynote][]
 
 **WARNING:** This presentation shows **preliminary** data and has known problems. An updated version of this presentation will be given at a later date after further analysis is made of the collected data.
 

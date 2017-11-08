@@ -10,7 +10,7 @@ Jared L. Howland
 
 Given June 2013 in Chicago, <span class="caps">IL</span>
 
-**Download:** [PowerPoint][] | [PDF][] | [Keynote][]
+**Download:** [PowerPoint][] \| [PDF][] \| [Keynote][]
 
 **Documents:** All handouts are available on [Github][]
 

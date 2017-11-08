@@ -11,7 +11,7 @@ Jared Howland
 
 Given November 2007 in Charleston, <span class="caps">SC</span>
 
-**Download:** [PowerPoint][] | [PDF][] | [Keynote][]
+**Download:** [PowerPoint][] \| [PDF][] \| [Keynote][]
 
 ![Slide 1][1]
 

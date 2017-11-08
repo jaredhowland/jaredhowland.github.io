@@ -11,7 +11,7 @@ Jared Howland
 
 Given February 2010 in Austin, <span class="caps">TX</span>
 
-**Download:** [PowerPoint][] | [PDF][] | [Keynote][]
+**Download:** [PowerPoint][] \| [PDF][] \| [Keynote][]
 
 ![Slide 1][1]
 
