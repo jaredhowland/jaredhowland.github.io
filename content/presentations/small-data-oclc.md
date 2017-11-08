@@ -139,19 +139,19 @@ There are pros and cons of each depending on your use case, budget, and technica
 
 Other features:
 
-1. There are both public and private data repositories
-2. Fine-grained controls for who can and cannot read and write to the data repository are available
-3. You can add comments and documentation to data sets and even to specific data points
-4. There is a built-in troubleshooting ticket system
-5. You can create different, parallel, versions of the same data set depending on the audience and how the data was analyzed
+1. There are both public and private data repositories
+2. Fine-grained controls for who can and cannot read and write to the data repository are available
+3. You can add comments and documentation to data sets and even to specific data points
+4. There is a built-in troubleshooting ticket system
+5. You can create different, parallel, versions of the same data set depending on the audience and how the data was analyzed
 
 ![Slide 019][19]
 
 Other features:
 
-1. There are both public and private data repositories
-2. You can tag, group, and place data into organizations
-3. Faceted searching is available for the entire data repository
+1. There are both public and private data repositories
+2. You can tag, group, and place data into organizations
+3. Faceted searching is available for the entire data repository
 4. CKAN has an accessible and understandable user interface
 5. Extensions are available to greatly expand the default capabilities of the system, and if you have the technical expertise, you can build your own to meet a specific need
 
