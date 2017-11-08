@@ -5,6 +5,26 @@
 $body-font:    "Crimson Text", "Minion Pro", "Hoefler Text", Georgia, serif;
 $heading-font: $body-font;
 
+$breakpoints: (
+  bp-0: (
+    breakpoint: 0px, // Mobile first
+    font-size: 16px 18px,
+    line-height: 1.5,
+    modular-scale: golden
+  ),
+  bp-1: (
+    breakpoint: 480px, // ~ Extra small screen up
+    font-size: 18px 20px,
+    line-height: 1.5,
+    modular-scale: golden
+  ),
+  bp-2: (
+    breakpoint: 768px, // ~ Small screen/tablet up
+    font-size: 20px 22px,
+    modular-scale: golden // no line-height specified so scale is used
+  )
+);
+
 // Colors
 // -------------------------
 $brown:      #3A2F00;
