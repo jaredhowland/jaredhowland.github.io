@@ -1,7 +1,7 @@
 ---
 title: Large Journal Package Cancellations at BYU
 kind: presentation
-permalink: /presentations/journal-cancellations/
+permalink: /presentations/journal-cancellation-ula/
 ---
 # Large Journal Package Cancellations at BYU #
 
