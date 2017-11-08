@@ -299,5 +299,5 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 [10]: http://wikis.ala.org/emergingleaders/index.php/2008_Emerging_Leaders_Program_Information
 [11]: http://courses.unt.edu/efiga/FACULTYPAGE/
 [12]: http://www.beta-phi-mu.org/
-[13]: http://www.ala.org/rusa/awards/studenttravel
+[13]: https://www.rusaupdate.org/awards/brass-student-travel-award/
 [14]: http://www.facetpublishing.co.uk/title.php?id=9313
