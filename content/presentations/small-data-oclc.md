@@ -10,7 +10,7 @@ Jared L. Howland
 
 Given October 2017 in Baltimore <span class="caps">MD</span>
 
-**Download:** [PowerPoint][] | [PDF][]
+**Download:** [PowerPoint][] \| [PDF][]
 
 ![Slide 001][1]
 
