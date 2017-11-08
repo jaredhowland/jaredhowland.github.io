@@ -4,6 +4,13 @@ permalink: /presentations/
 ---
 # Presentations #
 
+### 2018 [Forthcoming] ###
+* *Small Data Management: Master Data for Better Collection Analysis*, March 2018, presented at the Electronic Resources and Libraries 2018 Conference in Austin, <span class="caps">TX</span>
+
+### 2017 ###
+* *[Small Data Management][]*, October 2017, presented at the <span class="caps">OCLC</span> Americas Regional Council Meeting in Baltimore <span class="caps">MD</span>
+* *[Large Journal Package Cancellations at BYU][]*, May 2017, poster presented at the Utah Library Association’s Annual Conference in Sandy, <span class="caps">UT</span>
+
 ### 2013 ###
 * *[Licensing Business Resources][]*, June 2013, presented at the <span class="caps">RUSA</span> Preconference at the American Library Association Annual Conference in Chicago, <span class="caps">IL</span>
 
@@ -41,6 +48,8 @@ permalink: /presentations/
 * *Options for the <span class="caps">MLS</span> through Distance Education*, May 2004, presented at the Utah Library Association’s Annual Conference in Ogden, <span class="caps">UT</span> with Bill Lund, Derrik Hiatt and Heather Pitts
 * *The Best Business Resources in the Best Business Topics: Marketing*, May 2004, presented at the Utah Library Association’s Annual Conference in Ogden, <span class="caps">UT</span>
 
+[Small Data Management]:                                                                {{ site.url }}/presentations/small-data-oclc/
+[Large Journal Package Cancellations at BYU]:                                           {{ site.url }}/presentations/journal-cancellation-ula/
 [Licensing Business Resources]:                                                         {{ site.url }}/presentations/licensing-ala/
 [Of Lending and Licensing]:                                                             {{ site.url }}/presentations/lending-licensing/
 [Shelf-ready: Is it Worth the Money?]:                                                  {{ site.url }}/presentations/shelf-ready-ula/

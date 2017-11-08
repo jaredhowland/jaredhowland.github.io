@@ -107,7 +107,11 @@ Provo, <span class="caps">UT</span> 84602
 
 ## Presentations ##
 
-### 2017 [Forthcoming] ###
+### 2018 ###
+* **Small Data Management: Master Data for Better Collection Analysis**, March 2018, presented at the Electronic Resources and Libraries 2018 Conference in Austin, <span class="caps">TX</span>
+
+### 2017 ###
+* **Small Data Management**, October 2017, presented at the <span class="caps">OCLC</span> Americas Regional Council Meeting in Baltimore <span class="caps">MD</span>
 * **Large Journal Package Cancellations**, May 2017, poster presented at the Utah Library Association’s Annual Conference in Sandy, <span class="caps">UT</span> with Rebecca Boughan
 
 ### 2013 ###
