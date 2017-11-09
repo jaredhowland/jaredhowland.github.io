@@ -11,7 +11,7 @@ Jared Howland
 
 Given May 2017 in Sandy, <span class="caps">UT</span>
 
-**Download:** [Poster][]
+**Download:** [PDF of Poster][]
 
 ![Poster]({{ site.url }}/assets/images/presentations/files//journal-cancellation-ula/ula-2017-poster-thumbnail.png)
 
