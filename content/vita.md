@@ -125,6 +125,8 @@ Provo, <span class="caps">UT</span> 84602
 ## Creative Projects  ##
 
 ### Ongoing ###
+* **Data Management System**: 2017–Present  
+Creating a system to store and use data to help us evaluate and assess our collections in an organized and meaningful way
 * **Collection Development Suite**: 2017–Present  
 Serving on a committee that is developing a Collection Development Suite that I proposed as a significant enhancement and expansion of the Collection Development Database to consolidate collection development tools for subject selectors assessing their collections
 * **Journal Assessment Tool**: 2009–Present  
