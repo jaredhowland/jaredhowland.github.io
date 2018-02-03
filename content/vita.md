@@ -125,14 +125,26 @@ Provo, <span class="caps">UT</span> 84602
 ## Creative Projects  ##
 
 ### Ongoing ###
+* **Collection Development Suite**: 2017–Present  
+Serving on a committee that is developing a Collection Development Suite that I proposed as a significant enhancement and expansion of the Collection Development Database to consolidate collection development tools for subject selectors assessing their collections
 * **Journal Assessment Tool**: 2009–Present  
 Created a database that allowed us to determine the number of places we had access to all our journals. This allowed us to see overlap and cancel subscriptions without losing access to any content. Additionally, assessment information such as impact factor and usage is included in the tool.
-* **Book Assessment Tool**: 2012–Present  
-Creating a database that is the corollary of the journal assessment tool for the library’s eBook collection.
 
 ### Past Projects ###
+* **<span class="caps">UALC</span> Resource Tracking System**: 2017  
+Created a system for the Utah Academic Library Consortium (<span class="caps">UALC</span>) to track licensing, pricing, usage, and other data about the resources licensed for consortia members
 * **Journal Retention and Cancellation**: 2016–2017  
 Working with campus community and the Library <span class="caps">IT</span> department to create a process for collectively and collaboratively deciding on which journals to retain and which to cancel. Writing extensive resources and communications to ensure everyone is up-to-date on the latest information.
+* **Fund Code Web Service**: 2015  
+I created a web service to track fund code assignments to subject librarians and to map call numbers to the fund code they are most likely associated with
+* **Lettering Software**: 2014  
+Created lettering software that significantly increased the throughput capability of lettering and allowed us to finish a media reclassification process months sooner than would otherwise have been possible
+* **MARC Record Loader**: 2013  
+Created a system that allowed loading MARC records into the library’s ScholarSearch system which significantly streamlined the process and essentially eliminated patron reports of problems with records in the system
+* **Book Assessment Tool**: 2012–2013  
+Creating a database that is the corollary of the journal assessment tool for the library’s eBook collection.
+* **Barcode Generating Service for Auxiliary Storage**: 2011  
+I created a system to streamline the process of moving materials to Auxiliary Storage by allowing the easy creation of barcodes for shelves and the pseudo-patrons needed to manage materials housed in Auxiliary Storage
 * **Collection Development Database**: 2007–2010  
 Proposed and planned the development of a collection development database that will aid in various collection development activities including budget allocation and viewing collection development patterns
 * **MetaLib Implementation**: 2009  
