@@ -24,7 +24,7 @@ Provo, <span class="caps">UT</span> 84602
 * Negotiate access to needed content
 * Collaborate with subject librarians to ensure the library’s collections are as strong as possible
 * Provide analysis of the library’s myriad print and electronic collections
-* Coordinate work between technical services and library information technology employees
+* Coordinate work between technical services and library <span class="caps">IT</span> employees
 * Oversee creation and maintenance of the library’s collection development and journal analysis databases
 
 ### 2011–2015 ###
@@ -34,7 +34,7 @@ Provo, <span class="caps">UT</span> 84602
 
 * Provided analysis of the library’s myriad print and electronic collections
 * Coordinated workflows with shelf-ready vendors
-* Coordinated work between technical services and library information technology employees
+* Coordinated work between technical services and library <span class="caps">IT</span> employees
 * Oversaw creation and maintenance of the library’s collection development and journal analysis databases
 * Supervised Catalog Services employees with responsibility for the library’s shelf-ready program, copy cataloging, media cataloging, serials cataloging, and catalog clean-up and maintenance
 * Managed department resources, budget, and personnel
@@ -132,7 +132,7 @@ Creating a database that is the corollary of the journal assessment tool for the
 
 ### Past Projects ###
 * **Journal Retention and Cancellation**: 2016–2017  
-Working with campus community and the Library IT department to create a process for collectively and collaboratively deciding on which journals to retain and which to cancel. Writing extensive resources and communications to ensure everyone is up-to-date on the latest information.
+Working with campus community and the Library <span class="caps">IT</span> department to create a process for collectively and collaboratively deciding on which journals to retain and which to cancel. Writing extensive resources and communications to ensure everyone is up-to-date on the latest information.
 * **Collection Development Database**: 2007–2010  
 Proposed and planned the development of a collection development database that will aid in various collection development activities including budget allocation and viewing collection development patterns
 * **MetaLib Implementation**: 2009  
