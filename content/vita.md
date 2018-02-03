@@ -131,41 +131,41 @@ Created a database that allowed us to determine the number of places we had acce
 Creating a database that is the corollary of the journal assessment tool for the library’s eBook collection.
 
 ### Past Projects ###
-* **Journal Retention and Cancellation**: 2016–2017
+* **Journal Retention and Cancellation**: 2016–2017  
 Working with campus community and the Library IT department to create a process for collectively and collaboratively deciding on which journals to retain and which to cancel. Writing extensive resources and communications to ensure everyone is up-to-date on the latest information.
 * **Collection Development Database**: 2007–2010  
 Proposed and planned the development of a collection development database that will aid in various collection development activities including budget allocation and viewing collection development patterns
-* **MetaLib Implementation**: 2009
+* **MetaLib Implementation**: 2009  
 Implemented MetaLib, a federated search tool for the <span class="caps">LDS</span> Business College Library, <span class="caps">BYU</span>-Idaho Library and <span class="caps">BYU</span>-Hawaii Library
 * **License Agreement Electronic Repository**: 2006–2009  
 Used the D-Space system to store all license agreements, invoices and various communications with vendors which allowed for searching for individual license agreements and made it easier for the University Copyright Licensing and Interlibrary Loan Offices to find out about all of the library’s licensed rights for electronic resources
-* **RSS Feed for New Electronic Resources**: 2009
+* **RSS Feed for New Electronic Resources**: 2009  
 Created an RSS feed that automatically updates with the electronic resources that have been added to the library’s A–Z page in the last 3 months
-* **Facebook Application**: 2009
+* **Facebook Application**: 2009  
 Created a Facebook application that searched ScholarSearch and allowed for manipulation of the results by saving to a folder
-* **iPhone Web Application**: 2009
+* **iPhone Web Application**: 2009  
 Created a version of the library’s website optimized for use on an iPhone and other modern mobile devices that was subsequently used as the official library mobile site
-* **MetaLib Implementation**: 2008
+* **MetaLib Implementation**: 2008  
 Implemented MetaLib, a federated search tool for the Harold B. Lee Library
-* **Verde Implementation**: 2008
+* **Verde Implementation**: 2008  
 Implemented Verde, an electronic resource management (<span class="caps">ERM</span>) tool for the Harold B. Lee Library, <span class="caps">LDS</span> Business College Library, <span class="caps">BYU</span>-Idaho Library and <span class="caps">BYU</span>-Hawaii Library
-* **<span class="caps">SFX</span> Implementation**: 2007
+* **<span class="caps">SFX</span> Implementation**: 2007  
 Implemented a Journals A–Z list and an OpenURL link resolver for the Harold B. Lee Library, <span class="caps">BYU</span> Law Library, <span class="caps">LDS</span> Business College Library, <span class="caps">BYU</span>-Idaho Library and <span class="caps">BYU</span>-Hawaii Library
-* **Greasemonkey Script**: 2007
+* **Greasemonkey Script**: 2007  
 Created a [Greasemonkey][9] script that allowed users to find library materials from within Amazon.com
-* **Database Problem Notification**: 2006
+* **Database Problem Notification**: 2006  
 Created system to allow the library to notify patrons of database problems and allow them to easily report any problems they find
-* **<span class="caps">HBLL</span> Research Yahoo! Widget Engine**: 2006
+* **<span class="caps">HBLL</span> Research Yahoo! Widget Engine**: 2006  
 Created an <span class="caps">HBLL</span> Research Yahoo! Widget that allowed patrons to search the library catalog, databases, journal finder and Google Scholar
-* **<span class="caps">HBLL</span> Research Mac OS X Widget**: 2006
+* **<span class="caps">HBLL</span> Research Mac OS X Widget**: 2006  
 Created an <span class="caps">HBLL</span> Research Mac OS X Widget that allowed patrons to search the library catalog, databases, journal finder and Google Scholar
-* **Mozilla Firefox Library Toolbar**: 2006
+* **Mozilla Firefox Library Toolbar**: 2006  
 Released to the public a [toolbar][6] for the Mozilla Firefox browser that allows patrons to search the library catalog and databases, reserve group study rooms, request materials through Interlibrary Loan, and check library holdings from Amazon.com listings
 * **Cascade Mountain High School Library Project**: 2005–2007  
 Set up the library on an open-source automated library system, trained staff on copy cataloging, and gathered donations of materials for the library’s collection
-* **Management Tools for Databases A–Z List**: 2005
+* **Management Tools for Databases A–Z List**: 2005  
 Created system to allow for recording of information on back-end of Databases A–Z list such as the sponsor of the resource, when the resource was added to the A–Z list and whether or not the resource is a paid subscription
-* **Gold Rush**: 2005
+* **Gold Rush**: 2005  
 Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Resources Management (<span class="caps">ERM</span>) System
 
 ## Professional Associations ##
@@ -178,51 +178,51 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 ## Committee/Task Force Assignments ##
 
 ### Current Assignments ###
-2017–Present: Collection Development Suite Committee - Member
-2017–Present: Science Collection Shift Physical Facilities Implementation Team - Chair
-2015–Present: Library-wide Rank and Status Committee - Member (Chair in 2016–2017)
-2016–Present: Collection Management and Development Committee - Chair
-2016–Present: Digital Preservation Committee - Member
-2016–Present: Services Management and Development Committee - Member
+* 2017–Present: Collection Development Suite Committee - Member
+* 2017–Present: Science Collection Shift Physical Facilities Implementation Team - Chair
+* 2015–Present: Library-wide Rank and Status Committee - Member (Chair in 2016–2017)
+* 2016–Present: Collection Management and Development Committee - Chair
+* 2016–Present: Digital Preservation Committee - Member
+* 2016–Present: Services Management and Development Committee - Member
 
 ### Past Assignments ###
-2017: Search and Screen Committee: Continuations, Licensing, and Collection Analysis Librarian - Member
-2016–2017: Library-wide Rank and Status Committee - Chair
-2015–2016: Library-wide Rank and Status Committee - Member
-2015–2016: Steering Task Force on HBLL Building Plan Development - Member
-2016: Search and Screen Committee: Gifts Section Supervisor and Copy Cataloger - Member
-2015: Search and Screen Committee: Literature and Humanities Cataloging Specialist - Member
-2012–2017: Web Working Group - Past Chair
-2012–2016: Library Systems Management Committee - Member
-2012–2014: Technical Services Rank and Status Committee - Member (Chair in 2013)
-2012: Search and Screen Committee: Monograph Accounts Supervisor - Member
-2009–2016: Discovery Systems Management Committee - Member
-2009–2012: Web Working Group - Chair
-2009–2011: Blue Sky Group - Member
-2009–2010: Collection Development Database Project Team - Project Manager
-2008–2010: North American Serials Interest Group (NASIG) Program Planning Committee - Member
-2005–2015: Collection Management and Development Committee - Member
-2004–2010: Information Literacy Committee - Member
-2006–2009: Web Working Group - Member
-2007–2009: Primo/MetaLib Implementation Team - Member
-2007–2009: Research Behaviors Task Force - Member
-2006–2008: Skunkworks Team - Member
-2007–2008: Verde Implementation Team - Project Manager
-2007–2008: Website Reorganization Project Team - Member
-2007–2008: SFX Implementation Team - Project Manager
-2006–2007: Consolidated Search Interface Project Team - Member
-2006–2007: Utah Library Association - Program Development Chair
-2005: Information Literacy Sub-committee: Instruction Room Use Guidelines Rewrite - Chair
-2005: Library Support Staff Association - President
-2005: Library-wide Annual Meeting Planning - Member
-2005–2006: Promotion Committee - Member
-2005–2006: Search and Screen Committee: Information Literacy Librarian - Member
-2005–2006: Utah Library Association - Program Development Vice-chair
-2005–2007: WebFeat Usage Task Force - Member
-2004: Library Support Staff Association - Vice President
-2004: Library Support Staff Association - Public Services Member-at-large
-2004: Management/Economics and Government Documents Merge Committee - Member
-2004: Public Services Sub-committee: Meeting Frequency - Member
+* 2017: Search and Screen Committee: Continuations, Licensing, and Collection Analysis Librarian - Member
+* 2016–2017: Library-wide Rank and Status Committee - Chair
+* 2015–2016: Library-wide Rank and Status Committee - Member
+* 2015–2016: Steering Task Force on HBLL Building Plan Development - Member
+* 2016: Search and Screen Committee: Gifts Section Supervisor and Copy Cataloger - Member
+* 2015: Search and Screen Committee: Literature and Humanities Cataloging Specialist - Member
+* 2012–2017: Web Working Group - Past Chair
+* 2012–2016: Library Systems Management Committee - Member
+* 2012–2014: Technical Services Rank and Status Committee - Member (Chair in 2013)
+* 2012: Search and Screen Committee: Monograph Accounts Supervisor - Member
+* 2009–2016: Discovery Systems Management Committee - Member
+* 2009–2012: Web Working Group - Chair
+* 2009–2011: Blue Sky Group - Member
+* 2009–2010: Collection Development Database Project Team - Project Manager
+* 2008–2010: North American Serials Interest Group (NASIG) Program Planning Committee - Member
+* 2005–2015: Collection Management and Development Committee - Member
+* 2004–2010: Information Literacy Committee - Member
+* 2006–2009: Web Working Group - Member
+* 2007–2009: Primo/MetaLib Implementation Team - Member
+* 2007–2009: Research Behaviors Task Force - Member
+* 2006–2008: Skunkworks Team - Member
+* 2007–2008: Verde Implementation Team - Project Manager
+* 2007–2008: Website Reorganization Project Team - Member
+* 2007–2008: SFX Implementation Team - Project Manager
+* 2006–2007: Consolidated Search Interface Project Team - Member
+* 2006–2007: Utah Library Association - Program Development Chair
+* 2005: Information Literacy Sub-committee: Instruction Room Use Guidelines Rewrite - Chair
+* 2005: Library Support Staff Association - President
+* 2005: Library-wide Annual Meeting Planning - Member
+* 2005–2006: Promotion Committee - Member
+* 2005–2006: Search and Screen Committee: Information Literacy Librarian - Member
+* 2005–2006: Utah Library Association - Program Development Vice-chair
+* 2005–2007: WebFeat Usage Task Force - Member
+* 2004: Library Support Staff Association - Vice President
+* 2004: Library Support Staff Association - Public Services Member-at-large
+* 2004: Management/Economics and Government Documents Merge Committee - Member
+* 2004: Public Services Sub-committee: Meeting Frequency - Member
 
 ## Awards and Recognitions ##
 * Member of the Honor Society of Phi Kappa Phi, invited 2018
