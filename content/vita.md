@@ -97,7 +97,7 @@ Provo, <span class="caps">UT</span> 84602
 ## Presentations ##
 
 * **Small Data Management: Master Data for Better Collection Analysis**, March 2018, to be presented at the Electronic Resources and Libraries 2018 Conference in Austin, <span class="caps">TX</span>
-* **Small Data Management**, October 2017, presented at the <span class="caps">OCLC</span> Americas Regional Council Meeting in Baltimore <span class="caps">MD</span>
+* **Small Data Management**, October 2017, presented at the <span class="caps">OCLC</span> Americas Regional Council Meeting in Baltimore, <span class="caps">MD</span>
 * **Large Journal Package Cancellations**, May 2017, poster presented at the Utah Library Association’s Annual Conference in Sandy, <span class="caps">UT</span> with Rebecca Boughan
 * **Licensing Business Resources**, June 2013, presented at the <span class="caps">RUSA</span> Preconference at the American Library Association Annual Conference in Chicago, <span class="caps">IL</span>
 * **Of Lending and Licensing**, June 2011, presented at the American Library Association Annual Conference in New Orleans, <span class="caps">LA</span> with Gerrit van Dyk
