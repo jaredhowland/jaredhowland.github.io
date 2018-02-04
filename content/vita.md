@@ -184,14 +184,17 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 
 ## Professional Associations ##
 
-* American Library Association
-* Mountain Plains Library Association
-* North American Serials Interest Group (<span class="caps">NASIG</span>): Program Planning Committee Member: 2008–2010
-* Utah Library Association (<span class="caps">ULA</span>): <span class="caps">ACRL</span> Chair 2018; <span class="caps">ACRL</span> Vice-chair 2017; Program Development Chair: 2006–2007; Program Development Vice-chair: 2005–2006
+* American Library Association: 2005–Present
+* Utah Library Association (<span class="caps">ULA</span>): 2003–Present
+* Mountain Plains Library Association: 2006–2008
+* North American Serials Interest Group (<span class="caps">NASIG</span>): 2005–2011
 
 ## Committee/Task Force Assignments ##
 
 ### Current Assignments ###
+* 2018–Present: ACRL Chapter of the Utah Library Association - Member
+* 2017–Present: Acquisition Managers and Vendors Interest Group of the American Library Association - Co-chair
+* 2017–Present: Coutts Award nomination of the Association for Library Collections & Technical Services - Member
 * 2017–Present: Collection Development Suite Committee - Member
 * 2017–Present: Science Collection Shift Physical Facilities Implementation Team - Chair
 * 2015–Present: Library-wide Rank and Status Committee - Member (Chair in 2016–2017)
