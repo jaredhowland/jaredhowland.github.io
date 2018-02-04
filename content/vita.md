@@ -197,7 +197,7 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 * 2017–Present: Coutts Award nomination of the Association for Library Collections & Technical Services - Member
 * 2017–Present: Collection Development Suite Committee - Member
 * 2017–Present: Science Collection Shift Physical Facilities Implementation Team - Chair
-* 2015–Present: Library-wide Rank and Status Committee - Member (Chair in 2016–2017)
+* 2015–Present: Library-wide Rank and Status Committee - Member (Chair, 2016–2017)
 * 2016–Present: Collection Management and Development Committee - Chair
 * 2016–Present: Digital Preservation Committee - Member
 * 2016–Present: Services Management and Development Committee - Member
