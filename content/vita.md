@@ -192,7 +192,7 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 ## Committee/Task Force Assignments ##
 
 ### Current Assignments ###
-* 2018–Present: ACRL Chapter of the Utah Library Association - Member
+* 2018–Present: ACRL Chapter of the Utah Library Association - Vice chair
 * 2017–Present: Acquisition Managers and Vendors Interest Group of the American Library Association - Co-chair
 * 2017–Present: Coutts Award nomination of the Association for Library Collections & Technical Services - Member
 * 2017–Present: Collection Development Suite Committee - Member
