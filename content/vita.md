@@ -192,7 +192,7 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 ## Committee/Task Force Assignments ##
 
 ### Current Assignments ###
-* 2018–Present: ACRL Chapter of the Utah Library Association - Vice chair
+* 2017–Present: ACRL Chapter of the Utah Library Association - Vice chair
 * 2017–Present: Acquisition Managers and Vendors Interest Group of the American Library Association - Co-chair
 * 2017–Present: Coutts Award nomination of the Association for Library Collections & Technical Services - Member
 * 2017–Present: Collection Development Suite Committee - Member
@@ -204,14 +204,12 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 
 ### Past Assignments ###
 * 2017: Search and Screen Committee: Continuations, Licensing, and Collection Analysis Librarian - Member
-* 2016–2017: Library-wide Rank and Status Committee - Chair
-* 2015–2016: Library-wide Rank and Status Committee - Member
 * 2015–2016: Steering Task Force on HBLL Building Plan Development - Member
 * 2016: Search and Screen Committee: Gifts Section Supervisor and Copy Cataloger - Member
 * 2015: Search and Screen Committee: Literature and Humanities Cataloging Specialist - Member
 * 2012–2017: Web Working Group - Past Chair
 * 2012–2016: Library Systems Management Committee - Member
-* 2012–2014: Technical Services Rank and Status Committee - Member (Chair in 2013)
+* 2012–2014: Technical Services Rank and Status Committee - Member (Chair, 2013)
 * 2012: Search and Screen Committee: Monograph Accounts Supervisor - Member
 * 2009–2016: Discovery Systems Management Committee - Member
 * 2009–2012: Web Working Group - Chair
