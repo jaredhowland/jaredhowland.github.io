@@ -85,6 +85,7 @@ Provo, <span class="caps">UT</span> 84602
 
 ## Publications ##
 
+* Howland, Jared L. (forthcoming 2018). **Report of the ALCTS Acquisitions Section (AS) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - Denver, February 2018**. *Technical Services Quarterly*. 35(3).
 * Howland, Jared L., Schroeder, Rebecca, Wright, Thomas C. (2013). **Brigham Young University’s Patron-driven Acquisitions: Does It Stand the Test of Time?**. *Customer-Based Collection Development: An Overview*. ISBN: [978-1-85604-931-3][14].
 * Schroeder, Rebecca and Howland, Jared L. (2011). **Shelf-ready: A Cost- benefit Analysis**. *Library Collections, Acquisitions, and Technical Services*. 35(4): 129–134. DOI: [10.1016/j.lcats.2011.04.002][1].
 * Howland, Jared L., Wright, Thomas C., Boughan, Rebecca A. and Roberts, Brian C. (2009). **How Scholarly is Google Scholar? A Comparison to Library Databases**. *College & Research Libraries*. 70(3): 227–234.
