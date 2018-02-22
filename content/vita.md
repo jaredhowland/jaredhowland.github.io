@@ -122,7 +122,6 @@ Provo, <span class="caps">UT</span> 84602
 * **Options for the MLS through Distance Education**, May 2004, presented at the Utah Library Association’s Annual Conference in Ogden, <span class="caps">UT</span> with Bill Lund, Derrik Hiatt and Heather Pitts
 * **The Best Business Resources in the Best Business Topics: Marketing**, May 2004, presented at the Utah Library Association’s Annual Conference in Ogden, <span class="caps">UT</span>
 
-<a id="projects"></a>
 ## Creative Projects  ##
 
 ### Ongoing ###
@@ -193,8 +192,11 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 ## Committee/Task Force Assignments ##
 
 ### Current Assignments ###
+* 2018–Present: Central Processing Unit Subcommittee to Rewrite the Deaccession Policy – Member
+* 2018–Present: ALCTS: Collection Management Section Planning Committee – Member
+* 2018–Present: Search and Screen Committee: Book Repair Manager - Chair
 * 2018–Present: Memberships Task Force - Member
-* 2017–Present: ACRL Chapter of the Utah Library Association - Vice chair
+* 2017–Present: Utah Library Association ACRL Roundtable - Vice chair
 * 2017–Present: Acquisition Managers and Vendors Interest Group of the American Library Association - Co-chair
 * 2017–Present: Coutts Award nomination of the Association for Library Collections & Technical Services - Member
 * 2017–Present: Collection Development Suite Committee - Member
