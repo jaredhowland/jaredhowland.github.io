@@ -5,6 +5,14 @@ permalink: /publications/
 
 # Publications #
 
+## Report of the ALCTS Acquisitions Section (AS) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - Denver, February 2018 ##
+
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft.atitle=Report%20of%20the%20ALCTS%20Acquisitions%20Section%20%28AS%29%20Acquisitions%20Managers%20and%20Vendors%20Interest%20Group%20Meeting%20-%20American%20Library%20Association%20Midwinter%20Conference%20-%20Denver%2C%20February%202018&amp;rft.title=Technical+Services+Quarterly&amp;rft.stitle=Technical+Services+Quarterly&amp;rft.issn=0731-7131&amp;rft.date=2018&amp;rft.volume=35&amp;rft.issue=3&amp;rft.spage=&amp;rft.epage=&amp;rft.aulast=Howland&amp;rft.aufirst=Jared&amp;rft.auinit=L&amp;rft.au=Jared+L+Howland"></span>
+
+**Abstract:** The ALCTS Acquisitions Section (AS) Acquisitions Managers and Vendors Interest Group meeting at the 2018 American Library Association (ALA) Midwinter Conference in Denver, Colorado consisted of a series of presentations and a question and answer session. David Parker, of Alexander Street Press, discussed a comparison of demand-driven and subscription acquisition models. Doug Mingle, of Infobase, discussed video acquisition models and classroom use. Tom Humphrey, of Kanopy, discussed streaming media costs and quality. Finally, Mary Sue Hoyle, of EBSCO, discussed evaluating and working with subscription agents.
+
+**Citation Information:** Howland, Jared L. (forthcoming 2018). Report of the ALCTS Acquisitions Section (AS) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - Denver, February 2018. *Technical Services Quarterly*. 35(3).
+
 ## [Brigham Young University’s patron-driven acquisitions: Does it stand the test of time?][20] ##
 
 <span class="Z3988" title="ctx_ver%3DZ39.88-2004%26amp%3Brft_val_fmt%3Dinfo%3Aofi%2Ffmt%3Akev%3Amtx%3Abook%26amp%3Brfr_id%3Dinfo%3Asid%2Focoins.info%3Agenerator%26amp%3Brft.genre%3Dbookitem%26amp%3Brft.title%3DCustomer-Based%20Collection%20Development%3A%20An%20Overview%26amp%3Brft.atitle%3DBrigham%20Young%20University%E2%80%99s%20patron-driven%20acquisitions%3A%20Does%20it%20stand%20the%20test%20of%20time%3F%26amp%3Brft.isbn%3D9781856049313%26amp%3Brft.aulast%3DHowland%26amp%3Brft.aufirst%3DJared%26amp%3Brft.au%3DJared%20Howland%26amp%3Brft.date%3D2013"></span>
