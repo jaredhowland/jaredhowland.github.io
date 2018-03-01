@@ -21,15 +21,7 @@ For many years, we at Brigham Young University (<span class="caps">BYU</span>) h
 
 <span class="caps">BYU</span> started using patron-driven models based on two realities. One is the continuing pressure on material budgets. We have basically maintained a flat budget for the last six years and have made serious adjustments to our purchasing priorities. The second reality is the declining use of our print monograph collection, a trend mirrored around the country. As a percent of the total circulating collection (2.4 million), use has declined from 30% to 16% in the last decade.
 
-| Year | Percent of collection that circulated |
-| ---- |---------------------------------------|
-| 2003 | 30%                                   |
-| 2005 | 24%                                   |
-| 2007 | 20%                                   |
-| 2009 | 17%                                   |
-| 2011 | 16%                                   |
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSpJWNHS9BiTVGMslfpZSduXXnUf6V3buuB0hJSAbtWKGXKmMYMHc-l0Jkd7uuPYECnTP2OW2-Ls32P/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSpJWNHS9BiTVGMslfpZSduXXnUf6V3buuB0hJSAbtWKGXKmMYMHc-l0Jkd7uuPYECnTP2OW2-Ls32P/pubchart?oid=2&amp;format=interactive"></iframe>
 
 In 2009 we completed a retrospective ten year analysis comparing our monograph acquisitions to their circulation activity. The findings of this analysis were helpful as we examined our purchasing patterns. A book purchased in 1999 had a 50% chance of circulating in ten years. Put another way, of all books purchased in 1999 (55,490) only 50% had circulated by 2009. Only 34% of books purchased in 2008 had circulated by the end of 2009. Even after allowing for ten years, half of our books are not used. Perhaps a better model for acquisitions was needed.
 
