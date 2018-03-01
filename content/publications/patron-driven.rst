@@ -21,6 +21,18 @@ For many years, we at Brigham Young University (<span class="caps">BYU</span>) h
 
 <span class="caps">BYU</span> started using patron-driven models based on two realities. One is the continuing pressure on material budgets. We have basically maintained a flat budget for the last six years and have made serious adjustments to our purchasing priorities. The second reality is the declining use of our print monograph collection, a trend mirrored around the country. As a percent of the total circulating collection (2.4 million), use has declined from 30% to 16% in the last decade.
 
+<p>
++------+----------------------------------------+
+| Year |  Percent of collection that circulated |
++------+----------------------------------------+
+| 2003 | 30% |
+| 2005 | 24% |
+| 2007 | 20% |
+| 2009 | 17% |
+| 2011 | 16% |
++------+-----+
+</p>
+
 <p><script type="text/javascript" src="//ajax.googleapis.com/ajax/static/modules/gviz/1.0/chart.js"> {"dataSourceUrl":"//docs.google.com/spreadsheet/tq?key=0AkFBJE_MlgVHdFRlclpTaE5MSzIteEJKMnc5ekliNkE&transpose=0&headers=1&range=A1%3AB6&gid=0&pub=1","options":{"vAxes":[{"useFormatFromData":true,"title":null,"minValue":null,"viewWindow":{"min":null,"max":null},"maxValue":null},{"useFormatFromData":true,"minValue":null,"viewWindow":{"min":null,"max":null},"maxValue":null}],"titleTextStyle":{"bold":true,"color":"#000","fontSize":16},"booleanRole":"certainty","title":"Figure 1: The percent of the library's collection that circulates in a given year (of materials that are in circulating collections)","width":600,"height":400,"animation":{"duration":0},"legend":"none","useFirstColumnAsDomain":true,"hAxis":{"useFormatFromData":true,"minValue":null,"viewWindowMode":null,"viewWindow":null,"maxValue":null},"tooltip":{},"isStacked":false},"state":{},"view":{"columns":[{"calc":"stringify","type":"string","sourceColumn":0},1]},"isDefaultVisualization":true,"chartType":"ColumnChart","chartName":"Chart 1"}</script></p>
 
 In 2009 we completed a retrospective ten year analysis comparing our monograph acquisitions to their circulation activity. The findings of this analysis were helpful as we examined our purchasing patterns. A book purchased in 1999 had a 50% chance of circulating in ten years. Put another way, of all books purchased in 1999 (55,490) only 50% had circulated by 2009. Only 34% of books purchased in 2008 had circulated by the end of 2009. Even after allowing for ten years, half of our books are not used. Perhaps a better model for acquisitions was needed.
