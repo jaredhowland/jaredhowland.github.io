@@ -246,7 +246,7 @@ We asked the <span class="caps">ACRL</span> conference audience to predict the u
 
 <iframe width="600" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRNlmo1mMvb6X-ZNJ4RU_Ngs_46oKHiYU0952ExTlsTO-oXTrck6Sh-k-rc_alNaU1ShZG2LAOXLGv/pubchart?oid=2&amp;format=interactive"></iframe>
 
-<p><script type="text/javascript" src="//ajax.googleapis.com/ajax/static/modules/gviz/1.0/chart.js"> {"dataSourceUrl":"//spreadsheets.google.com/spreadsheet/tq?key=0AkFBJE_MlgVHdGpXc09KdEQzWmg5S2tQTmY0ZVBNZXc&transpose=0&headers=1&range=A1%3AC6&gid=0&pub=1","options":{"vAxes":[{"min":null,"title":null,"max":null}],"reverseCategories":false,"series":{"0":{"color":"#444444"},"1":{"color":"#ffd966"}},"title":"FIGURE 2: Predicted Ratings Given by Librarians","backgroundColor":"#FFFFFF","legend":"bottom","vAxis":{"format":"#0%"},"logScale":false,"hAxis":{"maxAlternation":1},"hasLabelsColumn":true,"reverseAxis":false,"isStacked":false,"width":600,"height":350},"state":{},"chartType":"ColumnChart","chartName":"Chart 1"} </script></p>
+<iframe width="600" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS7N7VTvg8I9HquLFdf0m8iyZelmSySh34LbLuGVH44sBvbQfchpTwQM8fDIXLCXcS7QMv0kbcEp5ot/pubchart?oid=2&amp;format=interactive"></iframe>
 
 The audience correctly anticipated that undergraduates prefer federated searching over the alternative. They may well have expected it to be even stronger than the 70% we found, given that 97% of the audience assumed this preference.
 
