@@ -29,6 +29,8 @@ For many years, we at Brigham Young University (<span class="caps">BYU</span>) h
 | 2009 | 17%                                   |
 | 2011 | 16%                                   |
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSpJWNHS9BiTVGMslfpZSduXXnUf6V3buuB0hJSAbtWKGXKmMYMHc-l0Jkd7uuPYECnTP2OW2-Ls32P/pubhtml?widget=true&amp;headers=false"></iframe>
+
 In 2009 we completed a retrospective ten year analysis comparing our monograph acquisitions to their circulation activity. The findings of this analysis were helpful as we examined our purchasing patterns. A book purchased in 1999 had a 50% chance of circulating in ten years. Put another way, of all books purchased in 1999 (55,490) only 50% had circulated by 2009. Only 34% of books purchased in 2008 had circulated by the end of 2009. Even after allowing for ten years, half of our books are not used. Perhaps a better model for acquisitions was needed.
 
 There is another dynamic that is changing the way we look at our collections. Collection development has been transformed by the introduction of the network and ubiquitous computing to the academic library world. Whereas librarians previously worked from set criteria like authoritative bibliographies to build isolated static collections, we now have opportunities to share collections, turn access on or off at will, and decide whether we should own or just provide access to content.
