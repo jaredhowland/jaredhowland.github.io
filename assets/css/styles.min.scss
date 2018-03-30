@@ -7,70 +7,40 @@ sitemap:
 $body-font:    "Crimson Text", "Minion Pro", "Hoefler Text", Georgia, serif;
 $heading-font: $body-font;
 
-$breakpoints: (
-  bp-0: (
-    breakpoint: 0px, // Mobile first
-    font-size: 16px 18px,
-    line-height: 1.5,
-    modular-scale: golden
-  ),
-  bp-1: (
-    breakpoint: 480px, // ~ Extra small screen up
-    font-size: 18px 20px,
-    line-height: 1.5,
-    modular-scale: golden
-  ),
-  bp-2: (
-    breakpoint: 768px, // ~ Small screen/tablet up
-    font-size: 20px 22px,
-    modular-scale: golden // no line-height specified so scale is used
-  )
-);
-
 // Colors
 // -------------------------
-$brown:      #3A2F00;
-$orange:     #C00C00;
+$black:      #444444;
+$muted:      #CCCCCC;
 $light-gray: #E6E6E6;
-$red:        #C00C00;
+$white:      #F1F1F1;
+$orange:     #C00C00;
+$blue:       #095EB2;
 
-$body-color:       #444444;
-$body-color-muted: #CCCCCC;
-$heading-color:    #2E2E2E;
-$background-color: #F5F5F5;
+$body-color:       $black;
+$body-color-muted: $muted;
+$heading-color:    $orange;
+$background-color: $white;
 
 // Links
 // -------------------------
-$link-color:            $brown;
-$link-background-color: #FFFFFF;
+$link-color:            $blue;
+$link-background-color: $light-gray;
 $link-hover-color:      $orange;
-$link-underline-color:  lighten($link-color, 20%);
-
-$link-underline-width:  1px;
-$link-underline-offset: 2px;
-
-// Mixins
-// -------------------------
-@mixin underline($color: $link-underline-color, $background-color: $background-color, $weight: $link-underline-width, $offset: $link-underline-offset) {
-  text-shadow: -1px -1px 0 $background-color, 1px -1px 0 $background-color, -1px 1px 0 $background-color, 1px 1px 0 $background-color;
-  background-image: -webkit-linear-gradient(bottom, transparent, transparent $offset, $color $offset, $color $offset + $weight, transparent $offset + $weight);
-  background-image: linear-gradient(bottom, transparent, transparent $offset, $color $offset, $color $offset + $weight, transparent $offset + $weight);
-}
+$link-underline-color:  $black;
 
 // Imports
 // -------------------------
-@import "rhythm/rhythm";
-@import "fonts";
+@import "normalize";
 
 // Custom styles
 // -------------------------
+/*! Jared Howland | MIT License */
 body {
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
-  font-feature-settings: "kern";
-  -webkit-font-feature-settings: "kern";
-  -moz-font-feature-settings: "kern";
-  -moz-font-feature-settings: "kern=1";
+  background-color: $background-color;
+  color: $body-color;
+  font-family: $body-font;
+  font-size: 1.2rem;
+  line-height: 1.4;
 }
 
 img {
@@ -102,8 +72,8 @@ table {
   tbody {
     tr {
       border: {
-        top: 1px solid #CCCCCC;
-        bottom: 1px solid #CCCCCC;
+        top: 1px solid $body-color-muted;
+        bottom: 1px solid $body-color-muted;
       };
     }
   }
@@ -112,20 +82,14 @@ table {
 header {
   background-color: $light-gray;
   color: $orange;
-  @include padding(1 0 0 1);
-  @include breakpoint(bp-2) {
-    @include padding(1 0 0 2); // More padding for larger screen sizes
-  }
 
   h1 {
     font-weight: normal;
     text-transform: uppercase;
-    @include font-size($mega);
   }
 
   a {
     text-decoration: none;
-    @include padding-bottom(1);
 
     &:hover {
       background: $background-color;
@@ -139,7 +103,6 @@ nav {
 
   li {
     display: inline;
-    @include padding(0 .5 0 0, true);
   }
 
   a {
@@ -158,46 +121,20 @@ nav {
   }
 }
 
-section {
+main {
   a {
     text-decoration: none;
     position: relative;
-    @include underline();
-    @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
-      @include underline($link-underline-color, 0.5);
-    }
 
     &:hover, &:focus {
       border-radius: 4px;
-      @include underline(lighten($link-hover-color, 20%), $link-background-color);
-      @media (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
-        @include underline(lighten($link-hover-color, 20%), $link-background-color, 0.5);
-      }
     }
-  }
-
-  @include padding(1);
-  @include breakpoint(bp-2) {
-    @include padding(2);
-  }
-
-  h2 {
-    @include breakpoint(bp-2) {
-      @include line-height($h2, 2);
-    }
-    @include padding-top(2);
-  }
-
-  h3 {
-    @include padding-top(1);
   }
 }
 
 footer {
   clear: both;
   text-align: center;
-  @include font-size($epsilon);
-  @include padding(1);
   [class^="icon-"]:before, [class*=" icon-"]:before { // social media icons custom color on hover
     &:hover {
       color: $link-hover-color;
@@ -223,40 +160,27 @@ footer {
   }
 }
 
-.vita {
-  p+p {
-    text-indent: 0;
-  }
-}
-
-.presentation {
-  img {
-    @include padding-top(2);
-    margin-left: -#{$indent-value}; // Do not indent images in <p> tags
-  }
-
-  // @include padding-top(1);
+.avatar {
+  border-radius: 50%;
+  margin: 1rem 1rem 1rem 0;
+  max-width: 30%;
+  shape-margin: .5rem;
+  shape-outside: border-box;
 }
 
 .caps {
-  @extend .small-caps;
   text-transform: uppercase; // for Safari because true small caps do not work there
   font-size: .9em; // for Safari because true small caps do not work there
 }
 
+.hidden {
+  display: none;
+}
+
 .pull-left {
   float: left;
-  padding-top: .45em;
-  @include padding-right(1);
-  @include breakpoint(bp-1) {
-    height: 5%; // smaller image on smaller screens; TODO: why does this work?
-  }
 }
 
 .pull-right {
   float: right;
-}
-
-.hidden {
-  display: none;
 }
