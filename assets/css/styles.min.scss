@@ -31,10 +31,17 @@ $link-underline-color:  $black;
 // Imports
 // -------------------------
 @import "normalize";
+@import "fonts";
 
 // Custom styles
 // -------------------------
 /*! Jared Howland | MIT License */
+
+/* MAKE RESPONSIVE */
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: $background-color;
   color: $body-color;
@@ -43,14 +50,17 @@ body {
   line-height: 1.4;
 }
 
-img {
-  max-width: 90%;
-  height: auto;
-  border-radius: 4px;
+h1,
+h2 {
+  color: $heading-color;
+  font-weight: normal;
+  text-transform: uppercase;
 }
 
+img,
 iframe {
   max-width: 100%;
+  height: auto;
 }
 
 sup {
@@ -64,21 +74,6 @@ blockquote p {
   margin-left: -1rem;
 }
 
-table {
-  caption {
-    text-align: left;
-    background: #FFFFFF;
-  }
-  tbody {
-    tr {
-      border: {
-        top: 1px solid $body-color-muted;
-        bottom: 1px solid $body-color-muted;
-      };
-    }
-  }
-}
-
 header {
   background-color: $light-gray;
   color: $orange;
@@ -86,14 +81,6 @@ header {
   h1 {
     font-weight: normal;
     text-transform: uppercase;
-  }
-
-  a {
-    text-decoration: none;
-
-    &:hover {
-      background: $background-color;
-    }
   }
 }
 
@@ -104,36 +91,42 @@ nav {
   li {
     display: inline;
   }
-
-  a {
-    color: $body-color;
-    padding: 0 .25rem;
-    margin: 0 -.25rem;
-
-    &:hover {
-      color: $link-hover-color;
-      border-radius: 4px;
-    }
-  }
-
-  .active {
-    color: $link-hover-color;
-  }
 }
 
 main {
+  padding: 2rem 1rem;
   a {
-    text-decoration: none;
+    color: $link-color;
     position: relative;
-
-    &:hover, &:focus {
-      border-radius: 4px;
+    text-decoration: none;
+    transition: all ease-in-out .3s;
+    &:before {
+      background-color: $body-color;
+      content: '';
+      height: 2px;
+      left: 0;
+      margin: -.2rem 0;
+      opacity: .3;
+      position: absolute;
+      top: 100%;
+      transform: scaleX(.9);
+      transition-duration: .3s;
+      width: 100%;
+    }
+    &:hover {
+      background-color: $link-background-color;
+      color: $link-hover-color;
+      &:before {
+        opacity: 1;
+        transform: scaleX(1);
+      }
     }
   }
 }
 
 footer {
   clear: both;
+  list-style: none;
   text-align: center;
   [class^="icon-"]:before, [class*=" icon-"]:before { // social media icons custom color on hover
     &:hover {
@@ -148,10 +141,6 @@ footer {
   p {
     text-transform: uppercase;
     font-weight: bold;
-  }
-
-  ul {
-    list-style: none;
   }
 
   li {

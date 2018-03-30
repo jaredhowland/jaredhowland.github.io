@@ -4,7 +4,7 @@ permalink: /
 sitemap:
   priority: '1.0'
 ---
-<p><img src="{{ site.url }}/assets/images/jaredhowland.jpg" alt="Jared L. Howland" title="Jared L. Howland" width="200" height="200" class="avatar pull-left"></p>
+<img src="{{ site.url }}/assets/images/jaredhowland.jpg" alt="Jared L. Howland" title="Jared L. Howland" width="200" height="200" class="avatar pull-left">
 
 Hi, I’m Jared.
 --------------
