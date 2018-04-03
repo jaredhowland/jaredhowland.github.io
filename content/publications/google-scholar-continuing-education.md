@@ -12,7 +12,6 @@ Jared L. Howland, Scott Howell, Thomas C. Wright and Cody Dickson
 **DOI:** [10.1080/07377360902806890][]
 
 **Citation Information:** Howland, Jared L., Wright, Thomas C., Howell, Scott and Dickson, Cody. (2009). Google Scholar and the Continuing Education Literature. *The Journal of Continuing Higher Education*. 57(1):35–39. ([Abstract – **requires subscription**][12]) ([Full Text – **requires subscription**][13])
-</p>
 
 ## Abstract
 
