@@ -1,3 +1,4 @@
+# bundle exec jekyll serve --host localhost
 navigation:
   - title: "Home"
     url: "/index.html"
@@ -11,13 +12,14 @@ navigation:
     url: "/vita"
 
 title: "Jared Howland"
-author: "Jared Howland"
+author: "Jared L. Howland"
 email: "jared_howland@byu.edu"
-keywords: "'jared howland, vita, publications, presentations, projects'"
-description: "'This is the personal website of Jared Howland, librarian at Brigham Young University - Harold B. Lee Library.'"
-url: "http://www.jaredhowland.com"
-ga-tracking-code: "UA-15180577-1"
-ga-domain-name: "jaredhowland.com"
+keywords: "'jared howland', vita, publications, presentations, projects"
+description: "This is the personal website of Jared Howland, librarian at Brigham Young University - Harold B. Lee Library."
+# url: "http://www.jaredhowland.com"
+url: "localhost:4000"
+# ga-tracking-code: "UA-15180577-1"
+# ga-domain-name: "jaredhowland.com"
 
 defaults:
   - scope:
