@@ -194,8 +194,6 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 ### Current Assignments ###
 * 2018–Present: Central Processing Unit Subcommittee to Rewrite the Deaccession Policy – Member
 * 2018–Present: ALCTS: Collection Management Section Planning Committee – Member
-* 2018–Present: Search and Screen Committee: Book Repair Manager - Chair
-* 2018–Present: Memberships Task Force - Member
 * 2017–Present: Utah Library Association ACRL Roundtable - Vice chair
 * 2017–Present: Acquisition Managers and Vendors Interest Group of the American Library Association - Co-chair
 * 2017–Present: Coutts Award nomination of the Association for Library Collections & Technical Services - Member
@@ -207,6 +205,8 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 * 2016–Present: Services Management and Development Committee - Member
 
 ### Past Assignments ###
+* 2018–Present: Memberships Task Force - Member
+* 2018–Present: Search and Screen Committee: Book Repair Manager - Chair
 * 2017: Search and Screen Committee: Continuations, Licensing, and Collection Analysis Librarian - Member
 * 2015–2016: Steering Task Force on HBLL Building Plan Development - Member
 * 2016: Search and Screen Committee: Gifts Section Supervisor and Copy Cataloger - Member
@@ -244,12 +244,12 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 * 2004: Public Services Sub-committee: Meeting Frequency - Member
 
 ## Awards and Recognitions ##
-* Member of the Honor Society of Phi Kappa Phi, invited 2018
+* **[Member of the Honor Society of Phi Kappa Phi][11]**, invited 2018
 * **<span class="caps">HBLL</span> Star Award** for updating and dramatically improving the journal overlap database that will save the library even more collection development money
 * **<span class="caps">HBLL</span> Star Award** for building the journal overlap database that saved the library over $600,000 of collection development money
 * **[2008 American Library Association Emerging Leaders Program Participant][10]**
 * **<span class="caps">HBLL</span> Star Award** for implementing <span class="caps">SFX</span> for the library and academic institutions in the Consortium of Church Libraries and Archives
-* **[Member][11] of [Beta Phi Mu][12]**, International Library and Information Studies Honor Society, invited Summer 2005
+* **[Member of Beta Phi Mu][12]**, International Library and Information Studies Honor Society, invited Summer 2005
 * **[<span class="caps">BRASS</span> Thomson Financial Student Travel Award][13]**
 
 ## Education ##
@@ -274,7 +274,7 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 [6]: https://addons.mozilla.org/en-US/firefox/addon/hbll-toolbar/
 [9]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
 [10]: http://wikis.ala.org/emergingleaders/index.php/2008_Emerging_Leaders_Program_Information
-[11]: http://courses.unt.edu/efiga/FACULTYPAGE/
+[11]: https://www.phikappaphi.org/
 [12]: http://www.beta-phi-mu.org/
 [13]: https://www.rusaupdate.org/awards/brass-student-travel-award/
 [14]: http://www.facetpublishing.co.uk/title.php?id=9313
