@@ -197,7 +197,7 @@ On a strictly <span class="caps">CPU</span> analysis, <span class="caps">PDA</sp
 
 These statistics also show that findings from the previous study are corroborated and the longer books are available to patrons, the <span class="caps">CPU</span> generally decreases. This holds true for both <span class="caps">PDA</span> and traditionally acquired books. The change over time of the average <span class="caps">CPU</span> of the various print <span class="caps">PDA</span> models can be seen in the slopegraph shown in Figure 2. The most striking portion of this graph is the traditional acquisition model. The average <span class="caps">CPU</span> of traditionally acquired materials drops at a significantly faster rate than the <span class="caps">PDA</span> materials. This dramatic slope is exaggerated by the low initial use of traditionally acquired materials. The increased usage of traditionally acquired materials over longer periods of time explains why the average <span class="caps">CPU</span> for the least effective <span class="caps">PDA</span> model went from 51.7% lower to only 34.7% lower than traditional models.
 
-![Figure 2. Slopegraph comparing mean cost-per-use of 4 months of data to 26 months of data for various print acquisition models. ]({{ site.url }}/assets/images/publications/files/patron-driven/fig2.png)
+![Figure 2. Slopegraph comparing mean cost-per-use of 4 months of data to 26 months of data for various print acquisition models. ]({{ site.url }}/assets/images/publications/files/patron-driven/fig2.svg)
 
 **Figure 2.** Slopegraph comparing mean cost-per-use of 4 months of data to 26 months of data for various print acquisition models.
 
