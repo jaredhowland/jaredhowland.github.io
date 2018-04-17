@@ -297,11 +297,10 @@ It is clear that students prefer federated searching over traditional searching,
 
 ## Appendix B: Hypothetical Assignments
 <div style="border:1px solid #000;font-weight:bold;">
-1 – F<br>
-INTERNAL USE ONLY &#09;&#09;Net ID: _____________<br>
-Start Time 1: _________ Start Time 2: _________
-<br>
-End Time 1 : _________ End Time 2 : _________
+1-F<br>
+INTERNAL USE ONLY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Net ID: _____________<br>
+Start Time 1: _________ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Start Time 2: _________<br>
+End Time 1 : _________ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End Time 2 : _________
 </div>
 
 ### Hypothetical Research Assignment #1
