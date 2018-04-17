@@ -249,9 +249,14 @@ We asked the <span class="caps">ACRL</span> conference audience to predict the u
   <img src="{{ site.url }}/assets/images/publications/files/federated-searching/fig1.svg" alt="Actual ratings given by undergraduates" width="600" height="413">
 </figure>
 
+<figure>
+  <figcaption><strong>Figure 2.</strong> Predicted ratings given by librarians</figcaption>
+  <img src="{{ site.url }}/assets/images/publications/files/federated-searching/fig2.svg" alt="Predicted ratings given by librarians" width="600" height="413">
+</figure>
+
 <!-- <iframe width="600" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRNlmo1mMvb6X-ZNJ4RU_Ngs_46oKHiYU0952ExTlsTO-oXTrck6Sh-k-rc_alNaU1ShZG2LAOXLGv/pubchart?oid=2&amp;format=interactive"></iframe> -->
 
-<iframe width="600" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS7N7VTvg8I9HquLFdf0m8iyZelmSySh34LbLuGVH44sBvbQfchpTwQM8fDIXLCXcS7QMv0kbcEp5ot/pubchart?oid=2&amp;format=interactive"></iframe>
+<!-- <iframe width="600" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS7N7VTvg8I9HquLFdf0m8iyZelmSySh34LbLuGVH44sBvbQfchpTwQM8fDIXLCXcS7QMv0kbcEp5ot/pubchart?oid=2&amp;format=interactive"></iframe> -->
 
 The audience correctly anticipated that undergraduates prefer federated searching over the alternative. They may well have expected it to be even stronger than the 70% we found, given that 97% of the audience assumed this preference.
 
