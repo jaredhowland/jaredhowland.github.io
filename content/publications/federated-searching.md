@@ -290,7 +290,7 @@ It is clear that students prefer federated searching over traditional searching,
     * A typical journal article citation looks something like this. (Some citations include an abstract or short summary such as this example. Others do not.)
 > The criminology of genocide: The death and rape of Darfur  
 > Hagan, J.; Rymond-Richmond, W.  
-> Criminology, vol. 43, no. 3, pp. 525–561, 2005  
+> *Criminology*, vol. 43, no. 3, pp. 525–561, 2005  
 > This study examines Sudanese government involvement in the racially motivated murders of nearly 400,000 Africans from the Darfur region of Sudan. Data were obtained from a victimization survey of Darfurian survivors living in refugee camps in Chad…
     * There is no set number of citations you need to gather. You alone determine what “enough citations” means. Simply gather a sufficient number of usable citations that you feel confident you would be able to complete each hypothetical assignment.
 * When you find a citation you want to use, copy all of the citation information available on the screen for the journal article of interest.
@@ -316,7 +316,7 @@ You’ve been given an assignment to write a 10 page research paper on the topic
 
 Using the resources available to you, find enough citations to complete this assignment (copy citations to the “Scratch Pad” on the right-hand side of your screen).
 
- <img src="{{ site.url }}/assets/images/publications/files/federated-searching/Appendix_B.svg" alt="stop" title="stop" width="41" height="42"/>After you have completed this hypothetical assignment, stop your work and notify the administrator.
+<img src="{{ site.url }}/assets/images/publications/files/federated-searching/Appendix_B.svg" alt="stop" title="stop" width="41" height="42"/>After you have completed this hypothetical assignment, stop your work and notify the administrator.
 
 ### Hypothetical Research Assignment #2
 
@@ -325,7 +325,7 @@ You’ve been given an assignment to write a 10 page research paper on the topic
 
 Using the resources available to you, find enough citations to complete this assignment (copy citations to the “Scratch Pad” on the right-hand side of your screen).
 
- <img src="{{ site.url }}/assets/images/publications/files/federated-searching/Appendix_B.svg" alt="stop" title="stop" width="41" height="42"/>After you have completed this hypothetical assignment, stop your work and notify the administrator.
+<img src="{{ site.url }}/assets/images/publications/files/federated-searching/Appendix_B.svg" alt="stop" title="stop" width="41" height="42"/>After you have completed this hypothetical assignment, stop your work and notify the administrator.
 
 ## Appendix C: Participant Questionnaire
 

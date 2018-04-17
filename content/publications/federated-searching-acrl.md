@@ -238,7 +238,7 @@ Finally, this study addressed undergraduate students only. More research is need
 
 > The criminology of genocide: The death and rape of Darfur  
 > Hagan, J.; Rymond-Richmond, W.  
-> Criminology, vol. 43, no. 3, pp. 525–561, 2005  
+> *Criminology*, vol. 43, no. 3, pp. 525–561, 2005  
 > This study examines Sudanese government involvement in the racially motivated murders of nearly 400,000 Africans from the Darfur region of Sudan. Data were obtained from a victimization survey of Darfurian survivors living in refugee camps in Chad…
 
   * There is no set number of citations you need to gather. You alone determine what “enough citations” means. Simply gather a sufficient number of usable citations that you feel confident you would be able to complete each hypothetical assignment.
@@ -252,21 +252,20 @@ Finally, this study addressed undergraduate students only. More research is need
 
 ## Appendix B: Hypothetical Assignments
 <div style="border:1px solid #000;font-weight:bold;">
-1 – F
-
-INTERNAL USE ONLY  Start Time 1: _________ Start Time 2: _________
-
-Net ID: _____________  End Time 1 : _________ End Time 2 : _________
+1-F<br>
+INTERNAL USE ONLY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Net ID: _____________<br>
+Start Time 1: _________ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Start Time 2: _________<br>
+End Time 1 : _________ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;End Time 2 : _________
 </div>
 
-### Hypothetical Research Assignment #1</h3>
+### Hypothetical Research Assignment #1
 
 You’ve been given an assignment to write a 10 page research paper on the topic outlined below:
 > Ignoring any ethical issues involved, what is the current status of stem cell research for the treatment of diabetes?
 
 Using the resources available to you, find enough citations to complete this assignment (copy citations to the “Scratch Pad” on the right-hand side of your screen).
 
- <img src="{{ site.url }}/assets/images/publications/files/federated-searching/Appendix_B.png" alt="stop" title="stop" width="41" height="42"/>After you have completed this hypothetical assignment, stop your work and notify the administrator.
+<img src="{{ site.url }}/assets/images/publications/files/federated-searching/Appendix_B.svg" alt="stop" title="stop" width="41" height="42"/>After you have completed this hypothetical assignment, stop your work and notify the administrator.
 
 ### Hypothetical Research Assignment #2
 
@@ -275,7 +274,7 @@ You’ve been given an assignment to write a 10 page research paper on the topic
 
 Using the resources available to you, find enough citations to complete this assignment (copy citations to the “Scratch Pad” on the right-hand side of your screen).
 
- <img src="{{ site.url }}/assets/images/publications/files/federated-searching/Appendix_B.png" alt="stop" title="stop" width="41" height="42"/>After you have completed this hypothetical assignment, stop your work and notify the administrator.
+<img src="{{ site.url }}/assets/images/publications/files/federated-searching/Appendix_B.svg" alt="stop" title="stop" width="41" height="42"/>After you have completed this hypothetical assignment, stop your work and notify the administrator.
 
 ## Appendix C: Participant Questionnaire
 
@@ -283,8 +282,8 @@ Using the resources available to you, find enough citations to complete this ass
         1   2   3   4   5   6   7  
 2. How satisfied were you with the citations you were able to discover using the second research method (Hypothetical Assignment #2)? (Circle One: 1=Unsatisfied to 7=Very satisfied)  
         1   2   3   4   5   6   7
-3. Which method did you prefer? (First)____ (Second)____  
-Why?<br/><br/><br/>
+3. Which method did you prefer? (First)\_\_\_\_ (Second)\_\_\_\_  
+Why?<br><br><br>
 4. What other comments do you have about your searching experiences?
 
 ## Appendix D: Librarian-Created Quality Rubric
@@ -443,7 +442,7 @@ The data was then normalized to a maximum value of 10.
   </tbody>
 </table>
 
-<sup>*</sup> *Good Quality*: Citations reporting primary research results would be considered of higher quality than review articles or other types of articles. Citations from “scholarly” or peer-reviewed sources would be considered of higher quality than citations from “popular” or non-peer reviewed sources.
+<sup>&#42;</sup> *Good Quality*: Citations reporting primary research results would be considered of higher quality than review articles or other types of articles. Citations from “scholarly” or peer-reviewed sources would be considered of higher quality than citations from “popular” or non-peer reviewed sources.
 
 ## Notes
 
@@ -458,4 +457,4 @@ The data was then normalized to a maximum value of 10.
 9. <a name="nine"></a>Ibid., 251 (emphasis ours).
 10. <a name="ten"></a>Ibid., 253 (emphasis ours).
 11. <a name="eleven"></a>Ibid., 252. Our participants’ terms closely parallel those of West Virginia University students as reported by Penny Pugh in her contribution to the cited column.
-12. <a name="twelve"></a>A report on the Quality Metrics project at Emory University states, “There was a categorical rejection of the value – and, of the very possibility – of substantive quality indicators presented in the ratings system, in particular as these applied to books and journals. One philosophical objection was to the notion of the quantification of quality in such a reductive manner.” The “quantification” referred to the creation of a rating of search results “hypothetically conceptualized as computed through numerically weighing various factors such as academic peer comments, non-academic comments, number of times cited, and the like.” Rohit Chopra and Aaron Krowne, “[Disciplining Search/Searching Disciplines: Perspectives from Academic Communities on Metasearch Quality Indicators](http://www.firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1381/1299),” *First Monday* 11, no. 8 (2006): under “A. Thematic explication of key findings”, “4. Quality as User Empowerment to Make Judgments about Quality.”
+12. <a name="twelve"></a>A report on the Quality Metrics project at Emory University states, “There was a categorical rejection of the value – and, of the very possibility – of substantive quality indicators presented in the ratings system, in particular as these applied to books and journals. One philosophical objection was to the notion of the quantification of quality in such a reductive manner.” The “quantification” referred to the creation of a rating of search results “hypothetically conceptualized as computed through numerically weighing various factors such as academic peer comments, non-academic comments, number of times cited, and the like.” Rohit Chopra and Aaron Krowne, “[Disciplining Search/Searching Disciplines: Perspectives from Academic Communities on Metasearch Quality Indicators](http://www.firstmonday.org/ojs/index.php/fm/article/view/1381/1299),” *First Monday* 11, no. 8 (2006): under “A. Thematic explication of key findings”, “4. Quality as User Empowerment to Make Judgments about Quality.”
