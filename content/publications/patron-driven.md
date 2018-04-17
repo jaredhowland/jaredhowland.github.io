@@ -21,9 +21,10 @@ For many years, we at Brigham Young University (<span class="caps">BYU</span>) h
 
 <span class="caps">BYU</span> started using patron-driven models based on two realities. One is the continuing pressure on material budgets. We have basically maintained a flat budget for the last six years and have made serious adjustments to our purchasing priorities. The second reality is the declining use of our print monograph collection, a trend mirrored around the country. As a percent of the total circulating collection (2.4 million), use has declined from 30% to 16% in the last decade.
 
-**Figure 1.** The percent of the library's collection that circulates in a given year (of materials that are in circulating collections)
-
-<img src="{{ site.url }}/assets/images/publications/files/patron-driven/fig1.svg" alt="The percent of the library's collection that circulates in a given year (of materials that are in circulating collections)" width="600" height="279">
+<figure>
+  <figcaption>**Figure 1.** The percent of the library's collection that circulates in a given year (of materials that are in circulating collections)</figcaption>
+  <img src="{{ site.url }}/assets/images/publications/files/patron-driven/fig1.svg" alt="The percent of the library's collection that circulates in a given year (of materials that are in circulating collections)" width="600" height="279">
+</figure>
 
 In 2009 we completed a retrospective ten year analysis comparing our monograph acquisitions to their circulation activity. The findings of this analysis were helpful as we examined our purchasing patterns. A book purchased in 1999 had a 50% chance of circulating in ten years. Put another way, of all books purchased in 1999 (55,490) only 50% had circulated by 2009. Only 34% of books purchased in 2008 had circulated by the end of 2009. Even after allowing for ten years, half of our books are not used. Perhaps a better model for acquisitions was needed.
 
@@ -199,9 +200,10 @@ On a strictly <span class="caps">CPU</span> analysis, <span class="caps">PDA</sp
 
 These statistics also show that findings from the previous study are corroborated and the longer books are available to patrons, the <span class="caps">CPU</span> generally decreases. This holds true for both <span class="caps">PDA</span> and traditionally acquired books. The change over time of the average <span class="caps">CPU</span> of the various print <span class="caps">PDA</span> models can be seen in the slopegraph shown in Figure 2. The most striking portion of this graph is the traditional acquisition model. The average <span class="caps">CPU</span> of traditionally acquired materials drops at a significantly faster rate than the <span class="caps">PDA</span> materials. This dramatic slope is exaggerated by the low initial use of traditionally acquired materials. The increased usage of traditionally acquired materials over longer periods of time explains why the average <span class="caps">CPU</span> for the least effective <span class="caps">PDA</span> model went from 51.7% lower to only 34.7% lower than traditional models.
 
-**Figure 2.** Slopegraph comparing mean cost-per-use of 4 months of data to 26 months of data for various print acquisition models.
-
-![Figure 2. Slopegraph comparing mean cost-per-use of 4 months of data to 26 months of data for various print acquisition models.]({{ site.url }}/assets/images/publications/files/patron-driven/fig2.svg)
+<figure>
+  <figcaption>**Figure 2.** Slopegraph comparing mean cost-per-use of 4 months of data to 26 months of data for various print acquisition models.</figcaption>
+  <img src="{{ site.url }}/assets/images/publications/files/patron-driven/fig2.svg" alt="Figure 2. Slopegraph comparing mean cost-per-use of 4 months of data to 26 months of data for various print acquisition models.">
+</figure>
 
 When comparing acquisition models, the comparison of the number of titles that received use to the number of titles without any use is an interesting exercise. Almost all <span class="caps">PDA</span> titles had use, and their use increased over time. The suggest-a-book model had a higher number of items that did not circulate which shows the library’s policy to not notify the patron of the purchase could be a problem and suggests a need for process improvement. Even with this oversight, the suggest-a-book model only yielded 15.2% of titles without use while 44.7% of traditionally acquired materials received no use. With the other <span class="caps">PDA</span> models, there was only 1 book that did not get a use. So not only are there more uses for <span class="caps">PDA</span> acquired materials, but a much higher percentage of these materials get used.
 
