@@ -96,15 +96,16 @@ blockquote p {
   padding-bottom: 0;
 }
 
+caption,
+figcaption {
+  background: #FFFFFF;
+  margin-bottom: 1em;
+  padding: 1em;
+  text-align: left;
+}
+
 table {
   margin: 2em 0;
-
-  caption {
-    background: #FFFFFF;
-    margin-bottom: 1em;
-    padding: 1em;
-    text-align: left;
-  }
 
   tbody {
     tr {
