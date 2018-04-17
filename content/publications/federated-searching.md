@@ -297,14 +297,13 @@ It is clear that students prefer federated searching over traditional searching,
 
 ## Appendix B: Hypothetical Assignments
 <div style="border:1px solid #000;font-weight:bold;">
-1 – F
-
+1 – F<br><br>
 INTERNAL USE ONLY  Start Time 1: _________ Start Time 2: _________
-
+<br><br>
 Net ID: _____________  End Time 1 : _________ End Time 2 : _________
 </div>
 
-### Hypothetical Research Assignment #1</h3>
+### Hypothetical Research Assignment #1
 
 You’ve been given an assignment to write a 10 page research paper on the topic outlined below:
 > Ignoring any ethical issues involved, what is the current status of stem cell research for the treatment of diabetes?
@@ -328,8 +327,8 @@ Using the resources available to you, find enough citations to complete this ass
         1   2   3   4   5   6   7  
 2. How satisfied were you with the citations you were able to discover using the second research method (Hypothetical Assignment #2)? (Circle One: 1=Unsatisfied to 7=Very satisfied)  
         1   2   3   4   5   6   7
-3. Which method did you prefer? (First)\____ (Second)\____  
-Why?<br/><br/><br/>
+3. Which method did you prefer? (First)\_\_\_\_ (Second)\_\_\_\_  
+Why?<br><br><br>
 4. What other comments do you have about your searching experiences?
 
 ## Appendix D: Librarian-Created Quality Rubric
