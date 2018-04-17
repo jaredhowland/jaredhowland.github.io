@@ -311,7 +311,7 @@ You’ve been given an assignment to write a 10 page research paper on the topic
 
 Using the resources available to you, find enough citations to complete this assignment (copy citations to the “Scratch Pad” on the right-hand side of your screen).
 
- <img src="{{ site.url }}/assets/images/publications/files/federated-searching/Appendix_B.png" alt="stop" title="stop" width="41" height="42"/>After you have completed this hypothetical assignment, stop your work and notify the administrator.
+ <img src="{{ site.url }}/assets/images/publications/files/federated-searching/Appendix_B.svg" alt="stop" title="stop" width="41" height="42"/>After you have completed this hypothetical assignment, stop your work and notify the administrator.
 
 ### Hypothetical Research Assignment #2
 
@@ -320,7 +320,7 @@ You’ve been given an assignment to write a 10 page research paper on the topic
 
 Using the resources available to you, find enough citations to complete this assignment (copy citations to the “Scratch Pad” on the right-hand side of your screen).
 
- <img src="{{ site.url }}/assets/images/publications/files/federated-searching/Appendix_B.png" alt="stop" title="stop" width="41" height="42"/>After you have completed this hypothetical assignment, stop your work and notify the administrator.
+ <img src="{{ site.url }}/assets/images/publications/files/federated-searching/Appendix_B.svg" alt="stop" title="stop" width="41" height="42"/>After you have completed this hypothetical assignment, stop your work and notify the administrator.
 
 ## Appendix C: Participant Questionnaire
 
@@ -328,7 +328,7 @@ Using the resources available to you, find enough citations to complete this ass
         1   2   3   4   5   6   7  
 2. How satisfied were you with the citations you were able to discover using the second research method (Hypothetical Assignment #2)? (Circle One: 1=Unsatisfied to 7=Very satisfied)  
         1   2   3   4   5   6   7
-3. Which method did you prefer? (First)____ (Second)____  
+3. Which method did you prefer? (First)\____ (Second)\____  
 Why?<br/><br/><br/>
 4. What other comments do you have about your searching experiences?
 
@@ -488,7 +488,7 @@ The data was then normalized to a maximum value of 10.
   </tbody>
 </table>
 
-<sup>*</sup> *Good Quality*: Citations reporting primary research results would be considered of higher quality than review articles or other types of articles. Citations from “scholarly” or peer-reviewed sources would be considered of higher quality than citations from “popular” or non-peer reviewed sources.
+<sup>&#42;</sup> *Good Quality*: Citations reporting primary research results would be considered of higher quality than review articles or other types of articles. Citations from “scholarly” or peer-reviewed sources would be considered of higher quality than citations from “popular” or non-peer reviewed sources.
 
 ## Notes
 
