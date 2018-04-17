@@ -48,9 +48,10 @@ It is critical for any cost-benefit analysis to closely examine all aspects of a
 
 Because of the imprecise estimations of a total output cost study, and the need to include additional handling of shelf-ready books, we decided to approach the calculation of the various costs and benefits in a more comprehensive manner with a time-task cost study. We sought to improve upon previous studies by using a more fine-grained instrument to collect time and cost data similar in nature to the one used in the Carnegie Mellon University Libraries study. Wanting to determine the cost of cataloging and physically processing print books at the item-level, we examined the cost of the materials and staff time spent cataloging individual books. To calculate the costs we tracked all the books we received from our primary United States vendor, <span class="caps">YBP</span>, for a four month period in 2009. We tracked both our approval books, which are not received shelf-ready, and our firm orders, some of which are received shelf-ready and some of which are received partially shelf-ready. For each book received, we inserted a slip that stayed in the book until it was placed on the shelf for patron use. Employees recorded the amount of time they spent working on individual books by noting both the day and time they received the book and the day and time they sent it on for the next processing step (see Figure 1). This slip let us track the costs for not only <span class="caps">YBP</span> shelf-ready and partially shelf-ready books, but also all the non-shelf-ready approval books. This allowed us to make a direct comparison of costs and benefits of shelf-ready books to books that are not shelf-ready.
 
-![Figure 1 ]({{ site.url }}/assets/images/publications/files/shelf-ready/fig1.png "Figure 1")
-
-**Fig. 1** Paper slip inserted into all firm-order books received from Yankee.
+<figure>
+  <figcaption>**Figure 1.** Paper slip inserted into all firm-order books received from Yankee.</figcaption>
+  <img src="{{ site.url }}/assets/images/publications/files/shelf-ready/fig1.svg" alt="Paper slip inserted into all firm-order books received from Yankee">
+</figure>
 
 The tasks we measured varied depending on the acquisition method and the amount of physical processing needed to get the book to the shelf for patron use. For our approval orders, our acquisitions staff did a duplicate holdings check, closed out the purchase order and tattle taped the book while our cataloging staff did the copy cataloging, barcoding and property stamp. For our firm orders, acquisition staff closed out the purchase order and the cataloging staff reviewed the record making changes as needed.
 
