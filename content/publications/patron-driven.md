@@ -23,9 +23,7 @@ For many years, we at Brigham Young University (<span class="caps">BYU</span>) h
 
 **Figure 1.** The percent of the library's collection that circulates in a given year (of materials that are in circulating collections)
 
-![Figure 1. The percent of the library's collection that circulates in a given year (of materials that are in circulating collections)]({{ site.url }}/assets/images/publications/files/patron-driven/fig1.svg)
-
-<!-- <img src="{{ site.url }}/assets/images/publications/files/patron-driven/fig1.svg" alt="The percent of the library's collection that circulates in a given year (of materials that are in circulating collections)" width="600" height="329"> -->
+<img src="{{ site.url }}/assets/images/publications/files/patron-driven/fig1.svg" alt="The percent of the library's collection that circulates in a given year (of materials that are in circulating collections)" width="600" height="279">
 
 In 2009 we completed a retrospective ten year analysis comparing our monograph acquisitions to their circulation activity. The findings of this analysis were helpful as we examined our purchasing patterns. A book purchased in 1999 had a 50% chance of circulating in ten years. Put another way, of all books purchased in 1999 (55,490) only 50% had circulated by 2009. Only 34% of books purchased in 2008 had circulated by the end of 2009. Even after allowing for ten years, half of our books are not used. Perhaps a better model for acquisitions was needed.
 
