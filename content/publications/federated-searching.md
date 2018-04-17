@@ -244,7 +244,12 @@ The <span class="caps">ACRL</span> conference audience agreed with the literatur
 
 We asked the <span class="caps">ACRL</span> conference audience to predict the undergraduate satisfaction ratings using the same seven point scale where one means “Unsatisfied” and seven means “Very satisfied.” Graphs 1 and 2 show the differences between what we found in the study and the assumptions made by the audience.
 
-<iframe width="600" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRNlmo1mMvb6X-ZNJ4RU_Ngs_46oKHiYU0952ExTlsTO-oXTrck6Sh-k-rc_alNaU1ShZG2LAOXLGv/pubchart?oid=2&amp;format=interactive"></iframe>
+<figure>
+  <figcaption><strong>Figure 1.</strong> Actual ratings given by undergraduates</figcaption>
+  <img src="{{ site.url }}/assets/images/publications/files/federated-searching/fig1.svg" alt="Actual ratings given by undergraduates" width="600" height="413">
+</figure>
+
+<!-- <iframe width="600" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRNlmo1mMvb6X-ZNJ4RU_Ngs_46oKHiYU0952ExTlsTO-oXTrck6Sh-k-rc_alNaU1ShZG2LAOXLGv/pubchart?oid=2&amp;format=interactive"></iframe> -->
 
 <iframe width="600" height="371" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS7N7VTvg8I9HquLFdf0m8iyZelmSySh34LbLuGVH44sBvbQfchpTwQM8fDIXLCXcS7QMv0kbcEp5ot/pubchart?oid=2&amp;format=interactive"></iframe>
 
