@@ -8,7 +8,7 @@ permalink: /presentations/small-data-oclc/
 ## <span class="caps">OCLC</span> Americas Regional Council Meeting 2017 ##
 Jared L. Howland
 
-Given October 2017 in Baltimore <span class="caps">MD</span>
+Given October 2017 in Baltimore, <span class="caps">MD</span>
 
 **Download:** [PowerPoint][] \| [PDF][]
 

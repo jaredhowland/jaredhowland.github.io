@@ -8,7 +8,7 @@ permalink: /presentations/small-data-erl/
 ## Electronic Resources and Libraries 2018 Conference ##
 Jared L. Howland
 
-Given March 2018 in Austin <span class="caps">TX</span>
+Given March 2018 in Austin, <span class="caps">TX</span>
 
 **Download:** [PowerPoint][] \| [PDF][] \| [Handout][]
 
