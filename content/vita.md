@@ -85,7 +85,8 @@ Provo, <span class="caps">UT</span> 84602
 
 ## Publications ##
 
-* Howland, Jared L. (forthcoming 2018). **Report of the ALCTS Acquisitions Section (AS) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - Denver, February 2018**. *Technical Services Quarterly*. 35(3).
+* Howland, Jared L. and Sochay, Lee (forthcoming 2018). **Report of the <span class="caps">ALCTS</span> Acquisitions Section (AS) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - New Orleans, June 2018**. *Technical Services Quarterly*
+* Howland, Jared L. (forthcoming 2018). **Report of the <span class="caps">ALCTS</span> Acquisitions Section (AS) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - Denver, February 2018**. *Technical Services Quarterly*
 * Howland, Jared L., Schroeder, Rebecca, Wright, Thomas C. (2013). **Brigham Young University’s Patron-driven Acquisitions: Does It Stand the Test of Time?**. *Customer-Based Collection Development: An Overview*. ISBN: [978-1-85604-931-3][14].
 * Schroeder, Rebecca and Howland, Jared L. (2011). **Shelf-ready: A Cost- benefit Analysis**. *Library Collections, Acquisitions, and Technical Services*. 35(4): 129–134. DOI: [10.1016/j.lcats.2011.04.002][1].
 * Howland, Jared L., Wright, Thomas C., Boughan, Rebecca A. and Roberts, Brian C. (2009). **How Scholarly is Google Scholar? A Comparison to Library Databases**. *College & Research Libraries*. 70(3): 227–234.
@@ -97,7 +98,7 @@ Provo, <span class="caps">UT</span> 84602
 
 ## Presentations ##
 
-* **Small Data Management: Master Data for Better Collection Analysis**, March 2018, to be presented at the Electronic Resources and Libraries 2018 Conference in Austin, <span class="caps">TX</span>
+* **Small Data Management: Master Data for Better Collection Analysis**, March 2018, presented at the Electronic Resources and Libraries 2018 Conference in Austin, <span class="caps">TX</span>
 * **Small Data Management**, October 2017, presented at the <span class="caps">OCLC</span> Americas Regional Council Meeting in Baltimore, <span class="caps">MD</span>
 * **Large Journal Package Cancellations**, May 2017, poster presented at the Utah Library Association’s Annual Conference in Sandy, <span class="caps">UT</span> with Rebecca Boughan
 * **Licensing Business Resources**, June 2013, presented at the <span class="caps">RUSA</span> Preconference at the American Library Association Annual Conference in Chicago, <span class="caps">IL</span>
@@ -193,22 +194,22 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 
 ### Current Assignments ###
 * 2018–Present: Central Processing Unit Subcommittee to Rewrite the Deaccession Policy – Member
-* 2018–Present: ALCTS: Collection Management Section Planning Committee – Member
-* 2017–Present: Utah Library Association ACRL Roundtable - Vice chair
-* 2017–Present: Acquisition Managers and Vendors Interest Group of the American Library Association - Co-chair
-* 2017–Present: Coutts Award nomination of the Association for Library Collections & Technical Services - Member
+* 2018–Present: [<span class="caps">ALCTS</span>: Collection Management Section Planning Committee][15] – Member
+* 2017–Present: [Utah Library Association <span class="caps">ACRL</span> Roundtable][16] - Vice chair
+* 2017–Present: [Acquisition Managers and Vendors Interest Group of the American Library Association][17] - Co-chair
+* 2017–Present: [Coutts Award Nomination of the Association for Library Collections & Technical Services][18] - Member
 * 2017–Present: Collection Development Suite Committee - Member
 * 2017–Present: Science Collection Shift Physical Facilities Implementation Team - Chair
-* 2015–Present: Library-wide Rank and Status Committee - Member (Chair, 2016–2017)
 * 2016–Present: Collection Management and Development Committee - Chair
 * 2016–Present: Digital Preservation Committee - Member
 * 2016–Present: Services Management and Development Committee - Member
 
 ### Past Assignments ###
-* 2018–Present: Memberships Task Force - Member
-* 2018–Present: Search and Screen Committee: Book Repair Manager - Chair
+* 2015–2018: Library-wide Rank and Status Committee - Member (Chair, 2016–2017)
+* 2018: Memberships Task Force - Member
+* 2018: Search and Screen Committee: Book Repair Manager - Chair
 * 2017: Search and Screen Committee: Continuations, Licensing, and Collection Analysis Librarian - Member
-* 2015–2016: Steering Task Force on HBLL Building Plan Development - Member
+* 2015–2016: Steering Task Force on <span class="caps">HBLL</span> Building Plan Development - Member
 * 2016: Search and Screen Committee: Gifts Section Supervisor and Copy Cataloger - Member
 * 2015: Search and Screen Committee: Literature and Humanities Cataloging Specialist - Member
 * 2012–2017: Web Working Group - Past Chair
@@ -219,7 +220,7 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 * 2009–2012: Web Working Group - Chair
 * 2009–2011: Blue Sky Group - Member
 * 2009–2010: Collection Development Database Project Team - Project Manager
-* 2008–2010: North American Serials Interest Group (NASIG) Program Planning Committee - Member
+* 2008–2010: North American Serials Interest Group (<span class="caps">NASIG</span>) Program Planning Committee - Member
 * 2005–2015: Collection Management and Development Committee - Member
 * 2004–2010: Information Literacy Committee - Member
 * 2006–2009: Web Working Group - Member
@@ -228,7 +229,7 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 * 2006–2008: Skunkworks Team - Member
 * 2007–2008: Verde Implementation Team - Project Manager
 * 2007–2008: Website Reorganization Project Team - Member
-* 2007–2008: SFX Implementation Team - Project Manager
+* 2007–2008: <span class="caps">SFX</span> Implementation Team - Project Manager
 * 2006–2007: Consolidated Search Interface Project Team - Member
 * 2006–2007: Utah Library Association - Program Development Chair
 * 2005: Information Literacy Sub-committee: Instruction Room Use Guidelines Rewrite - Chair
@@ -278,3 +279,7 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 [12]: http://www.beta-phi-mu.org/
 [13]: https://www.rusaupdate.org/awards/brass-student-travel-award/
 [14]: http://www.facetpublishing.co.uk/title.php?id=9313
+[15]: http://www.ala.org/alcts/mgrps/cms/cmtes/ats-cmdpol
+[16]: http://ula.org/organization/round-tables/association-of-college-research-libraries-acrl/
+[17]: http://www.ala.org/alcts/mgrps/as/grps/ats-acqdgacqli
+[18]: http://www.ala.org/alcts/mgrps/cms/grps/ats-cmdawcoutts?year=2017
