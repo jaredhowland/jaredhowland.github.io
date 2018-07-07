@@ -4,8 +4,8 @@ permalink: /presentations/
 ---
 # Presentations #
 
-### 2018 [Forthcoming] ###
-* *Small Data Management: Master Data for Better Collection Analysis*, March 2018, presented at the Electronic Resources and Libraries 2018 Conference in Austin, <span class="caps">TX</span>
+### 2018 ###
+* *[Small Data Management: Master Data for Better Collection Analysis][]*, March 2018, presented at the Electronic Resources and Libraries 2018 Conference in Austin, <span class="caps">TX</span>
 
 ### 2017 ###
 * *[Small Data Management][]*, October 2017, presented at the <span class="caps">OCLC</span> Americas Regional Council Meeting in Baltimore <span class="caps">MD</span>
@@ -48,6 +48,7 @@ permalink: /presentations/
 * *Options for the <span class="caps">MLS</span> through Distance Education*, May 2004, presented at the Utah Library Association’s Annual Conference in Ogden, <span class="caps">UT</span> with Bill Lund, Derrik Hiatt and Heather Pitts
 * *The Best Business Resources in the Best Business Topics: Marketing*, May 2004, presented at the Utah Library Association’s Annual Conference in Ogden, <span class="caps">UT</span>
 
+[Small Data Management: Master Data for Better Collection Analysis]:                    {{ site.url }}/presentations/small-data-erl/
 [Small Data Management]:                                                                {{ site.url }}/presentations/small-data-oclc/
 [Large Journal Package Cancellations at BYU]:                                           {{ site.url }}/presentations/journal-cancellation-ula/
 [Licensing Business Resources]:                                                         {{ site.url }}/presentations/licensing-ala/
