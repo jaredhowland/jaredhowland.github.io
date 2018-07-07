@@ -200,9 +200,9 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 * 2017–Present: [Coutts Award Nomination of the Association for Library Collections & Technical Services][18] - Member
 * 2017–Present: Collection Development Suite Committee - Member
 * 2017–Present: Science Collection Shift Physical Facilities Implementation Team - Chair
-* 2016–Present: Collection Management and Development Committee - Chair
 * 2016–Present: Digital Preservation Committee - Member
 * 2016–Present: Services Management and Development Committee - Member
+* 2015–Present: Collection Management and Development Committee - Chair
 
 ### Past Assignments ###
 * 2015–2018: Library-wide Rank and Status Committee - Member (Chair, 2016–2017)
@@ -212,18 +212,16 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 * 2015–2016: Steering Task Force on <span class="caps">HBLL</span> Building Plan Development - Member
 * 2016: Search and Screen Committee: Gifts Section Supervisor and Copy Cataloger - Member
 * 2015: Search and Screen Committee: Literature and Humanities Cataloging Specialist - Member
-* 2012–2017: Web Working Group - Past Chair
+* 2006–2017: Web Working Group - Member (Chair, 2009–2012; Past Chair, 2012–2017)
 * 2012–2016: Library Systems Management Committee - Member
 * 2012–2014: Technical Services Rank and Status Committee - Member (Chair, 2013)
 * 2012: Search and Screen Committee: Monograph Accounts Supervisor - Member
 * 2009–2016: Discovery Systems Management Committee - Member
-* 2009–2012: Web Working Group - Chair
 * 2009–2011: Blue Sky Group - Member
 * 2009–2010: Collection Development Database Project Team - Project Manager
 * 2008–2010: North American Serials Interest Group (<span class="caps">NASIG</span>) Program Planning Committee - Member
 * 2005–2015: Collection Management and Development Committee - Member
 * 2004–2010: Information Literacy Committee - Member
-* 2006–2009: Web Working Group - Member
 * 2007–2009: Primo/MetaLib Implementation Team - Member
 * 2007–2009: Research Behaviors Task Force - Member
 * 2006–2008: Skunkworks Team - Member
