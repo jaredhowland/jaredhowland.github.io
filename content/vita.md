@@ -195,13 +195,14 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 ### Current Assignments ###
 * 2018–Present: Central Processing Unit Subcommittee to Rewrite the Deaccession Policy – Member
 * 2018–Present: [<span class="caps">ALCTS</span>: Collection Management Section Planning Committee][15] – Member
-* 2017–Present: [Utah Library Association <span class="caps">ACRL</span> Roundtable][16] - Vice chair
+* 2017–Present: [Utah Library Association <span class="caps">ACRL</span> Roundtable][16] - Chair (Vice Chair, 2017)
 * 2017–Present: [Acquisition Managers and Vendors Interest Group of the American Library Association][17] - Co-chair
 * 2017–Present: [Coutts Award Nomination of the Association for Library Collections & Technical Services][18] - Member
 * 2017–Present: Collection Development Suite Committee - Member
 * 2017–Present: Science Collection Shift Physical Facilities Implementation Team - Chair
 * 2016–Present: Digital Preservation Committee - Member
 * 2016–Present: Services Management and Development Committee - Member
+* 2015–Present: Utah Academic Library Consortium, Collection Development Committee - Member
 * 2015–Present: Collection Management and Development Committee - Chair
 
 ### Past Assignments ###
