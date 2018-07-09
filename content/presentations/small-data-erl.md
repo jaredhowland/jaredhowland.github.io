@@ -18,7 +18,7 @@ Good afternoon! Thank you all for being here. I’m Jared Howland and I’m the 
 
 ![Slide 002][2]
 
-Before I begin, I wanted to make sure that everyone who is live streaming this is able to access the files I'll be using today. You can get these by going to the conference scheduler. logging in, and downloading the files from the session page.
+Before I begin, I wanted to make sure that everyone who is live streaming this is able to access the files I'll be using today. You can get these by going to the conference scheduler, logging in, and downloading the files from the session page.
 
 ![Slide 003][3]
 
