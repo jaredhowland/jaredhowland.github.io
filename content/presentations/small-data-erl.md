@@ -113,7 +113,7 @@ If you answered yes to any of those questions then you have encountered a data m
 ![Slide 020][20]
 
 * Data management is a broad field with a lot of components associated with it
-* This data management wheel outlines a few of them as defined by the Data Management Association’s “Data Management Body of Knowledge” Framework (2<sup>nd</sup> edition) ([definitions from DAMA-DMBOK: Data Management Body of Knowledge (2<sup>nd</sup> Edition)](http://proquest.safaribooksonline.com.erl.lib.byu.edu/book/databases/business-intelligence/9781634622479/chapter-1-data-management/idparadest_19_html))
+* This data management wheel outlines a few of them as defined by the Data Management Association’s “Data Management Body of Knowledge” Framework (2<sup>nd</sup> edition) ([definitions from <span class="caps">DAMA-DMBOK</span>: Data Management Body of Knowledge (2<sup>nd</sup> Edition)](http://proquest.safaribooksonline.com.erl.lib.byu.edu/book/databases/business-intelligence/9781634622479/chapter-1-data-management/idparadest_19_html))
     * **Data governance**: Central to all of data management. Provides direction and oversight for data management by establishing a system of decision rights over data that accounts for the needs of the library
     * **Data architecture management**: the structure of a library’s logical and physical data assets and data management resources
     * **Data modeling & design**: is the process of discovering, analyzing, representing, and communicating data requirements in a precise form called the data model
@@ -292,7 +292,7 @@ If you click on explore…
 
 ![Slide 048][48]
 
-* So that is a quick overview of some tools we have been experimenting with at BYU to help us manage and analyze our collection development data.
+* So that is a quick overview of some tools we have been experimenting with at <span class="caps">BYU</span> to help us manage and analyze our collection development data.
 * Thank you!
 * **[IMAGE: CC0 1.0 Universal Public Domain Dedication](https://pixabay.com/en/question-mark-why-icon-blue-usa-1332062/)**
 
