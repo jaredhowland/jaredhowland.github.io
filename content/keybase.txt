@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jaredhowland
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jaredhowland.com
+  * I am jaredhowland (https://keybase.io/jaredhowland) on keybase.
+  * I have a public key ASD1pQNzE0_0oHHfyhh8duLIgfiX-lol--kN64_0U7Svlwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f5a50373134ff4a071dfca187c76e2c881f897fa5a25fbe90deb8ff453b4af970a",
+      "host": "keybase.io",
+      "kid": "0120f5a50373134ff4a071dfca187c76e2c881f897fa5a25fbe90deb8ff453b4af970a",
+      "uid": "b034cfc0fad25893f1284a1ce2318019",
+      "username": "jaredhowland"
+    },
+    "merkle_root": {
+      "ctime": 1533654465,
+      "hash": "6fd4395d9e94e2957d83ae8c8da7080e12c0ded0b82bf8447ffdbfefeab0ceddf3aa1d929002592c182f0c142197205e639ce16b15a285d987232b5d5882bf55",
+      "hash_meta": "61a110969b56757a150efbfe0863a19b9de26cbf6a5cf5da783c5c475524915a",
+      "seqno": 3420585
+    },
+    "service": {
+      "entropy": "BU4fOXRDBQR2e3VohMru0IG2",
+      "hostname": "jaredhowland.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1533654475,
+  "expire_in": 504576000,
+  "prev": "3597f7955447cd38beedb9ed453ef4056f6ffe0174e14db5f6d02df32ae1059a",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9aUDcxNP9KBx38oYfHbiyIH4l/paJfvpDeuP9FO0r5cKp3BheWxvYWTESpcCCsQgNZf3lVRHzTi+7bntRT70BW9v/gF04U219tAt8yrhBZrEIN4FpB8K6fyE9CqMR8xycthqUx8NluRBcsD8crxPD1X7AgHCo3NpZ8RAjXSEaX5KUWy1S4/WPFNauoIWfSN02KCo93XFi4APexgOivnx+G0wgGL+l3OX8eo/oRgyu5AWHUONSPnGkrY2BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIClpYYHXRu9vufCctfJnTfRYYi9JUxtGUBsgoDLeahWqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jaredhowland
+
+==================================================================
