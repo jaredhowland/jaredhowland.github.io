@@ -336,8 +336,8 @@ Typical arguments against Google Scholar focus on citation counts and point to i
 12. <a name="twelve"></a>Per O Seglen, “Why the Impact Factor of Journals Should Not Be Used for Evaluating Research,” *BMJ* 314, no. 7079 (1997): 498–502.
 13. <a name="thirteen"></a>Xiaotian Chen, “Metalib, Webfeat, and Google: The Strengths and Weaknesses of Federated Search Engines Compared With Google,” *Online Information Review* 30, no. 4 (2006): 413–27.
 
-[Abstract]: http://crl.acrl.org/content/70/3/227.abstract
-[Full Text]: http://crl.acrl.org/content/70/3/227.full.pdf+html
+[Abstract]: https://crl.acrl.org/index.php/crl/article/view/16007
+[Full Text]: https://crl.acrl.org/index.php/crl/article/view/16007/17453
 [1]: #one
 [2]: #two
 [3]: #three

@@ -11,7 +11,7 @@ C\. Jeffrey Belliston, Jared L. Howland and Brian C. Roberts
 
 **Presented:** March 2007 at the 13<sup>th</sup> National <span class="caps">ACRL</span> Conference in Baltimore, <span class="caps">MD</span>.
 
-**Citation Information:** Belliston, Jeffrey C., Howland, Jared L. and Roberts, Brian C. (2007). Undergraduate Use of Federated Searching: A Survey of Preferences and Perceptions of Value-added Functionality. *College &amp; Research Libraries*. 68(6): 472–486. ([Abstract](http://crl.acrl.org/content/68/6/472.abstract)) ([Full Text](http://crl.acrl.org/content/68/6/472.full.pdf+html))
+**Citation Information:** Belliston, Jeffrey C., Howland, Jared L. and Roberts, Brian C. (2007). Undergraduate Use of Federated Searching: A Survey of Preferences and Perceptions of Value-added Functionality. *College &amp; Research Libraries*. 68(6): 472–486. ([Abstract](https://crl.acrl.org/index.php/crl/article/view/15898)) ([Full Text](https://crl.acrl.org/index.php/crl/article/view/15898/17344))
 
 ## Abstract
 

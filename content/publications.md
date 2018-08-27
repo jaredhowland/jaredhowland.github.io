@@ -38,6 +38,8 @@ permalink: /publications/
 
 **Abstract:** Google Scholar was released as a beta product in November of 2004. Since then, Google Scholar has been scrutinized and questioned by many in academia and the library field. Our objectives in undertaking this study were to determine how scholarly Google Scholar is in comparison with traditional library resources and to determine if the scholarliness of materials found in Google Scholar varies across disciplines. We found that Google Scholar is, on average, 17.6% more scholarly than materials found only in library databases and that there is no statistically significant difference between the scholarliness of materials found in Google Scholar across disciplines.
 
+**DOI:** [10.5860/0700227][21]
+
 **Presented:** June 30, 2008 at the American Library Association’s Annual Conference in Anaheim, <span class="caps">CA</span>.
 
 **Citation Information:** Howland, Jared L., Wright, Thomas C., Boughan, Rebecca A. and Roberts, Brian C. How Scholarly is Google Scholar? A Comparison of Google Scholar to Library Databases. *College & Research Libraries*. 70(3): 227–234. ([Abstract][2]) ([Full Text][3])
@@ -68,6 +70,8 @@ permalink: /publications/
 
 **Abstract:** Randomly selected undergraduates at Brigham Young University, Brigham Young University-Idaho and Brigham Young University-Hawaii, all private universities sponsored by The Church of Jesus Christ of Latter-day Saints, participated in a study that investigated four questions regarding federated searching: (1) Does it save time? (2) Do undergraduates prefer it? (3) Are undergraduates satisfied with the results they get from it? (4) Does it yield higher quality results than non-federated searching? Federated searching was, on average, 11% faster than non-federated searching. Undergraduates rated their satisfaction with the citations gathered by federated searching 17% higher than their satisfaction using non-federated search methods. A majority of undergraduates, 70%, preferred federated searching to the alternative. This study could not ultimately determine which of the two search methods yielded higher citation quality. The study does shed light on assumptions about federated searching and will interest librarians in different types of academic institutions given the diversity of the three institutions studied.
 
+**DOI:** [10.5860/crl.68.6.472][22]
+
 **Presented:** March 2007 at the 13th National <span class="caps">ACRL</span> Conference in Baltimore, <span class="caps">MD</span>.
 
 **Citation Information:** Belliston, Jeffrey C., Howland, Jared L. and Roberts, Brian C. (2007). Undergraduate Use of Federated Searching: A Survey of Preferences and Perceptions of Value-added Functionality. *College & Research Libraries*. 68(6): 472–486. ([Abstract][11]) ([Full Text][12])
@@ -93,8 +97,8 @@ permalink: /publications/
 **Citation Information:** Howland, Jared L. and Wright, Thomas C. (2006). Implementing an Electronic Resource Management System: Brigham Young University’s Experience. *Library Hi Tech News*. 23(7): 28–31. ([Full Text][17])
 
 [1]: google-scholar/
-[2]: http://crl.acrl.org/content/70/3/227.abstract
-[3]: http://crl.acrl.org/content/70/3/227.full.pdf+html
+[2]: https://crl.acrl.org/index.php/crl/article/view/16007
+[3]: https://crl.acrl.org/index.php/crl/article/view/16007/17453
 
 [4]: google-scholar-continuing-education/
 [5]: http://dx.doi.org/10.1080/07377360902806890
@@ -105,8 +109,8 @@ permalink: /publications/
 [9]: http://hdl.lib.byu.edu/1877/1427
 
 [10]: federated-searching/
-[11]: http://crl.acrl.org/content/68/6/472.abstract
-[12]: http://crl.acrl.org/content/68/6/472.full.pdf+html
+[11]: https://crl.acrl.org/index.php/crl/article/view/15898
+[12]: https://crl.acrl.org/index.php/crl/article/view/15898/17344
 
 [13]: federated-searching-acrl/
 [14]: http://hdl.lib.byu.edu/1877/487
@@ -119,3 +123,7 @@ permalink: /publications/
 [19]: http://dx.doi.org/10.1016/j.lcats.2011.04.002
 
 [20]: patron-driven/
+
+[21]: http://dx.doi.org/10.5860/0700227
+
+[22]: http://dx.doi.org/10.5860/crl.68.6.472
