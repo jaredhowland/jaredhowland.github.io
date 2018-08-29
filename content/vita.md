@@ -86,7 +86,7 @@ Provo, <span class="caps">UT</span> 84602
 ## Publications ##
 
 * Howland, Jared L. and Sochay, Lee (forthcoming 2018). **Report of the <span class="caps">ALCTS</span> Acquisitions Section (AS) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - New Orleans, June 2018**. *Technical Services Quarterly*.
-* Howland, Jared L. (forthcoming 2018). **Report of the <span class="caps">ALCTS</span> Acquisitions Section (AS) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - Denver, February 2018**. *Technical Services Quarterly*.
+* Howland, Jared L. (forthcoming 2018). **Report of the <span class="caps">ALCTS</span> Acquisitions Section (AS) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - Denver, February 2018**. *Technical Services Quarterly*. DOI: [10.1080/07317131.2018.1509450][19].
 * Howland, Jared L., Schroeder, Rebecca, Wright, Thomas C. (2013). **Brigham Young University’s Patron-driven Acquisitions: Does It Stand the Test of Time?**. *Customer-Based Collection Development: An Overview*. ISBN: [978-1-85604-931-3][14].
 * Schroeder, Rebecca and Howland, Jared L. (2011). **Shelf-ready: A Cost- benefit Analysis**. *Library Collections, Acquisitions, and Technical Services*. 35(4): 129–134. DOI: [10.1016/j.lcats.2011.04.002][1].
 * Howland, Jared L., Wright, Thomas C., Boughan, Rebecca A. and Roberts, Brian C. (2009). **How Scholarly is Google Scholar? A Comparison to Library Databases**. *College & Research Libraries*. 70(3): 227–234.
@@ -282,3 +282,4 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 [16]: http://ula.org/organization/round-tables/association-of-college-research-libraries-acrl/
 [17]: http://www.ala.org/alcts/mgrps/as/grps/ats-acqdgacqli
 [18]: http://www.ala.org/alcts/mgrps/cms/grps/ats-cmdawcoutts?year=2017
+[19]: http://dx.doi.org/10.1080/07317131.2018.1509450
