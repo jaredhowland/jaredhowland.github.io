@@ -8,7 +8,7 @@ navigation:
     url: "/publications"
   - title: "Projects"
     url: "/projects"
-  - title: "Vita"
+  - title: "Vitae"
     url: "/vita"
 
 title: "Jared Howland"
