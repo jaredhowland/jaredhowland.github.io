@@ -336,7 +336,7 @@ Typical arguments against Google Scholar focus on citation counts and point to i
 12. <a name="twelve"></a>Per O Seglen, “Why the Impact Factor of Journals Should Not Be Used for Evaluating Research,” *BMJ* 314, no. 7079 (1997): 498–502.
 13. <a name="thirteen"></a>Xiaotian Chen, “Metalib, Webfeat, and Google: The Strengths and Weaknesses of Federated Search Engines Compared With Google,” *Online Information Review* 30, no. 4 (2006): 413–27.
 
-[Abstract]: https://crl.acrl.org/index.php/crl/article/view/16007
+[Abstract]: https://doi.org/10.5860/0700227
 [Full Text]: https://crl.acrl.org/index.php/crl/article/view/16007/17453
 [1]: #one
 [2]: #two
@@ -351,5 +351,5 @@ Typical arguments against Google Scholar focus on citation counts and point to i
 [11]: #eleven
 [12]: #twelve
 [13]: #thirteen
-[diglib]: http://www.bio-diglib.com/content/3/1/7 "Three options for citation tracking: Google Scholar, Scopus and Web of Science"
+[diglib]: http://dx.doi.org/10.1186/1742-5581-3-7 "Three options for citation tracking: Google Scholar, Scopus and Web of Science"
 [jacso]: http://www2.hawaii.edu/~jacso/scholarly/side-by-side2.htm "Side-by-side2 – Native Search Engines vs Google Scholar"

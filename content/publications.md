@@ -5,11 +5,21 @@ permalink: /publications/
 
 # Publications #
 
+## Report of the <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Annual Conference - New Orleans, June 2018 ##
+
+<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft.atitle=Report%20of%20the%20ALCTS%20Acquisitions%20Section%20%28AS%29%20Acquisitions%20Managers%20and%20Vendors%20Interest%20Group%20Meeting%20-%20American%20Library%20Association%20Annual%20Conference%20-%20New%20Orleans%2C%20June%202018&amp;rft.title=Technical+Services+Quarterly&amp;rft.stitle=Technical+Services+Quarterly&amp;rft.issn=0731-7131&amp;rft.date=2018&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=&amp;rft.epage=&amp;rft.aulast=Howland&amp;rft.aufirst=Jared&amp;rft.auinit=L&amp;rft.au=Jared+L+Howland"></span>
+
+**Abstract:** The <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group meeting at the 2018 American Library Association (<span class="caps">ALA</span>) Annual Conference in New Orleans, Louisiana consisted of a series of presentations and a question and answer session. Rosemary Jarrell, of ProQuest, discussed usage statistics and other data that vendors can sometime provide to librarians outside of traditional usage data. Rebecca Boughan, of Brigham Young University, discussed how to effectively use vendor statistics and which statistics are meaningful and which do not hold much value. Finally, Esra Celtek Coskun, of the University of Illinois, discussed tools and skills required for cleaning and analyzing data.
+
+**Citation Information:** Howland, Jared L. and Sochay, Lee (forthcoming 2018). Report of the <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Annual Conference - New Orleans, June 2018. *Technical Services Quarterly*.
+
 ## Report of the <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - Denver, February 2018 ##
 
 <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft.atitle=Report%20of%20the%20ALCTS%20Acquisitions%20Section%20%28AS%29%20Acquisitions%20Managers%20and%20Vendors%20Interest%20Group%20Meeting%20-%20American%20Library%20Association%20Midwinter%20Conference%20-%20Denver%2C%20February%202018&amp;rft.title=Technical+Services+Quarterly&amp;rft.stitle=Technical+Services+Quarterly&amp;rft.issn=0731-7131&amp;rft.date=2018&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=&amp;rft.epage=&amp;rft.aulast=Howland&amp;rft.aufirst=Jared&amp;rft.auinit=L&amp;rft.au=Jared+L+Howland"></span>
 
 **Abstract:** The <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group meeting at the 2018 American Library Association (<span class="caps">ALA</span>) Midwinter Conference in Denver, Colorado consisted of a series of presentations and a question and answer session. David Parker, of Alexander Street Press, discussed a comparison of demand-driven and subscription acquisition models. Doug Mingle, of Infobase, discussed video acquisition models and classroom use. Tom Humphrey, of Kanopy, discussed streaming media costs and quality. Finally, Mary Sue Hoyle, of <span class="caps">EBSCO</span>, discussed evaluating and working with subscription agents.
+
+**DOI:** [10.1080/07317131.2018.1509450][23]
 
 **Citation Information:** Howland, Jared L. (forthcoming 2018). Report of the <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - Denver, February 2018. *Technical Services Quarterly*.
 
@@ -19,7 +29,7 @@ permalink: /publications/
 
 **Abstract:** This study tracked the cost-per-use (<span class="caps">CPU</span>) of materials purchased at Brigham Young University’s (<span class="caps">BYU</span>) Harold B. Lee Library (<span class="caps">HBLL</span>) over a 26 month period and compared this to a previous study that tracked <span class="caps">CPU</span> over a four month period. The <span class="caps">CPU</span> of traditionally purchased materials declined over the 26 month period, compared to the four month period, but did not approach the efficiencies of the <span class="caps">PDA</span> models as the majority of items had still not been used. A longer time frame is needed to determine the long-term <span class="caps">CPU</span> of the traditional model in relation to the <span class="caps">PDA</span> purchases. However, given our own internal studies that show a ten year span is needed to reach 50% circulation, it is not anticipated that the traditional group will reach the patron driven in cost efficiencies.
 
-**Citation Information:** Howland, Jared L., Schroeder, Rebecca, Wright, Thomas C., (2013). “Brigham Young University’s patron-driven acquisitions: Does it stand the test of time?” In *Customer-based Collection Development: An Overview*. ISBN: 978-1-85604-931-3
+**Citation Information:** Howland, Jared L., Schroeder, Rebecca, and Wright, Thomas C., (2013). “Brigham Young University’s patron-driven acquisitions: Does it stand the test of time?” In *Customer-based Collection Development: An Overview*. ISBN: 978-1-85604-931-3
 
 ## [Shelf-ready: A cost-benefit analysis][18] ##
 
@@ -29,7 +39,7 @@ permalink: /publications/
 
 **DOI:** [10.1016/j.lcats.2011.04.002][19]
 
-**Citation Information:** Schroeder, Rebecca, Howland, Jared L., (2011). Shelf-ready: A cost-benefit analysis. *Library Collections, Acquisitions, and Technical Services*. 35(4):129-134.
+**Citation Information:** Schroeder, Rebecca and Howland, Jared L., (2011). Shelf-ready: A cost-benefit analysis. *Library Collections, Acquisitions, and Technical Services*. 35(4):129-134.
 ([Full Text – **requires subscription**](http://www.sciencedirect.com/science/article/pii/S1464905511000297))
 
 ## [How Scholarly is Google Scholar? A Comparison to Library Databases][1] ##
@@ -97,7 +107,8 @@ permalink: /publications/
 **Citation Information:** Howland, Jared L. and Wright, Thomas C. (2006). Implementing an Electronic Resource Management System: Brigham Young University’s Experience. *Library Hi Tech News*. 23(7): 28–31. ([Full Text][17])
 
 [1]: google-scholar/
-[2]: https://crl.acrl.org/index.php/crl/article/view/16007
+[21]: http://dx.doi.org/10.5860/0700227
+[2]: https://doi.org/10.5860/0700227
 [3]: https://crl.acrl.org/index.php/crl/article/view/16007/17453
 
 [4]: google-scholar-continuing-education/
@@ -109,7 +120,8 @@ permalink: /publications/
 [9]: http://hdl.lib.byu.edu/1877/1427
 
 [10]: federated-searching/
-[11]: https://crl.acrl.org/index.php/crl/article/view/15898
+[22]: http://dx.doi.org/10.5860/crl.68.6.472
+[11]: http://dx.doi.org/10.5860/crl.68.6.472
 [12]: https://crl.acrl.org/index.php/crl/article/view/15898/17344
 
 [13]: federated-searching-acrl/
@@ -124,6 +136,4 @@ permalink: /publications/
 
 [20]: patron-driven/
 
-[21]: http://dx.doi.org/10.5860/0700227
-
-[22]: http://dx.doi.org/10.5860/crl.68.6.472
+[23]: http://dx.doi.org/10.1080/07317131.2018.1509450
