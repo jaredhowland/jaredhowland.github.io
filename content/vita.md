@@ -1,5 +1,5 @@
 ---
-title: Vita
+title: Vitae
 kind: vita
 permalink: /vita/
 ---
