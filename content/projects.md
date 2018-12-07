@@ -4,7 +4,7 @@ permalink: /projects/
 ---
 
 # Projects
-A more complete list of my projects can be found on my [Vita][1].
+A more complete list of my projects can be found on my [Vitae][1].
 
 ## [Journal Overlap Database][2]
 
