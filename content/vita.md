@@ -136,54 +136,54 @@ Serving on a committee that is developing a Collection Development Suite that I 
 Created a database that allowed us to determine the number of places we had access to all our journals. This allowed us to see overlap and cancel subscriptions without losing access to any content. Additionally, assessment information such as impact factor and usage is included in the tool.
 
 ### Past Projects ###
-* **<span class="caps">UALC</span> Resource Tracking System**: 2017–2018 
-Created a system for the Utah Academic Library Consortium (<span class="caps">UALC</span>) to track licensing, pricing, usage, and other data about the resources licensed for consortia members
+* **<span class="caps">UALC</span> Resource Tracking System**: 2017–2018  
+Created a system for the Utah Academic Library Consortium (<span class="caps">UALC</span>) to track licensing, pricing, usage, and other data about the resources licensed for consortia members.
 * **Journal Retention and Cancellation**: 2016–2017  
 Working with campus community and the Library <span class="caps">IT</span> department to create a process for collectively and collaboratively deciding on which journals to retain and which to cancel. Writing extensive resources and communications to ensure everyone is up-to-date on the latest information.
 * **Fund Code Web Service**: 2015  
-I created a web service to track fund code assignments to subject librarians and to map call numbers to the fund code they are most likely associated with
+I created a web service to track fund code assignments to subject librarians and to map call numbers to the fund code they are most likely associated with.
 * **Lettering Software**: 2014  
-Created lettering software that significantly increased the throughput capability of lettering and allowed us to finish a media reclassification process months sooner than would otherwise have been possible
+Created lettering software that significantly increased the throughput capability of lettering and allowed us to finish a media reclassification process months sooner than would otherwise have been possible.
 * **MARC Record Loader**: 2013  
-Created a system that allowed loading MARC records into the library’s ScholarSearch system which significantly streamlined the process and essentially eliminated patron reports of problems with records in the system
+Created a system that allowed loading MARC records into the library’s ScholarSearch system which significantly streamlined the process and essentially eliminated patron reports of problems with records in the system.
 * **Book Assessment Tool**: 2012–2013  
 Creating a database that is the corollary of the journal assessment tool for the library’s eBook collection.
 * **Barcode Generating Service for Auxiliary Storage**: 2011  
-I created a system to streamline the process of moving materials to Auxiliary Storage by allowing the easy creation of barcodes for shelves and the pseudo-patrons needed to manage materials housed in Auxiliary Storage
+I created a system to streamline the process of moving materials to Auxiliary Storage by allowing the easy creation of barcodes for shelves and the pseudo-patrons needed to manage materials housed in Auxiliary Storage.
 * **Collection Development Database**: 2007–2010  
-Proposed and planned the development of a collection development database that will aid in various collection development activities including budget allocation and viewing collection development patterns
+Proposed and planned the development of a collection development database that will aid in various collection development activities including budget allocation and viewing collection development patterns.
 * **MetaLib Implementation**: 2009  
-Implemented MetaLib, a federated search tool for the <span class="caps">LDS</span> Business College Library, <span class="caps">BYU</span>-Idaho Library and <span class="caps">BYU</span>-Hawaii Library
+Implemented MetaLib, a federated search tool for the <span class="caps">LDS</span> Business College Library, <span class="caps">BYU</span>-Idaho Library and <span class="caps">BYU</span>-Hawaii Library.
 * **License Agreement Electronic Repository**: 2006–2009  
-Used the D-Space system to store all license agreements, invoices and various communications with vendors which allowed for searching for individual license agreements and made it easier for the University Copyright Licensing and Interlibrary Loan Offices to find out about all of the library’s licensed rights for electronic resources
+Used the D-Space system to store all license agreements, invoices and various communications with vendors which allowed for searching for individual license agreements and made it easier for the University Copyright Licensing and Interlibrary Loan Offices to find out about all of the library’s licensed rights for electronic resources.
 * **RSS Feed for New Electronic Resources**: 2009  
-Created an RSS feed that automatically updates with the electronic resources that have been added to the library’s A–Z page in the last 3 months
+Created an RSS feed that automatically updates with the electronic resources that have been added to the library’s A–Z page in the last 3 months.
 * **Facebook Application**: 2009  
-Created a Facebook application that searched ScholarSearch and allowed for manipulation of the results by saving to a folder
+Created a Facebook application that searched ScholarSearch and allowed for manipulation of the results by saving to a folder.
 * **iPhone Web Application**: 2009  
-Created a version of the library’s website optimized for use on an iPhone and other modern mobile devices that was subsequently used as the official library mobile site
+Created a version of the library’s website optimized for use on an iPhone and other modern mobile devices that was subsequently used as the official library mobile site.
 * **MetaLib Implementation**: 2008  
-Implemented MetaLib, a federated search tool for the Harold B. Lee Library
+Implemented MetaLib, a federated search tool for the Harold B. Lee Library.
 * **Verde Implementation**: 2008  
-Implemented Verde, an electronic resource management (<span class="caps">ERM</span>) tool for the Harold B. Lee Library, <span class="caps">LDS</span> Business College Library, <span class="caps">BYU</span>-Idaho Library and <span class="caps">BYU</span>-Hawaii Library
+Implemented Verde, an electronic resource management (<span class="caps">ERM</span>) tool for the Harold B. Lee Library, <span class="caps">LDS</span> Business College Library, <span class="caps">BYU</span>-Idaho Library and <span class="caps">BYU</span>-Hawaii Library.
 * **<span class="caps">SFX</span> Implementation**: 2007  
-Implemented a Journals A–Z list and an OpenURL link resolver for the Harold B. Lee Library, <span class="caps">BYU</span> Law Library, <span class="caps">LDS</span> Business College Library, <span class="caps">BYU</span>-Idaho Library and <span class="caps">BYU</span>-Hawaii Library
+Implemented a Journals A–Z list and an OpenURL link resolver for the Harold B. Lee Library, <span class="caps">BYU</span> Law Library, <span class="caps">LDS</span> Business College Library, <span class="caps">BYU</span>-Idaho Library and <span class="caps">BYU</span>-Hawaii Library.
 * **Greasemonkey Script**: 2007  
-Created a [Greasemonkey][9] script that allowed users to find library materials from within Amazon.com
+Created a [Greasemonkey][9] script that allowed users to find library materials from within Amazon.com.
 * **Database Problem Notification**: 2006  
-Created system to allow the library to notify patrons of database problems and allow them to easily report any problems they find
+Created system to allow the library to notify patrons of database problems and allow them to easily report any problems they find.
 * **<span class="caps">HBLL</span> Research Yahoo! Widget Engine**: 2006  
-Created an <span class="caps">HBLL</span> Research Yahoo! Widget that allowed patrons to search the library catalog, databases, journal finder and Google Scholar
+Created an <span class="caps">HBLL</span> Research Yahoo! Widget that allowed patrons to search the library catalog, databases, journal finder and Google Scholar.
 * **<span class="caps">HBLL</span> Research Mac OS X Widget**: 2006  
-Created an <span class="caps">HBLL</span> Research Mac OS X Widget that allowed patrons to search the library catalog, databases, journal finder and Google Scholar
+Created an <span class="caps">HBLL</span> Research Mac OS X Widget that allowed patrons to search the library catalog, databases, journal finder and Google Scholar.
 * **Mozilla Firefox Library Toolbar**: 2006  
-Released to the public a [toolbar][6] for the Mozilla Firefox browser that allows patrons to search the library catalog and databases, reserve group study rooms, request materials through Interlibrary Loan, and check library holdings from Amazon.com listings
+Released to the public a [toolbar][6] for the Mozilla Firefox browser that allows patrons to search the library catalog and databases, reserve group study rooms, request materials through Interlibrary Loan, and check library holdings from Amazon.com listings.
 * **Cascade Mountain High School Library Project**: 2005–2007  
-Set up the library on an open-source automated library system, trained staff on copy cataloging, and gathered donations of materials for the library’s collection
+Set up the library on an open-source automated library system, trained staff on copy cataloging, and gathered donations of materials for the library’s collection.
 * **Management Tools for Databases A–Z List**: 2005  
-Created system to allow for recording of information on back-end of Databases A–Z list such as the sponsor of the resource, when the resource was added to the A–Z list and whether or not the resource is a paid subscription
+Created system to allow for recording of information on back-end of Databases A–Z list such as the sponsor of the resource, when the resource was added to the A–Z list and whether or not the resource is a paid subscription.
 * **Gold Rush**: 2005  
-Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Resources Management (<span class="caps">ERM</span>) System
+Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Resources Management (<span class="caps">ERM</span>) System.
 
 ## Professional Associations ##
 
