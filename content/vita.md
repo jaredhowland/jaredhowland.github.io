@@ -138,12 +138,16 @@ Created a database that allowed us to determine the number of places we had acce
 ### Past Projects ###
 * **<span class="caps">UALC</span> Resource Tracking System**: 2017–2018  
 Created a system for the Utah Academic Library Consortium (<span class="caps">UALC</span>) to track licensing, pricing, usage, and other data about the resources licensed for consortia members.
+* **Unofficial Scopus <span class="caps">PHP SDK</span>**: 2017  
+I wrote an unofficial <span class="caps">PHP SDK</span> for the Elsevier Scopus <span class="caps">API</span>. This has been shared on Github for other libraries to use and has been used in at least 20 projects in other institutions (as of 7 December 2018).
 * **Journal Retention and Cancellation**: 2016–2017  
 Working with campus community and the Library <span class="caps">IT</span> department to create a process for collectively and collaboratively deciding on which journals to retain and which to cancel. Writing extensive resources and communications to ensure everyone is up-to-date on the latest information.
+* **<span class="caps">OCLC</span> Web Services Library Wrapper**: 2014–2017  
+I wrote a library wrapper to make it easier for the library community to use <span class="caps">OCLC</span> web services.
 * **Fund Code Web Service**: 2015  
 I created a web service to track fund code assignments to subject librarians and to map call numbers to the fund code they are most likely associated with.
 * **Lettering Software**: 2014  
-Created lettering software that significantly increased the throughput capability of lettering and allowed us to finish a media reclassification process months sooner than would otherwise have been possible.
+Created lettering software that significantly increased the throughput capability of lettering and allowed us to finish a media reclassification process months sooner than would otherwise have been possible. This has been shared on Github and is available for other libraries to use.
 * **MARC Record Loader**: 2013  
 Created a system that allowed loading MARC records into the library’s ScholarSearch system which significantly streamlined the process and essentially eliminated patron reports of problems with records in the system.
 * **Book Assessment Tool**: 2012–2013  
