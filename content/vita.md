@@ -129,9 +129,9 @@ Provo, <span class="caps">UT</span> 84602
 
 ### Ongoing ###
 * **Data Management System**: 2017–Present  
-Creating a system to store and use data to help us evaluate and assess our collections in an organized and meaningful way
+Creating a system to store and use data to help us evaluate and assess our collections in an organized and meaningful way.
 * **Collection Development Suite**: 2017–Present  
-Serving on a committee that is developing a Collection Development Suite that I proposed as a significant enhancement and expansion of the Collection Development Database to consolidate collection development tools for subject selectors assessing their collections
+Serving on a committee that is developing a Collection Development Suite that I proposed as a significant enhancement and expansion of the Collection Development Database to consolidate collection development tools for subject selectors assessing their collections.
 * **Journal Assessment Tool**: 2009–Present  
 Created a database that allowed us to determine the number of places we had access to all our journals. This allowed us to see overlap and cancel subscriptions without losing access to any content. Additionally, assessment information such as impact factor and usage is included in the tool.
 
