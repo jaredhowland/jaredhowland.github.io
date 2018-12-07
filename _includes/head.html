@@ -5,7 +5,7 @@
  <meta name=author content="{% if page.author %}{{ page.author }}{% else %}{{ site.author}}{% endif %}">
  <meta name=viewport content="width=device-width, initial-scale=1.0">
  <link rel=stylesheet href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700">
- <link rel=stylesheet type="text/css" href="{{ site.url }}/assets/css/styles.min.css" media="screen">
+ <link rel=stylesheet type=text/css href={{ site.url }}/assets/css/styles.min.css>
  {% if site.ga-tracking-code %}
     <script>
         var _gaq = _gaq || [];
@@ -22,4 +22,7 @@
  {% if site.typekit-id %}
     <script src=//use.typekit.net/{{ site.typekit-id }}.js></script>
     <script>try{Typekit.load();}catch(e){}</script>
+ {% endif %}
+ {% if site.plumx %}
+    <script src=//d39af2mgp1pqhg.cloudfront.net/widget-popup.js></script>
  {% endif %}
