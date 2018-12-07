@@ -5,13 +5,19 @@ permalink: /publications/
 
 # Publications #
 
+## Library Space Transformed ##
+
+**Abstract:** Beginning in the fall of 2017, the Harold B. Lee Library at Brigham Young University undertook a project to assess our science collections due to a planned expansion of our library information technology department. Our teams evaluated 18,578 shelves of content and decided to either 1) keep an item on the shelf, or 2) move it to on-site auxiliary storage, or 3) withdraw it. They worked with fellow subject librarians and faculty around campus to communicate about the work being done and offer opportunities to review the potential withdraw material before it left the building.<br>Despite the need to make space for the expansion, the primary goal of the project was to strengthen our collections through meaningful assessments and data-driven decisions and not simply make enough space for the expansion. In the end, because of our focus on improved collections, we were able to accommodate the expansion and simultaneously significantly improve the collections remaining on the shelves. In the end, we withdrew 131,476 monographic records and 4,145 serial records. We moved 16,643 monographic and 3,809 serial items to on-site auxiliary storage.
+
+**Citation Information:** Howland, Jared L. and Schroeder, Rebecca (accepted peer-reviewed conference paper 2019). "Library Space Transformed." *Charleston Library Conference*.
+
 ## Report of the <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Annual Conference - New Orleans, June 2018 ##
 
 <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft.atitle=Report%20of%20the%20ALCTS%20Acquisitions%20Section%20%28AS%29%20Acquisitions%20Managers%20and%20Vendors%20Interest%20Group%20Meeting%20-%20American%20Library%20Association%20Annual%20Conference%20-%20New%20Orleans%2C%20June%202018&amp;rft.title=Technical+Services+Quarterly&amp;rft.stitle=Technical+Services+Quarterly&amp;rft.issn=0731-7131&amp;rft.date=2018&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=&amp;rft.epage=&amp;rft.aulast=Howland&amp;rft.aufirst=Jared&amp;rft.auinit=L&amp;rft.au=Jared+L+Howland"></span>
 
 **Abstract:** The <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group meeting at the 2018 American Library Association (<span class="caps">ALA</span>) Annual Conference in New Orleans, Louisiana consisted of a series of presentations and a question and answer session. Rosemary Jarrell, of ProQuest, discussed usage statistics and other data that vendors can sometime provide to librarians outside of traditional usage data. Rebecca Boughan, of Brigham Young University, discussed how to effectively use vendor statistics and which statistics are meaningful and which do not hold much value. Finally, Esra Celtek Coskun, of the University of Illinois, discussed tools and skills required for cleaning and analyzing data.
 
-**Citation Information:** Howland, Jared L. and Sochay, Lee (forthcoming 2018). Report of the <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Annual Conference - New Orleans, June 2018. *Technical Services Quarterly*.
+**Citation Information:** Howland, Jared L. and Sochay, Lee (forthcoming 2019). "Report of the <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Annual Conference - New Orleans, June 2018." *Technical Services Quarterly*.
 
 ## Report of the <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - Denver, February 2018 ##
 

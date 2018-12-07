@@ -85,19 +85,21 @@ Provo, <span class="caps">UT</span> 84602
 
 ## Publications ##
 
-* Howland, Jared L. and Sochay, Lee (forthcoming 2018). **Report of the <span class="caps">ALCTS</span> Acquisitions Section (AS) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - New Orleans, June 2018**. *Technical Services Quarterly*.
-* Howland, Jared L. (forthcoming 2018). **Report of the <span class="caps">ALCTS</span> Acquisitions Section (AS) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - Denver, February 2018**. *Technical Services Quarterly*. DOI: [10.1080/07317131.2018.1509450][19].
-* Howland, Jared L., Schroeder, Rebecca, and Wright, Thomas C. (2013). **Brigham Young University’s Patron-driven Acquisitions: Does It Stand the Test of Time?**. *Customer-Based Collection Development: An Overview*. ISBN: [978-1-85604-931-3][14].
-* Schroeder, Rebecca and Howland, Jared L. (2011). **Shelf-ready: A Cost- benefit Analysis**. *Library Collections, Acquisitions, and Technical Services*. 35(4): 129–134. DOI: [10.1016/j.lcats.2011.04.002][1].
-* Howland, Jared L., Wright, Thomas C., Boughan, Rebecca A. and Roberts, Brian C. (2009). **How Scholarly is Google Scholar? A Comparison to Library Databases**. *College & Research Libraries*. 70(3): 227–234.
-* Howland, Jared L., Wright, Thomas C., Howell, Scott and Dickson, Cody. (2009). **Google Scholar and the Continuing Education Literature**. *The Journal of Continuing Higher Education*. 57:35–39. DOI: [10.1080/07377360902806890][2].
-* Howland, Jared L., Wright, Thomas C., Boughan, Rebecca A. and Roberts, Brian C. (2008). **How Scholarly is Google Scholar? A Comparison of Google Scholar to Library Databases**. *Issues in Librarianship: Presented Papers at the ALA 2008 Annual Conference*. Pages 65–71. ISBN: [978-0-8389-8486-4][3].
-* Belliston, Jeffrey C., Howland, Jared L. and Roberts, Brian C. (2007). **Undergraduate Use of Federated Searching: A Survey of Preferences and Perceptions of Value-added Functionality**. *College & Research Libraries*. 68(6): 472–486.
-* Belliston, Jeffrey C., Howland, Jared L. and Roberts, Brian C. (2007). **Federated Searching: Do Undergraduates Prefer it and Does it Add Value?** *Sailing into the future: Charting our destiny: Proceedings of the Thirteenth National Conference of the Association of College and Research Libraries, March 29–April 1, 2007, Baltimore, Maryland*. Pages 103–113. ISBN: [978-0-8389-8419-2][4].
-* Howland, Jared L. and Wright, Thomas C. (2006). **Implementing an Electronic Resource Management System: Brigham Young University’s Experience**. *Library Hi Tech News*. 23(7): 28–31. DOI: [10.1108/07419050610704358][5].
+* Howland, Jared L. and Schroeder, Rebecca (accepted peer-reviewed conference paper 2019). **Library Space Transformed**. *Charleston Library Conference*.
+* Howland, Jared L. and Sochay, Lee (accepted 2019). **Report of the <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - New Orleans, June 2018**. *Technical Services Quarterly*.
+* Howland, Jared L. (2018). **Report of the <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - Denver, February 2018**. *Technical Services Quarterly*. 35(4): 400–403. <span class="caps">DOI</span>: [10.1080/07317131.2018.1509450][19].
+* Howland, Jared L., Schroeder, Rebecca, and Wright, Thomas C. (2013). **Brigham Young University’s Patron-driven Acquisitions: Does It Stand the Test of Time?**. *Customer-Based Collection Development: An Overview*. <span class="caps">ISBN</span>: [978-1-85604-931-3][14].
+* Schroeder, Rebecca and Howland, Jared L. (2011). **Shelf-ready: A Cost- benefit Analysis**. *Library Collections, Acquisitions, and Technical Services*. 35(4): 129–134. <span class="caps">DOI</span>: [10.1016/j.lcats.2011.04.002][1].
+* Howland, Jared L., Wright, Thomas C., Boughan, Rebecca A. and Roberts, Brian C. (2009). **How Scholarly is Google Scholar? A Comparison to Library Databases**. *College & Research Libraries*. 70(3): 227–234. <span class="caps">DOI</span>: [10.5860/0700227][21].
+* Howland, Jared L., Wright, Thomas C., Howell, Scott and Dickson, Cody. (2009). **Google Scholar and the Continuing Education Literature**. *The Journal of Continuing Higher Education*. 57:35–39. <span class="caps">DOI</span>: [10.1080/07377360902806890][2].
+* Howland, Jared L., Wright, Thomas C., Boughan, Rebecca A. and Roberts, Brian C. (2008). **How Scholarly is Google Scholar? A Comparison of Google Scholar to Library Databases**. *Issues in Librarianship: Presented Papers at the <span class="caps">ALA</span> 2008 Annual Conference*. Pages 65–71. <span class="caps">ISBN</span>: [978-0-8389-8486-4][3].
+* Belliston, Jeffrey C., Howland, Jared L. and Roberts, Brian C. (2007). **Undergraduate Use of Federated Searching: A Survey of Preferences and Perceptions of Value-added Functionality**. *College & Research Libraries*. 68(6): 472–486. <span class="caps">DOI</span>: [10.5860/crl.68.6.472][20].
+* Belliston, Jeffrey C., Howland, Jared L. and Roberts, Brian C. (2007). **Federated Searching: Do Undergraduates Prefer it and Does it Add Value?** *Sailing into the future: Charting our destiny: Proceedings of the Thirteenth National Conference of the Association of College and Research Libraries, March 29–April 1, 2007, Baltimore, Maryland*. Pages 103–113. <span class="caps">ISBN</span>: [978-0-8389-8419-2][4].
+* Howland, Jared L. and Wright, Thomas C. (2006). **Implementing an Electronic Resource Management System: Brigham Young University’s Experience**. *Library Hi Tech News*. 23(7): 28–31. <span class="caps">DOI</span>: [10.1108/07419050610704358][5].
 
 ## Presentations ##
 
+* **Library Space Transformed**, November 2018, presented at the Annual Charleston Conference in Charleston, <span class="caps">SC</span>
 * **Small Data Management: Master Data for Better Collection Analysis**, March 2018, presented at the Electronic Resources and Libraries 2018 Conference in Austin, <span class="caps">TX</span>
 * **Small Data Management**, October 2017, presented at the <span class="caps">OCLC</span> Americas Regional Council Meeting in Baltimore, <span class="caps">MD</span>
 * **Large Journal Package Cancellations**, May 2017, poster presented at the Utah Library Association’s Annual Conference in Sandy, <span class="caps">UT</span> with Rebecca Boughan
@@ -134,7 +136,7 @@ Serving on a committee that is developing a Collection Development Suite that I 
 Created a database that allowed us to determine the number of places we had access to all our journals. This allowed us to see overlap and cancel subscriptions without losing access to any content. Additionally, assessment information such as impact factor and usage is included in the tool.
 
 ### Past Projects ###
-* **<span class="caps">UALC</span> Resource Tracking System**: 2017  
+* **<span class="caps">UALC</span> Resource Tracking System**: 2017–2018 
 Created a system for the Utah Academic Library Consortium (<span class="caps">UALC</span>) to track licensing, pricing, usage, and other data about the resources licensed for consortia members
 * **Journal Retention and Cancellation**: 2016–2017  
 Working with campus community and the Library <span class="caps">IT</span> department to create a process for collectively and collaboratively deciding on which journals to retain and which to cancel. Writing extensive resources and communications to ensure everyone is up-to-date on the latest information.
@@ -283,3 +285,5 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 [17]: http://www.ala.org/alcts/mgrps/as/grps/ats-acqdgacqli
 [18]: http://www.ala.org/alcts/mgrps/cms/grps/ats-cmdawcoutts?year=2017
 [19]: http://dx.doi.org/10.1080/07317131.2018.1509450
+[20]: https://doi.org/10.5860/crl.68.6.472
+[21]: https://doi.org/10.5860/0700227
