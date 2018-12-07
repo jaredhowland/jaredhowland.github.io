@@ -22,6 +22,7 @@ permalink: /publications/
 **DOI:** [10.1080/07317131.2018.1509450][23]
 
 **Citation Information:** Howland, Jared L. (2018). "Report of the <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - Denver, February 2018." *Technical Services Quarterly*. 35(4):400–403.
+([Full Text – **requires subscription**](https://www.tandfonline.com/doi/full/10.1080/07317131.2018.1509450))
 
 ## [Brigham Young University’s patron-driven acquisitions: Does it stand the test of time?][20] ##
 
