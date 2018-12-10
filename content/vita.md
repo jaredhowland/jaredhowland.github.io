@@ -181,7 +181,7 @@ Created an <span class="caps">HBLL</span> Research Yahoo! Widget that allowed pa
 * **<span class="caps">HBLL</span> Research Mac OS X Widget**: 2006  
 Created an <span class="caps">HBLL</span> Research Mac OS X Widget that allowed patrons to search the library catalog, databases, journal finder and Google Scholar.
 * **Mozilla Firefox Library Toolbar**: 2006  
-Released to the public a [toolbar][6] for the Mozilla Firefox browser that allows patrons to search the library catalog and databases, reserve group study rooms, request materials through Interlibrary Loan, and check library holdings from Amazon.com listings.
+Released to the public a toolbar for the Mozilla Firefox browser that allows patrons to search the library catalog and databases, reserve group study rooms, request materials through Interlibrary Loan, and check library holdings from Amazon.com listings.
 * **Cascade Mountain High School Library Project**: 2005–2007  
 Set up the library on an open-source automated library system, trained staff on copy cataloging, and gathered donations of materials for the library’s collection.
 * **Management Tools for Databases A–Z List**: 2005  
@@ -277,7 +277,6 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 [3]: http://www.amazon.com/dp/083898486X
 [4]: http://www.amazon.com/dp/0838984193
 [5]: http://dx.doi.org/10.1108/07419050610704358
-[6]: https://addons.mozilla.org/en-US/firefox/addon/hbll-toolbar/
 [9]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
 [10]: http://wikis.ala.org/emergingleaders/index.php/2008_Emerging_Leaders_Program_Information
 [11]: https://www.phikappaphi.org/
