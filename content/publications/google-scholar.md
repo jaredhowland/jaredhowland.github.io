@@ -9,8 +9,6 @@ permalink: /publications/google-scholar/
 
 Jared L. Howland, Thomas C. Wright, Rebecca A. Boughan and Brian C. Roberts
 
-**Presented:** June 30, 2008 at the American Library Association’s Annual Conference in Anaheim, <span class="caps">CA</span>.
-
 **Citation Information:** Howland, Jared L., Wright, Thomas C., Boughan, Rebecca A. and Roberts, Brian C. How Scholarly is Google Scholar? A Comparison of Google Scholar to Library Databases. *College and Research Libraries*. 70(3): 227–234. ([Abstract][]) ([Full Text][])
 
 ## Abstract
