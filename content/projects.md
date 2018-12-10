@@ -34,24 +34,8 @@ This unofficial <span class="caps">PHP SDK</span> makes it easy for institutions
 
 I created a database that allows us to determine the number of places we have access to all our journals. We can see overlap and cancel subscriptions without losing access to any content. I have built, rebuilt, and redesigned the system multiple times since 2008 and it is an ongoing project that requires maintenance and time to find the best data available. I presented this at the Electronic Resources and Libraries Conference and have received requests from multiple libraries to learn more about the system. <a class="watch btn" href="https://github.com/HBLL-Collection-Development/journals"><i class="icon-github"></i> View Project on GitHub</a>
 
-## [Facebook Application][3]
-### 2009
-
-I created a Facebook application that searched ScholarSearch and allowed for manipulation of the results by saving to a folder. This project has been discontinued because of privacy problems involving Facebook's development requirements and changes to the library's system over the years.
-
-## Mobile Web Application
-### 2009
-
-I created a version of the library’s website optimized for use on an iPhone and other modern mobile devices that was subsequently used as the official library mobile site. It has since been replaced by a library <span class="caps">IT</span>-created responive version of the library's website.
-
-## Mozilla Firefox Library Toolbar
-### 2006–2017
-
-I publicly released a toolbar for the Mozilla Firefox browser that allows patrons to search the library catalog and databases, reserve group study rooms, request materials through Interlibrary Loan and check library holdings from Amazon.com listings. This project was discontinued after significant changes were made to the library's system making maintenance of this project redundant with integrations built into the website.
-
 [1]: {{ site.url }}/vita/#projects
 [2]: {{ site.url }}/presentations/redundant-journal-access/
-[3]: {{ site.url }}/presentations/facebook/
 [4]: https://github.com/HBLL-Collection-Development/scopus-api
 [5]: https://ualc.byu.edu
 [6]: {{ site.url }}/presentations/small-data-erl/
