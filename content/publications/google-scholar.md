@@ -102,7 +102,7 @@ Next, we took the citations from the library databases and determined if they co
 We standardized the formatting of the citations and inserted them randomly into a spreadsheet, which contained a rubric that was used to assign a scholarliness score to each of the citations. The rubric contained six criteria, based on Kapoun’s model of evaluating resources, to judge scholarliness: (1) accuracy, (2) authority, (3) objectivity, (4) currency, (5) coverage, and (6) relevancy.<sup>[11][]</sup>  These criteria were graded on a scale of 1 (below average) to 3 (above average) and summed to create a total scholarliness score for each citation.
 
 <table>
-    <caption><strong>Table 2:</strong> Rubric for grading scholarliness<br/>1 = Below Average Quality; 2 = Average Quality; 3 = Above Average Quality</caption>
+    <caption><strong>Table 2:</strong> Rubric for grading scholarliness<br>1 = Below Average Quality; 2 = Average Quality; 3 = Above Average Quality</caption>
   <thead>
     <tr>
       <th>Citation Number</th>
