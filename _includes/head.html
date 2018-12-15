@@ -5,22 +5,3 @@
 <meta name=author content="{% if page.author %}{{ page.author }}{% else %}{{ site.author}}{% endif %}">
 <meta name=viewport content="width=device-width, initial-scale=1.0">
 <link rel=stylesheet type=text/css href={{ site.url }}/assets/css/styles.min.css>
-{% if site.ga-tracking-code %}
-<script>
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', '{{ site.ga-tracking-code }}']);
-    _gaq.push(['_setDomainName', '{{ site.ga-domain-name }}']);
-    _gaq.push(['_trackPageview']);
-    (function () {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })()
-</script>
-{% endif %}
-{%- if site.presentation-plumx or site.publication-plumx -%}
-<script src=//d39af2mgp1pqhg.cloudfront.net/widget-popup.js></script>
-{% endif %}
