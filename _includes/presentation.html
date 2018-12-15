@@ -1,0 +1,45 @@
+{%- if presentation.title -%}
+    {%-if include.webpage == "vita" -%}
+        <strong>{{ presentation.title | append: "</strong>, "}}
+    {%- elsif include.webpage == "presentations" and presentation.stub -%}
+        <em><a href="{{ presentation.stub }}/">{{ presentation.title | append: "</a></em>, "}}
+    {%- else -%}
+        <em>{{ presentation.title | append: "</em>, "}}
+    {%- endif -%}
+{%- endif -%}
+
+{%- if presentation.date -%}
+    {{ presentation.date | append: ", " | date: "%B %Y" }}
+{%- endif -%}
+
+{%- if presentation.type == "presentation" -%}
+    , presented at the
+{%- elsif presentation.type == "poster" -%}
+    , poster presented at the
+{%- elsif presentation.type == "keynote" -%}
+    , invited keynote speaker at the
+{%- endif -%}
+
+{%- if presentation.conference -%}
+    {{ presentation.conference | prepend: " " }}
+{%- endif -%}
+
+{%- if presentation.location -%}
+    {{ presentation.location | prepend: " in " }}
+{%- endif -%}
+
+{%- if presentation.co-presenters -%}
+    {{ " with " }}
+    {%- for presenter in presentation.co-presenters -%}
+        {%- if forloop.first -%}
+            {{ presenter }}
+        {%- else -%}
+            {%- unless forloop.last %}, {% else %}, and {% endunless -%}
+            {{ presenter }}
+        {%- endif -%}
+    {%- endfor -%}
+{%- endif -%}
+
+{%- if site.presentation-plumx and presentation.bepress-id -%}
+    {{ "" }}<a href="https://plu.mx/plum/a/?bepress_url_id={{ presentation.bepress-id | url_encode }}" data-popup="right" data-badge="true" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">{{ presentation.title }}</a>
+{%- endif -%}

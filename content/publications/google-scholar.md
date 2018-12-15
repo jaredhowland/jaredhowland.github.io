@@ -3,13 +3,7 @@ title: How Scholarly is Google Scholar? A Comparison to Library Databases
 permalink: /publications/google-scholar/
 ---
 
-# How Scholarly is Google Scholar? A Comparison to Library Databases
-
-<span class="Z3988" title="ctx_ver=Z39.88–2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft.atitle=How+Scholarly+is+Google+Scholar%3F+A+Comparison+to+Library+Databases&amp;rft.title=College+and+Research+Libraries&amp;rft.stitle=College+and+Research+Libraries&amp;rft.issn=0010–0870&amp;rft.date=2009&amp;rft.volume=70&amp;rft.issue=3&amp;rft.spage=227&amp;rft.epage=234&amp;rft.aulast=Howland&amp;rft.aufirst=Jared&amp;rft.auinit=L&amp;rft.au=Jared+L+Howland"></span>
-
-Jared L. Howland, Thomas C. Wright, Rebecca A. Boughan and Brian C. Roberts
-
-**Citation Information:** Howland, Jared L., Wright, Thomas C., Boughan, Rebecca A. and Roberts, Brian C. How Scholarly is Google Scholar? A Comparison of Google Scholar to Library Databases. *College and Research Libraries*. 70(3): 227–234. ([Abstract][]) ([Full Text][])
+{%- include publication.html -%}
 
 ## Abstract
 
@@ -334,8 +328,6 @@ Typical arguments against Google Scholar focus on citation counts and point to i
 12. <a name="twelve"></a>Per O Seglen, “Why the Impact Factor of Journals Should Not Be Used for Evaluating Research,” *BMJ* 314, no. 7079 (1997): 498–502.
 13. <a name="thirteen"></a>Xiaotian Chen, “Metalib, Webfeat, and Google: The Strengths and Weaknesses of Federated Search Engines Compared With Google,” *Online Information Review* 30, no. 4 (2006): 413–27.
 
-[Abstract]: https://doi.org/10.5860/0700227
-[Full Text]: https://crl.acrl.org/index.php/crl/article/view/16007/17453
 [1]: #one
 [2]: #two
 [3]: #three

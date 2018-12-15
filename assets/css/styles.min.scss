@@ -243,6 +243,7 @@ footer {
 .caps {
   text-transform: uppercase; // for Safari because true small caps do not work there
   font-size: .9em; // for Safari because true small caps do not work there
+  font-style: normal;
 }
 
 .clear {

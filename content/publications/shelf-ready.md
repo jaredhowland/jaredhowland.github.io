@@ -3,14 +3,7 @@ title: Shelf-ready – A cost-benefit analysis
 permalink: /publications/shelf-ready/
 ---
 
-# Shelf-ready: A cost-benefit analysis #
-
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft.atitle=Shelf-ready%3A+A+cost-benefit+analysis&amp;rft.title=Library+Collections%2C+Acquisitions+and+Technical+Services&amp;rft.stitle=Library+Collections%2C+Acquisitions+and+Technical+Services&amp;rft.issn=1464-9055&amp;rft.date=2011&amp;rft.volume=35&amp;rft.issue=4&amp;rft.spage=129&amp;rft.epage=134&amp;rft.aulast=Howland&amp;rft.aufirst=Jared&amp;rft.auinit=L&amp;rft.au=Jared+L+Howland"></span>
-
-Rebecca Schroeder and Jared L. Howland
-
-**Citation Information:** Schroeder, Rebecca, Howland, Jared L., (2011). Shelf-ready: A cost-benefit analysis. *Library Collections, Acquisitions, and Technical Services*. 35(4):129-134.
-([Full Text – **requires subscription**](http://www.sciencedirect.com/science/article/pii/S1464905511000297))
+{%- include publication.html -%}
 
 ## Abstract ##
 

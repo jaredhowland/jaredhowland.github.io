@@ -1,20 +1,21 @@
 <!doctype html>
 <html lang=en>
+{% include head.html %}
 
-    {% include head.html %}
-
-    {% include header.html %}
+{%- include header.html -%}
 
 {% if page.kind %}
-    <main class="{{ page.kind }}">
-        {{ content }}
-    </main>
+<main class="{{ page.kind }}">
+
+{{ content }}
+</main>
 {% else %}
-    <main>
-        {{ content }}
-    </main>
+<main>
+
+{{ content }}
+</main>
 {% endif %}
 
-{% include footer.html %}
+{%- include footer.html -%}
 
 </html>

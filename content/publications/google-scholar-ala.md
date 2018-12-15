@@ -3,15 +3,7 @@ title: How Scholarly Is Google Scholar? A Comparison of Google Scholar to Librar
 permalink: /publications/google-scholar-ala/
 ---
 
-# How Scholarly Is Google Scholar? A Comparison of Google Scholar to Library Databases
-
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=conference&amp;rft.btitle=Issues+in+Librarianship%3A+Presented+Papers+at+the+ALA+2008+Annual+Conference&amp;rft.title=Issues+in+Librarianship%3A+Presented+Papers+at+the+ALA+2008+Annual+Conference&amp;rft.atitle=How+Scholarly+Is+Google+Scholar%3F+A+Comparison+of+Google+Scholar+to+Library+Databases&amp;rft.isbn=083898486X&amp;rft.aulast=Howland&amp;rft.aufirst=Jared&amp;rft.au=Jared+Howland&amp;rft.date=2008&amp;rft.spage=65&amp;rft.epage=71"></span>
-
-Jared L. Howland, Thomas C. Wright, Rebecca A. Boughan and Brian C. Roberts
-
-**Presented:** June 30, 2008 at the American Library Association’s Annual Conference in Anaheim, <span class="caps">CA</span>.
-
-**Citation Information:** Howland, Jared L., Wright, Thomas C., Boughan, Rebecca A. and Roberts, Brian C. (2008). How Scholarly is Google Scholar? A Comparison of Google Scholar to Library Databases. *Issues in Librarianship: Presented Papers at the ALA 2008 Annual Conference*. Pages 65–71. ([Full Text](http://hdl.lib.byu.edu/1877/1427))
+{%- include publication.html -%}
 
 ## Abstract
 

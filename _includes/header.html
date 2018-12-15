@@ -2,14 +2,14 @@
     <h1>Jared L. Howland</h1>
     <nav>
         <ul>
-        {% for link in site.navigation %}
-        {% assign link-url = (link.url | remove: '/index.html' | append: '/') %}
+        {%- for link in site.navigation -%}
+        {%- assign link-url = (link.url | remove: '/index.html' | append: '/') -%}
         {% if page.url == link-url %}
-            <li class="active">{{ link.title }}</li>
+            <li class=active>{{ link.title }}</li>
         {% else %}
-            <li><a href="{{ site.url }}{{ link-url }}">{{ link.title }}</a></li>
+            <li><a href={{ site.url }}{{ link-url }}>{{ link.title }}</a></li>
         {% endif %}
-        {% endfor %}
+        {%- endfor -%}
         </ul>
     </nav>
 </header>

@@ -1,6 +1,4 @@
-# rvm use 2.5.1
-# rvm gemset use jaredhowland.com
-# bundle exec jekyll serve --host localhost
+# rvm use 2.5.1 && rvm gemset use jaredhowland.com && bundle exec jekyll serve --host localhost
 navigation:
   - title: "Home"
     url: "/index.html"
@@ -19,7 +17,8 @@ email: "jared_howland@byu.edu"
 keywords: "'jared howland', vita, publications, presentations, projects"
 description: "This is the personal website of Jared Howland, librarian at Brigham Young University - Harold B. Lee Library."
 url: "https://www.jaredhowland.com"
-plumx: true
+presentation-plumx: true
+publication-plumx: false
 ga-tracking-code: "UA-15180577-1"
 ga-domain-name: "jaredhowland.com"
 

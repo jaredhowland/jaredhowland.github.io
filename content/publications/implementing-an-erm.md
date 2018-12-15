@@ -3,15 +3,7 @@ title: Implementing an Electronic Resource Management System — Brigham Young U
 permalink: /publications/implementing-an-erm/
 ---
 
-# Implementing an Electronic Resource Management System: Brigham Young University’s Experience #
-
-<span class="Z3988" title="ctx_ver=Z39.88–2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft.atitle=Implementing+an+Electronic+Resource+Management+System%3A+Brigham+Young+University%E2%80%99s+Experience&amp;rft.title=Library+Hi+Tech+News&amp;rft.issn=0741–9058&amp;rft.date=2006&amp;rft.volume=23&amp;rft.issue=7&amp;rft.spage=28&amp;rft.epage=31&amp;rft.aulast=Howland&amp;rft.aufirst=Jared&amp;rft.au=Jared+Howland&amp;rft_id=info:doi/10.1108%2F07419050610704358"></span><br />
-
-Jared L. Howland and Thomas C. Wright
-
-<strong>DOI:</strong> [10.1108/07419050610704358](http://dx.doi.org/10.1108/07419050610704358)
-
-<strong>Citation Information:</strong> Howland, Jared L. and Wright, Thomas C. (2006). Implementing an Electronic Resource Management System: Brigham Young University’s Experience. *Library Hi Tech News*. 23(7): 28–31. ([Full Text](http://hdl.lib.byu.edu/1877/433))
+{%- include publication.html -%}
 
 ## Abstract ##
 

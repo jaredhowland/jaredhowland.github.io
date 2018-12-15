@@ -1,0 +1,206 @@
+- type: article
+  authors:
+    - surname: Howland
+      given: Jared L.
+    - surname: Schroeder
+      given: Rebecca
+  year: accepted peer-reviewed conference paper 2019
+  title: Library Space Transformed
+  journal-title: Charleston Library Conference
+  abstract: |
+    Beginning in the fall of 2017, the Harold B. Lee Library at Brigham Young University undertook a project to assess our science collections due to a planned expansion of our library information technology department. Our teams evaluated 18,578 shelves of content and decided to either 1) keep an item on the shelf, or 2) move it to on-site auxiliary storage, or 3) withdraw it. They worked with fellow subject librarians and faculty around campus to communicate about the work being done and offer opportunities to review the potential withdraw material before it left the building.
+
+    Despite the need to make space for the expansion, the primary goal of the project was to strengthen our collections through meaningful assessments and data-driven decisions and not simply make enough space for the expansion. In the end, because of our focus on improved collections, we were able to accommodate the expansion and simultaneously significantly improve the collections remaining on the shelves. In the end, we withdrew 131,476 monographic records and 4,145 serial records. We moved 16,643 monographic and 3,809 serial items to on-site auxiliary storage.
+
+- type: article
+  authors:
+    - surname: Howland
+      given: Jared L.
+    - surname: Sochay
+      given: Lee
+  year: accepted 2019
+  title: Report of the <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - New Orleans, June 2018
+  journal-title: Technical Services Quarterly
+  abstract: The <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group meeting at the 2018 American Library Association (<span class="caps">ALA</span>) Annual Conference in New Orleans, Louisiana consisted of a series of presentations and a question and answer session. Rosemary Jarrell, of ProQuest, discussed usage statistics and other data that vendors can sometime provide to librarians outside of traditional usage data. Rebecca Boughan, of Brigham Young University, discussed how to effectively use vendor statistics and which statistics are meaningful and which do not hold much value. Finally, Esra Celtek Coskun, of the University of Illinois, discussed tools and skills required for cleaning and analyzing data.
+  issn: 0731-7131
+
+- type: article
+  authors:
+    - surname: Howland
+      given: Jared L.
+  year: 2018
+  title: Report of the <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group Meeting - American Library Association Midwinter Conference - Denver, February 2018
+  journal-title: Technical Services Quarterly
+  volume: 35
+  issue: 4
+  page-start: 400
+  page-end: 403
+  issn: 0731-7131
+  doi: 10.1080/07317131.2018.1509450
+  requires-subscription: true
+  abstract: The <span class="caps">ALCTS</span> Acquisitions Section (<span class="caps">AS</span>) Acquisitions Managers and Vendors Interest Group meeting at the 2018 American Library Association (<span class="caps">ALA</span>) Midwinter Conference in Denver, Colorado consisted of a series of presentations and a question and answer session. David Parker, of Alexander Street Press, discussed a comparison of demand-driven and subscription acquisition models. Doug Mingle, of Infobase, discussed video acquisition models and classroom use. Tom Humphrey, of Kanopy, discussed streaming media costs and quality. Finally, Mary Sue Hoyle, of <span class="caps">EBSCO</span>, discussed evaluating and working with subscription agents.
+
+- type: book-chapter
+  authors:
+    - surname: Howland
+      given: Jared L.
+    - surname: Schroeder
+      given: Rebecca
+    - surname: Wright
+      given: Thomas C.
+  year: 2013
+  title: "Brigham Young University’s Patron-driven Acquisitions: Does It Stand the Test of Time?"
+  book-title: "Customer-Based Collection Development: An Overview"
+  editors:
+    - surname: Bridges
+      given: Karl
+  page-start: 115
+  page-end: 126
+  isbn: 978-1-85604-931-3
+  slug: patron-driven
+  abstract: This study tracked the cost-per-use (<span class="caps">CPU</span>) of materials purchased at Brigham Young University’s (<span class="caps">BYU</span>) Harold B. Lee Library (<span class="caps">HBLL</span>) over a 26 month period and compared this to a previous study that tracked <span class="caps">CPU</span> over a four month period. The <span class="caps">CPU</span> of traditionally purchased materials declined over the 26 month period, compared to the four month period, but did not approach the efficiencies of the <span class="caps">PDA</span> models as the majority of items had still not been used. A longer time frame is needed to determine the long-term <span class="caps">CPU</span> of the traditional model in relation to the <span class="caps">PDA</span> purchases. However, given our own internal studies that show a ten year span is needed to reach 50% circulation, it is not anticipated that the traditional group will reach the patron driven in cost efficiencies.
+
+- type: article
+  authors:
+    - surname: Schroeder
+      given: Rebecca
+    - surname: Howland
+      given: Jared L.
+  year: 2011
+  title: "Shelf-ready: A Cost-benefit Analysis"
+  journal-title: Library Collections, Acquisitions, and Technical Services
+  volume: 35
+  issue: 4
+  page-start: 129
+  page-end: 134
+  issn: 1464-9055
+  doi: 10.1016/j.lcats.2011.04.002
+  slug: shelf-ready
+  requires-subscription: true
+  abstract: Brigham Young University’s Harold B. Lee Library conducted a time-task cost study to compare the cost and processing time of shelf-ready books to non-shelf-ready books to determine if it could better use its human resources and if it should expand the use of shelf-ready to include its approval books. The results showed that shelf-ready was, on average, 5.7% cheaper, took 47% less processing time, and arrived on the shelves 33 sooner than books processed in-house. Based on the results of the study, the library moved its approval books to the shelf-ready program and was able to reallocate catalogers tasks.
+
+- type: article
+  authors:
+    - surname: Howland
+      given: Jared L.
+    - surname: Wright
+      given: Thomas C.
+    - surname: Boughan
+      given: Rebecca A.
+    - surname: Roberts
+      given: Brian C.
+  year: 2009
+  title: How Scholarly Is Google Scholar? A Comparison to Library Databases
+  journal-title: College & Research Libraries
+  volume: 70
+  issue: 3
+  page-start: 227
+  page-end: 234
+  issn: 0010–0870
+  doi: 10.5860/0700227
+  slug: google-scholar
+  abstract: Google Scholar was released as a beta product in November of 2004. Since then, Google Scholar has been scrutinized and questioned by many in academia and the library field. Our objectives in undertaking this study were to determine how scholarly Google Scholar is in comparison with traditional library resources and to determine if the scholarliness of materials found in Google Scholar varies across disciplines. We found that Google Scholar is, on average, 17.6% more scholarly than materials found only in library databases and that there is no statistically significant difference between the scholarliness of materials found in Google Scholar across disciplines.
+
+- type: article
+  authors:
+    - surname: Howland
+      given: Jared L.
+    - surname: Wright
+      given: Thomas C.
+    - surname: Howell
+      given: Scott
+    - surname: Dickson
+      given: Cody
+  year: 2009
+  title: Google Scholar and the Continuing Education Literature
+  journal-title: The Journal of Continuing Higher Education
+  volume: 57
+  issue: 1
+  page-start: 35
+  page-end: 39
+  issn: 0737-7363
+  doi: 10.1080/07377360902806890
+  slug: google-scholar-continuing-education
+  requires-subscription: true
+  abstract: The recent introduction of Google Scholar has renewed hope that someday a powerful research tool will bring continuing education literature more quickly, freely, and completely to one’s computer. The authors suggest that using Google Scholar with other traditional search methods will narrow the research gap between what is discoverable and available. They present results of an investigation in which the names of two scholars were submitted to research queries using traditional library databases and Google Scholar. While not all of the scholars’ academic publications were identified in the search, more were identified by Google Scholar than the other databases. However, other databases identified some that Google Scholar did not. It was evident from this informal analysis that utilizing Google Scholar with other traditional research methods adds value and discoverability in the search for relevant continuing education literature.
+
+- type: book-chapter
+  authors:
+    - surname: Howland
+      given: Jared L.
+    - surname: Wright
+      given: Thomas C.
+    - surname: Boughan
+      given: Rebecca A.
+    - surname: Roberts
+      given: Brian C.
+  year: 2008
+  title: How Scholarly is Google Scholar? A Comparison of Google Scholar to Library Databases
+  book-title: "Issues in Librarianship: Presented Papers at the <span class=\"caps\">ALA</span> 2008 Annual Conference"
+  editors:
+    - surname: Ross
+      given: Deidre Irwin
+  isbn: 978-0-8389-8486-4
+  page-start: 65
+  page-end: 71
+  slug: google-scholar-ala
+  abstract: Google Scholar (<span class="caps">GS</span>) was released as a beta product in November of 2004. Since then, <span class="caps">GS</span> has been scrutinized and questioned by many in academia and the library field. Our objectives in undertaking this study were to determine how scholarly <span class="caps">GS</span> is in comparison with traditional library resources and to determine if the scholarliness of materials found in <span class="caps">GS</span> varies across disciplines. We found that <span class="caps">GS</span> is, on average, 17.6% more scholarly than materials found only in library databases and that there is no statistically significant difference between the scholarliness of materials found in <span class="caps">GS</span> across disciplines.
+
+- type: article
+  authors:
+    - surname: Belliston
+      given: Jeffrey C.
+    - surname: Howland
+      given: Jared L.
+    - surname: Roberts
+      given: Brian C.
+  year: 2007
+  title: "Undergraduate Use of Federated Searching: A Survey of Preferences and Perceptions of Value-added Functionality"
+  journal-title: College & Research Libraries
+  volume: 68
+  issue: 6
+  page-start: 472
+  page-end: 486
+  issn: 0010–0870
+  doi: 10.5860/crl.68.6.472
+  slug: federated-searching
+  abstract: "Randomly selected undergraduates at Brigham Young University, Brigham Young University-Idaho and Brigham Young University-Hawaii, all private universities sponsored by The Church of Jesus Christ of Latter-day Saints, participated in a study that investigated four questions regarding federated searching: (1) Does it save time? (2) Do undergraduates prefer it? (3) Are undergraduates satisfied with the results they get from it? (4) Does it yield higher quality results than non-federated searching? Federated searching was, on average, 11% faster than non-federated searching. Undergraduates rated their satisfaction with the citations gathered by federated searching 17% higher than their satisfaction using non-federated search methods. A majority of undergraduates, 70%, preferred federated searching to the alternative. This study could not ultimately determine which of the two search methods yielded higher citation quality. The study does shed light on assumptions about federated searching and will interest librarians in different types of academic institutions given the diversity of the three institutions studied."
+
+- type: book-chapter
+  authors:
+    - surname: Belliston
+      given: Jeffrey C.
+    - surname: Howland
+      given: Jared L.
+    - surname: Roberts
+      given: Brian C.
+  year: 2007
+  title: "Federated Searching: Do Undergraduates Prefer it and Does it Add Value?"
+  book-title: "Sailing into the future: Charting our destiny: Proceedings of the Thirteenth National Conference of the Association of College and Research Libraries, March 29–April 1, 2007, Baltimore, Maryland"
+  editors:
+    - surname: Thompson
+      given: Hugh A.
+  page-start: 103
+  page-end: 113
+  slug: federated-searching-acrl
+  isbn: 978-0-8389-8419-2
+  abstract: Randomly selected undergraduates at Brigham Young University, Brigham Young University Idaho and Brigham Young University Hawaii, all private universities sponsored by The Church of Jesus Christ of Latter-day Saints, participated in a study of federated searching. This paper reports the study results including differences in time spent between searching databases in federated and non-federated fashion, satisfaction with citations gathered using each method, preference between methods, and quality of citations retrieved by each method judged by two different rubrics. Undergraduates rated their satisfaction with the citations gathered by federated searching 6.5% higher than their satisfaction using non-federated search methods. Additionally, 70% of undergraduates at the participating schools prefer federated searching and saved time using a federated search compared to a non-federated search. Which search method yields higher citation quality was ultimately indeterminable. The study sheds light on assumptions about federated searching and may interest librarians in different types of academic institutions given the diversity of the three institutions studied.
+
+- type: article
+  authors:
+    - surname: Howland
+      given: Jared L.
+    - surname: Wright
+      given: Thomas C.
+  year: 2006
+  title: "Implementing an Electronic Resource Management System: Brigham Young University’s Experience"
+  journal-title: Library Hi Tech News
+  volume: 23
+  issue: 7
+  page-start: 28
+  page-end: 31
+  slug: implementing-an-erm
+  issn: 0741-9058
+  doi: 10.1108/07419050610704358
+  requires-subscription: true
+  abstract: We discuss the electronic resource management (<span class="caps">ERM</span>) implementation process at Brigham Young University (<span class="caps">BYU</span>) and its generalized implications for other institutions. A chronological description of decision-making and steps in the implementation process with corresponding discoveries and benefits is outlined. We conclude that implementing an <span class="caps">ERM</span> takes a lot of planning, forethought and effort but implementation has been very beneficial in helping <span class="caps">BYU</span> manage its electronic resource collections. The literature has described various <span class="caps">ERM</span> systems, difficulties in handling electronic resources and the <span class="caps">ERMI</span> standard but relatively little has been written about the practical side of implementing an <span class="caps">ERM</span>. The account of an <span class="caps">ERM</span> implementation should be helpful to libraries considering implementing an <span class="caps">ERM</span> system of their own.

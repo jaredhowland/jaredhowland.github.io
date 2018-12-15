@@ -1,0 +1,34 @@
+{%- capture slug -%}
+    {{ page.permalink | replace: "/publications/", "" | replace: "/", "" }}
+{%- endcapture -%}
+
+{% assign citation = site.data.publications | where: "slug" , slug %}
+
+{% for publication in citation %}
+
+# {{ publication.title }}
+
+{% comment %}
+{%- if publication.type == "article" -%}
+<span class="Z3988" title="ctx_ver%3DZ39.88–2004&amp;rft_val_fmt%3Dinfo%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id%3Dinfo%3Asid%2Focoins.info%3Agenerator&amp;rft.genre%3Darticle&amp;rft.atitle%3D{{ publication.title | cgi_escape }}&amp;rft.title%3D{{ publication.journal-title | cgi_escape }}&amp;rft.stitle%3D{{ publication.journal-title | cgi_escape }}&amp;rft.issn%3D{{ publication.issn | replace: "-", "" }}&amp;rft.date%3D{{ publication.year }}&amp;rft.volume%3D{{ publication.volume }}&amp;rft.issue%3D{{ publication.issue }}&amp;rft.spage%3D{{ publication.page-start }}&amp;rft.epage%3D{{ publication.page-end }}&amp;rft.aulast%3D{{ publication.authors[0]["surname"] }}&amp;rft.aufirst%3D{{ publication.authors[0]["given"] }}></span>
+{% elsif publication.type == "book-chapter" %}
+<span class="Z3988" title="ctx_ver%3DZ39.88-2004&amp;rft_val_fmt%3Dinfo%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rfr_id%3Dinfo%3Asid%2Focoins.info%3Agenerator&amp;rft.genre%3Dbookitem&amp;rft.title%3D{{ publication.book-title | cgi_escape }}&amp;rft.atitle%3D{{ publication.title | cgi_escape }}&amp;rft.isbn%3D{{ publication.isbn | replace: "-", "" }}&amp;rft.aulast%3D{{ publication.authors[0]["surname"] }}&amp;rft.aufirst%3D{{ publication.authors[0]["given"] }}&amp;rft.date%3D{{ publication.year }}"></span>
+{%- endif -%}
+{% endcomment %}
+
+{% if publication.authors %}
+    {%- for author in publication.authors -%}
+        {%- if forloop.first -%}
+            {{ author.surname }}, {{ author.given }}
+        {%- elsif forloop.length > 2 -%}
+            {%- unless forloop.last %}, {% else %}, and {% endunless -%}
+            {{ author.surname }}, {{ author.given }}
+        {%- else -%}
+            {{ author.surname | prepend: " and " }}, {{ author.given }}
+        {%- endif -%}
+    {%- endfor -%}
+{% endif %}
+
+**Citation Information:** {% include citation.html %}
+
+{% endfor %}

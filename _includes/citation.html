@@ -1,0 +1,67 @@
+{%- if publication.authors -%}
+    {%- for author in publication.authors -%}
+        {%- if forloop.first -%}
+            {{ author.surname }}, {{ author.given }}
+        {%- elsif forloop.length > 2 -%}
+            {%- unless forloop.last %}, {% else %}, and {% endunless -%}
+            {{ author.surname }}, {{ author.given }}
+        {%- else -%}
+            {{ author.surname | prepend: " and " }}, {{ author.given }}
+        {%- endif -%}
+    {%- endfor -%}
+{%- endif -%}
+
+{%- if publication.year -%}
+    {{ publication.year | prepend: " (" | append: ")" }}
+{%- endif -%}
+
+{%- if publication.title -%}
+    {{ publication.title | prepend: ". “" | append: "”" }}
+{%- endif -%}
+
+{%- if publication.type == "article" -%}
+    {%- if publication.journal-title -%}
+        {{ publication.journal-title | prepend: " <em>" | append: "</em>." }}
+    {%- endif -%}
+    {%- if publication.volume -%}
+        {{ publication.volume | prepend: " " }}
+    {%- endif -%}
+    {%- if publication.issue -%}
+        {{ publication.issue | prepend: "(" | append: ")" }}
+    {%- endif -%}
+    {%- if publication.page-start -%}
+        {{ publication.page-start | prepend: ": " }}
+    {%- endif -%}
+    {%- if publication.page-end -%}
+        {{ publication.page-end | prepend: "–" }}
+    {%- endif -%}
+    {%- if publication.page-start or publication.page-end -%}
+        .
+    {%- endif -%}
+{%- endif -%}
+
+{%- if publication.type == "book-chapter" -%}
+    {%- if publication.book-title -%}
+    {{ publication.book-title | prepend: " In <em>" | append: "</em>." }}
+    {%- endif -%}
+    {%- if publication.page-start -%}
+    {{ publication.page-start | prepend: " (pp. " }}
+    {%- endif -%}
+    {%- if publication.page-end -%}
+    {{ publication.page-end | prepend: "–" | append: ")."}}
+    {%- endif -%}
+{%- endif -%}
+
+{%- if publication.isbn -%}
+    {{ " " }}<span class="caps">ISBN</span>: {{ publication.isbn }}.
+    {%- if site.publication-plumx -%}
+        {{ "" }}<a href="https://plu.mx/plum/a/?isbn={{ publication.isbn | url_encode }}" data-popup="right" data-badge="true" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">{{ publication.title }}</a>
+    {%- endif -%}
+{%- endif -%}
+
+{%- if publication.doi -%}
+    {{ " " }}<span class="caps">DOI</span>: <a href="https://doi.org/{{ publication.doi }}">{{ publication.doi }}{% if publication.requires-subscription %} (<strong>requires subscription</strong>){%- endif -%}</a>.
+    {%- if site.publication-plumx -%}
+        {{ "" }}<a href="https://plu.mx/plum/a/?doi={{ publication.doi | url_encode }}" data-popup="right" data-badge="true" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">{{ publication.title }}</a>
+    {%- endif -%}
+{%- endif -%}

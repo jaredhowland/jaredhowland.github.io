@@ -3,15 +3,7 @@ title: Google Scholar and the Continuing Education Literature
 permalink: /publications/google-scholar-continuing-education/
 ---
 
-# Google Scholar and the Continuing Education Literature
-
-<span class="Z3988" title="ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rfr_id=info%3Asid%2Focoins.info%3Agenerator&rft.genre=article&rft.atitle=Google+Scholar+and+the+Continuing+Education+Literature&rft.title=The+Journal+of+Continuing+Higher+Education&rft.stitle=The+Journal+of+Continuing+Higher+Education&rft.issn=0737-7363&rft.date=2009&rft.volume=57&rft.issue=1&rft.spage=35&rft.epage=39&rft.aulast=Howland&rft.aufirst=Jared&rft.au=Jared+Howland&rft_id=info:doi/10.1080%2F07377360902806890"></span>
-
-Jared L. Howland, Scott Howell, Thomas C. Wright and Cody Dickson
-
-**DOI:** [10.1080/07377360902806890][]
-
-**Citation Information:** Howland, Jared L., Wright, Thomas C., Howell, Scott and Dickson, Cody. (2009). Google Scholar and the Continuing Education Literature. *The Journal of Continuing Higher Education*. 57(1):35–39. ([Abstract – **requires subscription**][12]) ([Full Text – **requires subscription**][13])
+{%- include publication.html -%}
 
 ## Abstract
 
@@ -221,6 +213,3 @@ While the recent introduction of Google Scholar has not become the research pana
 [9]: #eleven
 [10]: #ten
 [11]: #five
-[12]: http://www.informaworld.com/smpp/content~db=all?content=10.1080/07377360902806890 "Subscription Required"
-[13]: http://www.informaworld.com/smpp/ftinterface~content=a910402932~fulltext=713240930 "Subscription Required"
-[10.1080/07377360902806890]: http://dx.doi.org/10.1080/07377360902806890

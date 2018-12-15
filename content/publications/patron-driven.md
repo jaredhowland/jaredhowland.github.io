@@ -3,13 +3,7 @@ title: Brigham Young University’s patron-driven acquisitions—Does it stand t
 permalink: /publications/patron-driven/
 ---
 
-# Brigham Young University’s patron-driven acquisitions: Does it stand the test of time? #
-
-<span class="Z3988" title="ctx_ver%3DZ39.88-2004%26amp%3Brft_val_fmt%3Dinfo%3Aofi%2Ffmt%3Akev%3Amtx%3Abook%26amp%3Brfr_id%3Dinfo%3Asid%2Focoins.info%3Agenerator%26amp%3Brft.genre%3Dbookitem%26amp%3Brft.title%3DCustomer-Based%20Collection%20Development%3A%20An%20Overview%26amp%3Brft.atitle%3DBrigham%20Young%20University%E2%80%99s%20patron-driven%20acquisitions%3A%20Does%20it%20stand%20the%20test%20of%20time%3F%26amp%3Brft.isbn%3D9781856049313%26amp%3Brft.aulast%3DHowland%26amp%3Brft.aufirst%3DJared%26amp%3Brft.au%3DJared%20Howland%26amp%3Brft.date%3D2013"></span>
-
-Jared L. Howland, Rebecca Schroeder and Thomas C. Wright
-
-**Citation Information:** Howland, Jared L., Schroeder, Rebecca, Wright, Thomas C., (2013). “Brigham Young University’s patron-driven acquisitions: Does it stand the test of time?” In *Customer-based Collection Development: An Overview*. ISBN: 978-1-85604-931-3
+{%- include publication.html -%}
 
 ## Introduction ##
 

@@ -3,15 +3,7 @@ title: Federated Searching — Do Undergraduates Prefer It and Does It Add Value
 permalink: /publications/federated-searching-acrl/
 ---
 
-# Federated Searching: Do Undergraduates Prefer It and Does It Add Value? #
-
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=book&amp;rft.btitle=Sailing+into+the+future%3A+Charting+our+destiny%3A+Proceedings+of+the+Thirteenth+National+Conference+of+the+Association+of+College+and+Research+Libraries%2C+March+29-April+1%2C+2007&amp;rft.title=Sailing+into+the+future%3A+Charting+our+destiny%3A+Proceedings+of+the+Thirteenth+National+Conference+of+the+Association+of+College+and+Research+Libraries%2C+March+29-April+1%2C+2007&amp;rft.atitle=Federated+Searching%3A+Do+Undergraduates+Prefer+it+and+Does+it+Add+Value%3F&amp;rft.isbn=0838984193&amp;rft.aulast=Howland&amp;rft.aufirst=Jared&amp;rft.au=Jared+Howland&amp;rft.date=2007"></span>
-
-C\. Jeffrey Belliston, Jared L. Howland and Brian C. Roberts
-
-**Presented:** March 2007 at the 13<sup>th</sup> National <span class="caps">ACRL</span> Conference in Baltimore, MD.
-
-**Citation Information:** Belliston, Jeffrey C., Howland, Jared L. and Roberts, Brian C. (2007). “Federated Searching: Do Undergraduates Prefer it and Does it Add Value?” *Sailing into the future: Charting our destiny: Proceedings of the Thirteenth National Conference of the Association of College and Research Libraries, March 29–April 1, 2007*, Baltimore, Maryland. Pages 103–113. ([Full Text](http://hdl.lib.byu.edu/1877/487))
+{%- include publication.html -%}
 
 ## Abstract ##
 

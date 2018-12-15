@@ -3,15 +3,7 @@ title: Undergraduate Use of Federated Searching – A Survey of Preferences and 
 permalink: /publications/federated-searching/
 ---
 
-# Undergraduate Use of Federated Searching: A Survey of Preferences and Perceptions of Value-added Functionality #
-
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft.atitle=Undergraduate+Use+of+Federated+Searching%3A+A+Survey+of+Preferences+and+Perceptions+of+Value-added+Functionality&amp;rft.title=College+%26+Research+Libraries&amp;rft.stitle=College%26Research+Libraries&amp;rft.issn=0010-0870&amp;rft.date=2007&amp;rft.volume=68&amp;rft.issue=6&amp;rft.spage=472&amp;rft.epage=486&amp;rft.aulast=Howland&amp;rft.aufirst=Jared&amp;rft.au=Jared+Howland"></span>
-
-C\. Jeffrey Belliston, Jared L. Howland and Brian C. Roberts
-
-**Presented:** March 2007 at the 13<sup>th</sup> National <span class="caps">ACRL</span> Conference in Baltimore, <span class="caps">MD</span>.
-
-**Citation Information:** Belliston, Jeffrey C., Howland, Jared L. and Roberts, Brian C. (2007). Undergraduate Use of Federated Searching: A Survey of Preferences and Perceptions of Value-added Functionality. *College &amp; Research Libraries*. 68(6): 472–486. ([Abstract](https://crl.acrl.org/index.php/crl/article/view/15898)) ([Full Text](https://crl.acrl.org/index.php/crl/article/view/15898/17344))
+{%- include publication.html -%}
 
 ## Abstract
 

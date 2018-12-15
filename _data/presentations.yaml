@@ -1,0 +1,223 @@
+- title: Library Space Transformed
+  type: presentation
+  date: 2018-11-01
+  conference: Annual Charleston Conference
+  location: Charleston, <span class="caps">SC</span>
+  co-presenters:
+    - Rebecca Schroeder (<span class="caps">BYU</span>)
+    - Matt Barnes (<span class="caps">OCLC</span>)
+    - Jee Davis (Villanova University)
+    - Wen-Ling Yu (Santa Clara University)
+
+- title: "Small Data Management: Master Data for Better Collection Analysis"
+  type: presentation
+  date: 2018-03-01
+  conference: Electronic Resources and Libraries Conference
+  location: Austin, <span class="caps">TX</span>
+  stub: small-data-erl
+
+- title: Small Data Management
+  type: presentation
+  date: 2017-10-01
+  conference: <span class="caps">OCLC</span> Americas Regional Council Meeting
+  location: Baltimore, <span class="caps">MD</span>
+  stub: small-data-oclc
+
+- title: Large Journal Package Cancellations
+  type: poster
+  date: 2017-05-01
+  conference: Utah Library Association’s Annual Conference
+  location: Sandy, <span class="caps">UT</span>
+  co-presenters:
+    - Rebecca Boughan (<span class="caps">BYU</span>)
+  stub: journal-cancellation-ula
+
+- title: Licensing Business Resources
+  type: presentation
+  date: 2013-06-01
+  conference: <span class="caps">RUSA</span> Preconference at the American Library Association Annual Conference
+  location: Chicago, <span class="caps">IL</span>
+  co-presenters:
+    - Leticia Camacho (<span class="caps">BYU</span>)
+  stub: licensing-ala
+
+- title: Of Lending and Licensing
+  type: presentation
+  date: 2011-06-01
+  conference: American Library Association Annual Conference
+  location: New Orleans, <span class="caps">LA</span>
+  co-presenters:
+    - Gerrit van Dyk (<span class="caps">BYU</span>)
+  stub: lending-licensing
+
+- title: "Shelf-ready: Is it Worth the Money?"
+  type: presentation
+  date: 2010-05-01
+  conference: Utah Libary Association’s Annual Conference
+  location: St. George, <span class="caps">UT</span>
+  co-presenters:
+    - Rebecca Schroeder (<span class="caps">BYU</span>)
+  stub: shelf-ready-ula
+  bepress-id: https://scholarsarchive.byu.edu/facpub/1241
+
+- title: "How Scholarly is Google Scholar?: A Comparison of Google Scholar to Library Databases"
+  type: keynote
+  date: 2010-02-01
+  conference: Norwegian National Library Conference
+  location: Oslo, Norway
+  stub: google-scholar-norway
+  bepress-id: https://scholarsarchive.byu.edu/facpub/1244
+
+- title: "Redundant Journal Access: Why Pay More Than Once?"
+  type: presentation
+  date: 2010-03-01
+  conference: Electronic Resources and Libraries Conference
+  location: Austin, <span class="caps">TX</span>
+  stub: redundant-journal-access
+  bepress-id: https://scholarsarchive.byu.edu/facpub/1245
+
+- title: "Shelf-ready: Is it Worth the Money?"
+  type: presentation
+  date: 2009-12-01
+  conference: Harold B. Lee Library Employee Conference
+  location: Provo, <span class="caps">UT</span>
+  co-presenters:
+    - Rebecca Schroeder (<span class="caps">BYU</span>)
+  stub: shelf-ready-library
+  bepress-id: https://scholarsarchive.byu.edu/facpub/1241
+
+- title: "How Scholarly is Google Scholar?: A Comparison of Google Scholar to Library Databases"
+  type: presentation
+  date: 2009-12-01
+  conference: Harold B. Lee Library Employee Conference
+  location: Provo, <span class="caps">UT</span>
+  co-presenters:
+    - Thomas C. Wright (<span class="caps">BYU</span>)
+    - Rebecca Boughan (<span class="caps">BYU</span>)
+  stub: google-scholar-ala
+  bepress-id: https://scholarsarchive.byu.edu/facpub/1263
+
+- title: Fostering Creativity in the Workplace
+  type: presentation
+  date: 2009-11-01
+  conference: Association of Research Libaries’ Research Library Leadership Fellows (<span class="caps">RLLF</span>) Program
+  location: Provo, <span class="caps">UT</span>
+  stub: fostering-creativity
+  bepress-id: https://scholarsarchive.byu.edu/facpub/1248
+
+- title: Using Facebook to Connect with Students
+  type: poster
+  date: 2009-10-01
+  conference: Library Information and Technology Association’s National Forum
+  location: Salt Lake City, <span class="caps">UT</span>
+  stub: facebook
+  bepress-id: https://scholarsarchive.byu.edu/facpub/20
+
+- title: "MetaLib on Subject Pages: What to Know Before January"
+  type: presentation
+  date: 2008-12-01
+  conference: Harold B. Lee Library Employee Conference
+  location: Provo, <span class="caps">UT</span>
+
+- title: "How Scholarly is Google Scholar?: A Comparison of Google Scholar to Library Databases"
+  type: presentation
+  date: 2008-06-01
+  conference: American Library Association’s Annual Conference
+  location: Anaheim, <span class="caps">CA</span>
+  co-presenters:
+    - Thomas C. Wright (<span class="caps">BYU</span>)
+    - Rebecca Boughan (<span class="caps">BYU</span>)
+  stub: google-scholar-ala
+  bepress-id: https://scholarsarchive.byu.edu/facpub/1263
+
+- title: "How Scholarly is Google Scholar?: A Comparison of Google Scholar to Library Databases"
+  type: presentation
+  date: 2005-05-01
+  conference: Mountain Plains Music Library Association’s Annual Conference
+  location: Provo, <span class="caps">UT</span>
+  co-presenters:
+    - Thomas C. Wright (<span class="caps">BYU</span>)
+    - Rebecca Boughan (<span class="caps">BYU</span>)
+  stub: google-scholar-ala
+  bepress-id: https://scholarsarchive.byu.edu/facpub/1263
+
+- title: "Library Databases vs. Google Scholar: Which is More Scholarly?"
+  type: presentation
+  date: 2008-01-01
+  conference: Harold B. Lee Library Employee Conference
+  location: Provo, <span class="caps">UT</span>
+  co-presenters:
+    - Thomas C. Wright (<span class="caps">BYU</span>)
+    - Rebecca Boughan (<span class="caps">BYU</span>)
+  stub: google-scholar-library
+  bepress-id: https://scholarsarchive.byu.edu/facpub/1263
+
+- title: "Electronic Resource Management Systems: Learning From Experience"
+  type: presentation
+  date: 2007-11-01
+  conference: Annual Charleston Conference
+  location: Charleston, <span class="caps">SC</span>
+  stub: erm-charleston
+  bepress-id: https://scholarsarchive.byu.edu/facpub/1268
+
+- title: "Licensing Electronic Resources: Easing the Pain"
+  type: presentation
+  date: 2007-05-01
+  conference: Utah Library Association’s Annual Conference
+  location: Provo, <span class="caps">UT</span>
+  stub: licensing-ula
+  bepress-id: https://scholarsarchive.byu.edu/facpub/1275
+
+- title: "Federated Searching: Do Undergraduates Prefer it and Does it Add Value?"
+  type: presentation
+  date: 2007-05-01
+  conference: Utah Library Association’s Annual Conference
+  location: Provo, <span class="caps">UT</span>
+  stub: federated-searching-ula
+  bepress-id: https://scholarsarchive.byu.edu/facpub/1277
+
+- title: "Federated Searching: Do Undergraduates Prefer it and Does it Add Value?"
+  type: presentation
+  date: 2007-03-01
+  conference: National <span class="caps">ACRL</span> Virtual Conference
+  location: Baltimore, <span class="caps">MD</span>
+  co-presenters:
+    - C. Jeffrey Belliston (<span class="caps">BYU</span>)
+  stub: federated-searching-acrl
+  bepress-id: https://scholarsarchive.byu.edu/facpub/1277
+
+- title: "Federated Searching: Do Undergraduates Prefer it and Does it Add Value?"
+  type: presentation
+  date: 2007-03-01
+  conference: National <span class="caps">ACRL</span> Conference
+  location: Baltimore, <span class="caps">MD</span>
+  co-presenters:
+    - C. Jeffrey Belliston (<span class="caps">BYU</span>)
+  stub: federated-searching-acrl
+  bepress-id: https://scholarsarchive.byu.edu/facpub/1277
+
+- title: Implementing an Electronic Resource Management System
+  type: presentation
+  date: 2006-05-01
+  conference: Utah Library Association’s Annual Conference
+  location: St. George, <span class="caps">UT</span>
+  stub: erm-ula
+  bepress-id: https://scholarsarchive.byu.edu/facpub/1281
+
+- title: Options for the <span class="caps">MLS</span> Through Distance Education
+  type: presentation
+  date: 2004-05-01
+  conference: Utah Library Association’s Annual Conference
+  location: Ogden, <span class="caps">UT</span>
+  co-presenters:
+    - William Lund (<span class="caps">BYU</span>)
+    - Derrik Hiatt (<span class="caps">BYU</span>)
+    - Heather Pitts (<span class="caps">BYU</span>)
+
+- title: "The Best Business Resources in the Best Business Topics: Marketing"
+  type: presentation
+  date: 2004-05-01
+  conference: Utah Library Association’s Annual Conference
+  location: Ogden, <span class="caps">UT</span>
+  co-presenters:
+    - Leticia Camacho (<span class="caps">BYU</span>)
