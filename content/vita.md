@@ -87,7 +87,7 @@ Provo, <span class="caps">UT</span> 84602
 <ul>
 {% for publication in site.data.publications %}
 <li>
-    {% include citation.html %}
+    {% include citation.html webpage="vita"%}
 </li>
 {%- endfor -%}
 </ul>

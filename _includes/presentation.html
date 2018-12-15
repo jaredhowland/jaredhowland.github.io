@@ -40,6 +40,6 @@
     {%- endfor -%}
 {%- endif -%}
 
-{%- if site.presentation-plumx and presentation.bepress-id -%}
+{%- if site.presentation-plumx and presentation.bepress-id and include.webpage != "vita" -%}
     {{ "" }}<a href="https://plu.mx/plum/a/?bepress_url_id={{ presentation.bepress-id | url_encode }}" data-popup="right" data-badge="true" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">{{ presentation.title }}</a>
 {%- endif -%}
