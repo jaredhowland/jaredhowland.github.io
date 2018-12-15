@@ -221,6 +221,7 @@ footer {
 
   [class^="icon-"]:before, [class*=" icon-"]:before { // social media icons custom color on hover
     margin-right: .25rem;
+    color: $body-color;
     &:hover {
       color: $link-hover-color;
     }
