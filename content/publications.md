@@ -7,7 +7,7 @@ permalink: /publications/
 
 {% for publication in site.data.publications %}
 
-{% if publication.slug %}
+{% if publication.slug and publication.draft != true %}
 
 <h2><a href="{{ publication.slug }}/">{{ publication.title }}</a></h2>
 
