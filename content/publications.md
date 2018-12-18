@@ -17,8 +17,8 @@ permalink: /publications/
 
 {% endif %}
 
-**Abstract:** {{ publication.abstract }}
-
 **Citation Information:** {% include citation.html webpage="publications" %}
+
+**Abstract:** {{ publication.abstract }}
 
 {%- endfor -%}
