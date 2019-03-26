@@ -175,7 +175,7 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 ## Committee/Task Force Assignments ##
 
 ### Current Assignments ###
-* 2018–Present: Library Assessment Committee - Member
+* 2018–Present: User Studies and Assessment Team - Member
 * 2018–Present: [<span class="caps">ALCTS</span>: Collection Management Section Planning Committee][15] – Member
 * 2017–Present: [Utah Library Association <span class="caps">ACRL</span> Roundtable][16] - Chair (Vice Chair, 2017)
 * 2017–Present: [Acquisition Managers and Vendors Interest Group of the American Library Association][17] - Co-chair
