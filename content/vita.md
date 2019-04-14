@@ -44,7 +44,7 @@ Provo, <span class="caps">UT</span> 84602
 
 *Subject Librarian – Recreation Management & Youth Leadership*
 
-* Taugh library instruction courses for undergraduate and graduate students
+* Taught library instruction courses for undergraduate and graduate students
 * Collected Recreation Management library materials
 * Managed collection development budget
 
