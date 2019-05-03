@@ -11,4 +11,4 @@ I’m excited for the opportunity to interview for the Senior Information Resour
 
 * [Presentation]({{ site.url }}/assets/images/presentations/files/ua/presentation.pdf)
 * [Cover Letter]({{ site.url }}/assets/images/presentations/files/ua/cover-letter.pdf)
-* Curriculum Vitae ([PDF]({{ site.url }}/assets/images/presentations/files/ua/vita.pdf)) | ([HTML]({{ site.url }}/vita/))
+* Curriculum Vitae: [PDF]({{ site.url }}/assets/images/presentations/files/ua/vita.pdf) | [HTML]({{ site.url }}/vita/)
