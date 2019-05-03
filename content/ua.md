@@ -9,6 +9,6 @@ Hi, I’m Jared.
 
 I’m excited for the opportunity to interview for the Senior Information Resources Officer position here at the University of Arizona Libraries! Please take a look around to learn more about my qualifications.
 
-* [Presentation]({{ site.url }}/assets/images/presentations/files/ua/presentation.pdf
-* [Cover Letter]({{ site.url }}/assets/images/presentations/files/ua/cover-letter.pdf
-* [Curriculum Vitae]({{ site.url }}/assets/images/presentations/files/ua/vita.pdf
+* [Presentation]({{ site.url }}/assets/images/presentations/files/ua/presentation.pdf)
+* [Cover Letter]({{ site.url }}/assets/images/presentations/files/ua/cover-letter.pdf)
+* [Curriculum Vitae]({{ site.url }}/assets/images/presentations/files/ua/vita.pdf)
