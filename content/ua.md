@@ -2,7 +2,7 @@
 title: UA | Senior Information Resources Officer
 permalink: /ua/
 ---
-<img src="{{ site.url }}/assets/images/ua.svg" alt="University of Arizona" title="University of Arizona" width="200" height="200" class="pull-left">
+<img src="{{ site.url }}/assets/images/ua.svg" alt="University of Arizona" title="University of Arizona" width="100" height="100" class="pull-left">
 
 Hi, I’m Jared.
 --------------
