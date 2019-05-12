@@ -6,6 +6,10 @@ permalink: /projects/
 # Projects
 A more complete list of my projects can be found on my [Vitae][1].
 
+## [Omeka S Module: AnyCloud][7]
+### 2019–Present
+Creating a module for the open source digital asset management system Omeka S to allow libraries to store their content on the platform of their choosing: the server the system is installed on or their choice of cloud services (Amazon S3, Microsoft Azure Storage, Google Cloud Storage, DigitalOcean Spaces, Scaleway Object Storage, Rackspace Files, or Dropbox). <a class="watch btn" href="https://github.com/HBLL-Collection-Development/omeka-s-any-cloud"><i class="icon-github"></i> View Project on GitHub</a>
+
 ## [Data Management System][6]
 ### 2017–Present
 
@@ -39,3 +43,4 @@ I created a database that allows us to determine the number of places we have ac
 [4]: https://github.com/HBLL-Collection-Development/scopus-api
 [5]: https://ualc.byu.edu
 [6]: {{ site.url }}/presentations/small-data-erl/
+[7]: https://omeka.org/s/modules/AnyCloud/
