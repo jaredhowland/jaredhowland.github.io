@@ -31,7 +31,7 @@ I presented this to <span class="caps">UALC</span> who then decided to use this 
 
 Scopus is an abstract and citation database created by Elsevier. It incorporates important bibliometric data about publications (journal articles, books, and other published materials) to help researchers find high-quality research. It is also used to help researchers determine the relative strength of the publications they wish to submit manuscripts and to track various measures of quality of their existing publications.
 
-This unofficial <span class="caps">PHP SDK</span> makes it easy for institutions to integrate the quality metrics into their websites, personal vitae, and institutional repositories. As of 9 April 2019, this has been used in at least 27 projects at various institutions. <a class="watch btn" href="https://github.com/HBLL-Collection-Development/scopus-api"><i class="icon-github"></i> View Project on GitHub</a>
+This unofficial <span class="caps">PHP SDK</span> makes it easy for institutions to integrate the quality metrics into their websites, personal vitae, and institutional repositories. As of 11 May 2019, this has been used in at least 30 projects at various institutions. <a class="watch btn" href="https://github.com/HBLL-Collection-Development/scopus-api"><i class="icon-github"></i> View Project on GitHub</a>
 
 ## [Journal Assessment Tool][2]
 ### 2009–Present
