@@ -105,7 +105,7 @@ Provo, <span class="caps">UT</span> 84602
 
 ### Ongoing ###
 * **Omeka S Module: AnyCloud**: 2019–Present
-Creating a module for the open source digital asset management system to allow libraries to store their content on the platform of their choosing: the server the system is installed on or their choice of cloud services (Amazon S3, Microsoft Azure Storage, Google Cloud Storage, DigitalOcean Spaces, Scaleway Object Storage, Rackspace Files, or Dropbox).
+Creating a module for the open source digital asset management system Omeka S to allow libraries to store their content on the platform of their choosing: the server the system is installed on or their choice of cloud services (Amazon S3, Microsoft Azure Storage, Google Cloud Storage, DigitalOcean Spaces, Scaleway Object Storage, Rackspace Files, or Dropbox).
 * **Data Management System**: 2017–Present  
 Creating a system to store and use data to help us evaluate and assess our collections in an organized and meaningful way.
 * **Collection Development Suite**: 2017–Present  
