@@ -6,6 +6,10 @@ permalink: /projects/
 # Projects
 A more complete list of my projects can be found on my [Vitae][1].
 
+## [Omeka S Module: AnyCloud][7]
+### 2019–Present
+Creating a module for the open source digital asset management system Omeka S to allow libraries to store their content on the platform of their choosing: the server the system is installed on or their choice of cloud services (Amazon S3, Microsoft Azure Storage, Google Cloud Storage, DigitalOcean Spaces, Scaleway Object Storage, Rackspace Files, or Dropbox). <a class="watch btn" href="https://github.com/HBLL-Collection-Development/omeka-s-any-cloud"><i class="icon-github"></i> View Project on GitHub</a>
+
 ## [Data Management System][6]
 ### 2017–Present
 
@@ -27,7 +31,7 @@ I presented this to <span class="caps">UALC</span> who then decided to use this 
 
 Scopus is an abstract and citation database created by Elsevier. It incorporates important bibliometric data about publications (journal articles, books, and other published materials) to help researchers find high-quality research. It is also used to help researchers determine the relative strength of the publications they wish to submit manuscripts and to track various measures of quality of their existing publications.
 
-This unofficial <span class="caps">PHP SDK</span> makes it easy for institutions to integrate the quality metrics into their websites, personal vitae, and institutional repositories. As of 9 April 2019, this has been used in at least 27 projects at various institutions. <a class="watch btn" href="https://github.com/HBLL-Collection-Development/scopus-api"><i class="icon-github"></i> View Project on GitHub</a>
+This unofficial <span class="caps">PHP SDK</span> makes it easy for institutions to integrate the quality metrics into their websites, personal vitae, and institutional repositories. As of 11 May 2019, this has been used in at least 30 projects at various institutions. <a class="watch btn" href="https://github.com/HBLL-Collection-Development/scopus-api"><i class="icon-github"></i> View Project on GitHub</a>
 
 ## [Journal Assessment Tool][2]
 ### 2009–Present
@@ -39,3 +43,4 @@ I created a database that allows us to determine the number of places we have ac
 [4]: https://github.com/HBLL-Collection-Development/scopus-api
 [5]: https://ualc.byu.edu
 [6]: {{ site.url }}/presentations/small-data-erl/
+[7]: https://omeka.org/s/modules/AnyCloud/

@@ -104,6 +104,8 @@ Provo, <span class="caps">UT</span> 84602
 ## Creative Projects  ##
 
 ### Ongoing ###
+* **Omeka S Module – AnyCloud**: 2019–Present  
+Creating a module for the open source digital asset management system Omeka S to allow libraries to store their content on the platform of their choosing: the server the system is installed on or their choice of cloud services (Amazon S3, Microsoft Azure Storage, Google Cloud Storage, DigitalOcean Spaces, Scaleway Object Storage, Rackspace Files, or Dropbox).
 * **Data Management System**: 2017–Present  
 Creating a system to store and use data to help us evaluate and assess our collections in an organized and meaningful way.
 * **Collection Development Suite**: 2017–Present  
@@ -115,7 +117,7 @@ Created a database that allowed us to determine the number of places we had acce
 * **<span class="caps">UALC</span> Resource Tracking System**: 2017–2018  
 Created a system for the Utah Academic Library Consortium (<span class="caps">UALC</span>) to track licensing, pricing, usage, and other data about the resources licensed for consortia members.
 * **Unofficial Scopus <span class="caps">PHP SDK</span>**: 2017  
-I wrote an unofficial <span class="caps">PHP SDK</span> for the Elsevier Scopus <span class="caps">API</span>. This has been shared on Github for other libraries to use and has been used in at least 27 projects at various institutions (as of 9 April 2019).
+I wrote an unofficial <span class="caps">PHP SDK</span> for the Elsevier Scopus <span class="caps">API</span>. This has been shared on Github for other libraries to use and has been used in at least 30 projects at various institutions (as of 11 May 2019).
 * **Journal Retention and Cancellation**: 2016–2017  
 Working with campus community and the Library <span class="caps">IT</span> department to create a process for collectively and collaboratively deciding on which journals to retain and which to cancel. Writing extensive resources and communications to ensure everyone is up-to-date on the latest information.
 * **<span class="caps">OCLC</span> Web Services Library Wrapper**: 2014–2017  
