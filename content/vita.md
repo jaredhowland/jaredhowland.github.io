@@ -126,8 +126,8 @@ I wrote a library wrapper to make it easier for the library community to use <sp
 I created a web service to track fund code assignments to subject librarians and to map call numbers to the fund code they are most likely associated with.
 * **Lettering Software**: 2014  
 Created lettering software that significantly increased the throughput capability of lettering and allowed us to finish a media reclassification process months sooner than would otherwise have been possible. This has been shared on Github and is available for other libraries to use.
-* **MARC Record Loader**: 2013  
-Created a system that allowed loading MARC records into the library’s ScholarSearch system which significantly streamlined the process and essentially eliminated patron reports of problems with records in the system.
+* **<span class="caps">MARC</span> Record Loader**: 2013  
+Created a system that allowed loading <span class="caps">MARC</span> records into the library’s ScholarSearch system which significantly streamlined the process and essentially eliminated patron reports of problems with records in the system.
 * **Book Assessment Tool**: 2012–2013  
 Creating a database that is the corollary of the journal assessment tool for the library’s eBook collection.
 * **Barcode Generating Service for Auxiliary Storage**: 2011  
@@ -138,8 +138,8 @@ Proposed and planned the development of a collection development database that w
 Implemented MetaLib, a federated search tool for the <span class="caps">LDS</span> Business College Library, <span class="caps">BYU</span>-Idaho Library and <span class="caps">BYU</span>-Hawaii Library.
 * **License Agreement Electronic Repository**: 2006–2009  
 Used the D-Space system to store all license agreements, invoices and various communications with vendors which allowed for searching for individual license agreements and made it easier for the University Copyright Licensing and Interlibrary Loan Offices to find out about all of the library’s licensed rights for electronic resources.
-* **RSS Feed for New Electronic Resources**: 2009  
-Created an RSS feed that automatically updates with the electronic resources that have been added to the library’s A–Z page in the last 3 months.
+* **<span class="caps">RSS</span> Feed for New Electronic Resources**: 2009  
+Created an <span class="caps">RSS</span> feed that automatically updates with the electronic resources that have been added to the library’s A–Z page in the last 3 months.
 * **Facebook Application**: 2009  
 Created a Facebook application that searched ScholarSearch and allowed for manipulation of the results by saving to a folder.
 * **iPhone Web Application**: 2009  
