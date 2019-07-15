@@ -263,6 +263,11 @@ footer {
   float: right;
 }
 
+.small {
+  font-size: .8rem;
+  color: $muted;
+}
+
 @media screen and (min-width: 30rem) {
   body {
     font-size: 1.125rem;
