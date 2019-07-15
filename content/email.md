@@ -11,4 +11,4 @@ Treat all email responses like text messages, using as few words as possible to 
 
 This is a personal policy that all email responses, regardless of recipient or subject, will be as short as possible. It’s that simple and is not intended to be rude or dismissive.
 
-<small>Inspired by <a href="http://five.sentenc.es">http://five.sentenc.es</a></small>
+<p class="small">Inspired by <a href="http://five.sentenc.es">http://five.sentenc.es</a></p>
