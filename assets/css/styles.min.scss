@@ -255,6 +255,10 @@ footer {
   display: none;
 }
 
+.muted {
+  color: $muted;
+}
+
 .pull-left {
   float: left;
 }
@@ -265,7 +269,6 @@ footer {
 
 .small {
   font-size: .8rem;
-  color: $muted;
 }
 
 @media screen and (min-width: 30rem) {
