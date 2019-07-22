@@ -177,6 +177,7 @@ Implemented a Journals A–Z list, OpenURL link resolver, and an Electronic Reso
 ## Committee/Task Force Assignments ##
 
 ### Current Assignments ###
+* 2019–Present: Technical Services Rank and Status Committee - Member
 * 2018–Present: EBSCO Books Advisory Board - Member
 * 2018–Present: User Studies and Assessment Team - Member
 * 2018–Present: [<span class="caps">ALCTS</span>: Collection Management Section Planning Committee][15] – Member
