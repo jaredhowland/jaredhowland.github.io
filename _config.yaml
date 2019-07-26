@@ -21,6 +21,8 @@ presentation-plumx: false
 publication-plumx: false
 ga-tracking-code: "UA-15180577-1"
 ga-domain-name: "jaredhowland.com"
+matomo-url: "https://www.jaredhowland.com"
+matomo-id: "2"
 
 defaults:
   - scope:
