@@ -4,15 +4,15 @@
       given: Jared L.
     - surname: Schroeder
       given: Rebecca
-  year: accepted peer-reviewed conference paper 2019
+  year: 2019
   title: Library Space Transformed
   journal-title: Charleston Library Conference
   abstract: |
     Beginning in the fall of 2017, the Harold B. Lee Library at Brigham Young University undertook a project to assess our science collections due to a planned expansion of our library information technology department. Our teams evaluated 18,578 shelves of content and decided to either 1) keep an item on the shelf, or 2) move it to on-site auxiliary storage, or 3) withdraw it. They worked with fellow subject librarians and faculty around campus to communicate about the work being done and offer opportunities to review the potential withdraw material before it left the building.
 
     Despite the need to make space for the expansion, the primary goal of the project was to strengthen our collections through meaningful assessments and data-driven decisions and not simply make enough space for the expansion. In the end, because of our focus on improved collections, we were able to accommodate the expansion and simultaneously significantly improve the collections remaining on the shelves. In the end, we withdrew 131,476 monographic records and 4,145 serial records. We moved 16,643 monographic and 3,809 serial items to on-site auxiliary storage.
+  doi: 10.5703/1288284317008
   slug: library-space-transformed
-  draft: true
 
 - type: article
   authors:
