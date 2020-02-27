@@ -1,10 +1,10 @@
 ---
 sitemap:
-  exclude: 'yes'
+exclude: 'yes'
 ---
 // Fonts
 // -------------------------
-$body-font:    "Crimson Pro", "Minion Pro", "Hoefler Text", Georgia, serif;
+$body-font:    Crimson, "Minion Pro", "Hoefler Text", Georgia, serif;
 $heading-font: $body-font;
 
 // Colors
@@ -273,13 +273,13 @@ footer {
 
 @media screen and (min-width: 30rem) {
   body {
-    font-size: 1.25rem;
-    line-height: 1.5;
+    font-size: 1.125rem;
+    line-height: 1.6875;
   }
 
   header {
     h1 {
-      font-size: 3.5rem;
+      font-size: 3rem;
     }
   }
 
@@ -297,8 +297,8 @@ footer {
 
 @media screen and (min-width: 48rem) {
   body {
-    font-size: 1.5rem;
-    line-height: 1.6;
+    font-size: 1.25rem;
+    line-height: 1.75;
   }
 
   header h1,
